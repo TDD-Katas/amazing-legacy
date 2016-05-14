@@ -13,6 +13,10 @@ public class Amazing {
     public static Random random = new Random(0);
     public static StringBuffer result = new StringBuffer();
 
+    public Amazing(int seed){
+        random = new Random(seed);
+    }
+
     private static void clear() {
         result.setLength(0);
     }

@@ -104,7 +104,7 @@ public class AmazingTest {
     }
 
     public String generateMaze(Integer seed, Integer numberOfColumns, Integer numberOfRow) {
-        Amazing.random = new Random(seed);
+        Amazing amaze = new Amazing(seed);
         Amazing.doit(numberOfColumns, numberOfRow);
         return Amazing.result.toString();
     }
