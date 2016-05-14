@@ -1,12 +1,14 @@
 package ro.bad;
 
-import jdk.Exported;
+import org.approvaltests.legacycode.LegacyApprovals;
 import org.junit.Ignore;
 import org.junit.Test;
 
 import java.util.Random;
+import java.util.stream.Collectors;
+import java.util.stream.IntStream;
 
-import static org.junit.Assert.*;
+import static org.junit.Assert.assertEquals;
 
 public class AmazingTest {
 
@@ -83,46 +85,27 @@ public class AmazingTest {
     }
 
     @Test
-    public void test_explore() {
-        generateMaze(1, 2, 1);
-        generateMaze(1, 1, 2);
-        generateMaze(1, 1, 1);
-        generateMaze(79, 166, 54);
-
-        for (int i = 1; i < 10; i++) {
-            generateMaze(i, 166, 54);
-        }
-
-        for (int i=1; i < 10; i++){
-            generateMaze(45, 34, i);
-        }
-
-        for (int i=1; i < 10; i++){
-            generateMaze(45, i, 50);
-        }
+    public void test_lockdown() throws Exception {
+        LegacyApprovals.LockDown(this, "generateMaze",
+                range(1, 10),
+                range(1, 10),
+                range(1, 10));
     }
 
     @Test(expected = ArrayIndexOutOfBoundsException.class)
     public void test_explore_02() {
         generateMaze(79, 0, 54);
-
-        System.out.println(Amazing.result.toString());
-//        assertEquals("Should have the maze that was expected", expected, Amazing.result.toString());
-
     }
-
-    @Test
-    public void test_explore_targeted_01() {
-        generateMaze(1, 4, 4);
-
-        // 340 <- 330
-    }
-
 
     //~~~ Helper
 
-    private static void generateMaze(int seed, int numberOfColumns, int numberOfRow) {
+    private static  Object[] range(int startInclusive, int endExclusive) {
+        return IntStream.range(startInclusive, endExclusive).boxed().toArray();
+    }
+
+    public String generateMaze(Integer seed, Integer numberOfColumns, Integer numberOfRow) {
         Amazing.random = new Random(seed);
         Amazing.doit(numberOfColumns, numberOfRow);
+        return Amazing.result.toString();
     }
 }

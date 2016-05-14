@@ -1,0 +1,6958 @@
+[1, 1, 1] = Amazing - Copyright by Creative Computing, Morristown, NJ
+ 
+[2, 1, 1] = Amazing - Copyright by Creative Computing, Morristown, NJ
+ 
+[3, 1, 1] = Amazing - Copyright by Creative Computing, Morristown, NJ
+ 
+[4, 1, 1] = Amazing - Copyright by Creative Computing, Morristown, NJ
+ 
+[5, 1, 1] = Amazing - Copyright by Creative Computing, Morristown, NJ
+ 
+[6, 1, 1] = Amazing - Copyright by Creative Computing, Morristown, NJ
+ 
+[7, 1, 1] = Amazing - Copyright by Creative Computing, Morristown, NJ
+ 
+[8, 1, 1] = Amazing - Copyright by Creative Computing, Morristown, NJ
+ 
+[9, 1, 1] = Amazing - Copyright by Creative Computing, Morristown, NJ
+ 
+[1, 2, 1] = Amazing - Copyright by Creative Computing, Morristown, NJ
+ 
+[2, 2, 1] = Amazing - Copyright by Creative Computing, Morristown, NJ
+ 
+[3, 2, 1] = Amazing - Copyright by Creative Computing, Morristown, NJ
+ 
+[4, 2, 1] = Amazing - Copyright by Creative Computing, Morristown, NJ
+ 
+[5, 2, 1] = Amazing - Copyright by Creative Computing, Morristown, NJ
+ 
+[6, 2, 1] = Amazing - Copyright by Creative Computing, Morristown, NJ
+ 
+[7, 2, 1] = Amazing - Copyright by Creative Computing, Morristown, NJ
+ 
+[8, 2, 1] = Amazing - Copyright by Creative Computing, Morristown, NJ
+ 
+[9, 2, 1] = Amazing - Copyright by Creative Computing, Morristown, NJ
+ 
+[1, 3, 1] = Amazing - Copyright by Creative Computing, Morristown, NJ
+ 
+[2, 3, 1] = Amazing - Copyright by Creative Computing, Morristown, NJ
+ 
+[3, 3, 1] = Amazing - Copyright by Creative Computing, Morristown, NJ
+ 
+[4, 3, 1] = Amazing - Copyright by Creative Computing, Morristown, NJ
+ 
+[5, 3, 1] = Amazing - Copyright by Creative Computing, Morristown, NJ
+ 
+[6, 3, 1] = Amazing - Copyright by Creative Computing, Morristown, NJ
+ 
+[7, 3, 1] = Amazing - Copyright by Creative Computing, Morristown, NJ
+ 
+[8, 3, 1] = Amazing - Copyright by Creative Computing, Morristown, NJ
+ 
+[9, 3, 1] = Amazing - Copyright by Creative Computing, Morristown, NJ
+ 
+[1, 4, 1] = Amazing - Copyright by Creative Computing, Morristown, NJ
+ 
+[2, 4, 1] = Amazing - Copyright by Creative Computing, Morristown, NJ
+ 
+[3, 4, 1] = Amazing - Copyright by Creative Computing, Morristown, NJ
+ 
+[4, 4, 1] = Amazing - Copyright by Creative Computing, Morristown, NJ
+ 
+[5, 4, 1] = Amazing - Copyright by Creative Computing, Morristown, NJ
+ 
+[6, 4, 1] = Amazing - Copyright by Creative Computing, Morristown, NJ
+ 
+[7, 4, 1] = Amazing - Copyright by Creative Computing, Morristown, NJ
+ 
+[8, 4, 1] = Amazing - Copyright by Creative Computing, Morristown, NJ
+ 
+[9, 4, 1] = Amazing - Copyright by Creative Computing, Morristown, NJ
+ 
+[1, 5, 1] = Amazing - Copyright by Creative Computing, Morristown, NJ
+ 
+[2, 5, 1] = Amazing - Copyright by Creative Computing, Morristown, NJ
+ 
+[3, 5, 1] = Amazing - Copyright by Creative Computing, Morristown, NJ
+ 
+[4, 5, 1] = Amazing - Copyright by Creative Computing, Morristown, NJ
+ 
+[5, 5, 1] = Amazing - Copyright by Creative Computing, Morristown, NJ
+ 
+[6, 5, 1] = Amazing - Copyright by Creative Computing, Morristown, NJ
+ 
+[7, 5, 1] = Amazing - Copyright by Creative Computing, Morristown, NJ
+ 
+[8, 5, 1] = Amazing - Copyright by Creative Computing, Morristown, NJ
+ 
+[9, 5, 1] = Amazing - Copyright by Creative Computing, Morristown, NJ
+ 
+[1, 6, 1] = Amazing - Copyright by Creative Computing, Morristown, NJ
+ 
+[2, 6, 1] = Amazing - Copyright by Creative Computing, Morristown, NJ
+ 
+[3, 6, 1] = Amazing - Copyright by Creative Computing, Morristown, NJ
+ 
+[4, 6, 1] = Amazing - Copyright by Creative Computing, Morristown, NJ
+ 
+[5, 6, 1] = Amazing - Copyright by Creative Computing, Morristown, NJ
+ 
+[6, 6, 1] = Amazing - Copyright by Creative Computing, Morristown, NJ
+ 
+[7, 6, 1] = Amazing - Copyright by Creative Computing, Morristown, NJ
+ 
+[8, 6, 1] = Amazing - Copyright by Creative Computing, Morristown, NJ
+ 
+[9, 6, 1] = Amazing - Copyright by Creative Computing, Morristown, NJ
+ 
+[1, 7, 1] = Amazing - Copyright by Creative Computing, Morristown, NJ
+ 
+[2, 7, 1] = Amazing - Copyright by Creative Computing, Morristown, NJ
+ 
+[3, 7, 1] = Amazing - Copyright by Creative Computing, Morristown, NJ
+ 
+[4, 7, 1] = Amazing - Copyright by Creative Computing, Morristown, NJ
+ 
+[5, 7, 1] = Amazing - Copyright by Creative Computing, Morristown, NJ
+ 
+[6, 7, 1] = Amazing - Copyright by Creative Computing, Morristown, NJ
+ 
+[7, 7, 1] = Amazing - Copyright by Creative Computing, Morristown, NJ
+ 
+[8, 7, 1] = Amazing - Copyright by Creative Computing, Morristown, NJ
+ 
+[9, 7, 1] = Amazing - Copyright by Creative Computing, Morristown, NJ
+ 
+[1, 8, 1] = Amazing - Copyright by Creative Computing, Morristown, NJ
+ 
+[2, 8, 1] = Amazing - Copyright by Creative Computing, Morristown, NJ
+ 
+[3, 8, 1] = Amazing - Copyright by Creative Computing, Morristown, NJ
+ 
+[4, 8, 1] = Amazing - Copyright by Creative Computing, Morristown, NJ
+ 
+[5, 8, 1] = Amazing - Copyright by Creative Computing, Morristown, NJ
+ 
+[6, 8, 1] = Amazing - Copyright by Creative Computing, Morristown, NJ
+ 
+[7, 8, 1] = Amazing - Copyright by Creative Computing, Morristown, NJ
+ 
+[8, 8, 1] = Amazing - Copyright by Creative Computing, Morristown, NJ
+ 
+[9, 8, 1] = Amazing - Copyright by Creative Computing, Morristown, NJ
+ 
+[1, 9, 1] = Amazing - Copyright by Creative Computing, Morristown, NJ
+ 
+[2, 9, 1] = Amazing - Copyright by Creative Computing, Morristown, NJ
+ 
+[3, 9, 1] = Amazing - Copyright by Creative Computing, Morristown, NJ
+ 
+[4, 9, 1] = Amazing - Copyright by Creative Computing, Morristown, NJ
+ 
+[5, 9, 1] = Amazing - Copyright by Creative Computing, Morristown, NJ
+ 
+[6, 9, 1] = Amazing - Copyright by Creative Computing, Morristown, NJ
+ 
+[7, 9, 1] = Amazing - Copyright by Creative Computing, Morristown, NJ
+ 
+[8, 9, 1] = Amazing - Copyright by Creative Computing, Morristown, NJ
+ 
+[9, 9, 1] = Amazing - Copyright by Creative Computing, Morristown, NJ
+ 
+[1, 1, 2] = Amazing - Copyright by Creative Computing, Morristown, NJ
+ 
+[2, 1, 2] = Amazing - Copyright by Creative Computing, Morristown, NJ
+ 
+[3, 1, 2] = Amazing - Copyright by Creative Computing, Morristown, NJ
+ 
+[4, 1, 2] = Amazing - Copyright by Creative Computing, Morristown, NJ
+ 
+[5, 1, 2] = Amazing - Copyright by Creative Computing, Morristown, NJ
+ 
+[6, 1, 2] = Amazing - Copyright by Creative Computing, Morristown, NJ
+ 
+[7, 1, 2] = Amazing - Copyright by Creative Computing, Morristown, NJ
+ 
+[8, 1, 2] = Amazing - Copyright by Creative Computing, Morristown, NJ
+ 
+[9, 1, 2] = Amazing - Copyright by Creative Computing, Morristown, NJ
+ 
+[1, 2, 2] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:  :
+I  I  I 
+:  :--:
+I  I  I 
+:--:--:
+ 
+[2, 2, 2] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:  :
+I  I  I 
+:  :--:
+I  I  I 
+:--:--:
+ 
+[3, 2, 2] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:  :
+I     I 
+:--:  :
+I     I 
+:  :--:
+ 
+[4, 2, 2] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:  :
+I     I 
+:  :  :
+I  I  I 
+:--:  :
+ 
+[5, 2, 2] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:  :
+I  I  I 
+:  :--:
+I  I  I 
+:--:--:
+ 
+[6, 2, 2] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:  :
+I  I  I 
+:  :--:
+I  I  I 
+:--:--:
+ 
+[7, 2, 2] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:  :
+I     I 
+:  :  :
+I  I  I 
+:--:  :
+ 
+[8, 2, 2] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:  :
+I     I 
+:  :  :
+I  I  I 
+:--:  :
+ 
+[9, 2, 2] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:  :
+I  I  I 
+:  :--:
+I  I  I 
+:--:--:
+ 
+[1, 3, 2] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:  :
+I  I     I 
+:  :  :--:
+I  I  I  I 
+:--:--:--:
+ 
+[2, 3, 2] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:  :
+I  I     I 
+:  :  :  :
+I     I  I 
+:--:--:--:
+ 
+[3, 3, 2] = java.lang.reflect.InvocationTargetException 
+[4, 3, 2] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:  :
+I  I     I 
+:  :  :  :
+I     I  I 
+:--:--:  :
+ 
+[5, 3, 2] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:  :
+I  I     I 
+:  :  :--:
+I  I  I  I 
+:--:--:--:
+ 
+[6, 3, 2] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:  :
+I        I 
+:--:  :--:
+I        I 
+:  :--:--:
+ 
+[7, 3, 2] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:  :
+I        I 
+:  :--:  :
+I     I  I 
+:--:--:  :
+ 
+[8, 3, 2] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:  :
+I        I 
+:  :--:  :
+I     I  I 
+:--:--:  :
+ 
+[9, 3, 2] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:  :
+I        I 
+:  :  :--:
+I  I     I 
+:--:  :--:
+ 
+[1, 4, 2] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:  :--:
+I  I  I     I 
+:  :  :--:--:
+I  I  I  I  I 
+:--:--:--:--:
+ 
+[2, 4, 2] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:  :--:
+I  I        I 
+:  :  :  :--:
+I     I  I  I 
+:--:--:--:--:
+ 
+[3, 4, 2] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:  :--:
+I           I 
+:  :--:--:  :
+I     I     I 
+:--:--:  :--:
+ 
+[4, 4, 2] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:  :--:
+I  I        I 
+:  :  :  :  :
+I     I  I  I 
+:--:--:  :--:
+ 
+[5, 4, 2] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:  :--:
+I  I  I  I  I 
+:  :  :  :--:
+I  I  I  I  I 
+:--:--:--:--:
+ 
+[6, 4, 2] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:  :--:
+I           I 
+:  :  :--:  :
+I  I     I  I 
+:--:--:--:  :
+ 
+[7, 4, 2] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:  :--:
+I           I 
+:  :--:--:  :
+I        I  I 
+:--:--:--:  :
+ 
+[8, 4, 2] = java.lang.reflect.InvocationTargetException 
+[9, 4, 2] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:  :--:
+I        I  I 
+:  :  :--:  :
+I  I        I 
+:--:  :--:--:
+ 
+[1, 5, 2] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:--:  :--:
+I  I  I  I  I  I 
+:  :  :  :--:--:
+I  I  I  I  I  I 
+:--:--:--:--:--:
+ 
+[2, 5, 2] = java.lang.reflect.InvocationTargetException 
+[3, 5, 2] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:--:  :--:
+I              I 
+:  :  :--:--:  :
+I  I     I     I 
+:--:--:--:  :--:
+ 
+[4, 5, 2] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:--:  :--:
+I     I        I 
+:  :--:  :  :  :
+I        I  I  I 
+:--:--:--:  :--:
+ 
+[5, 5, 2] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:--:  :--:
+I  I     I     I 
+:--:  :  :  :  :
+I  I     I  I  I 
+:--:--:--:--:--:
+ 
+[6, 5, 2] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:--:  :--:
+I              I 
+:  :--:  :--:  :
+I     I     I  I 
+:--:--:--:--:  :
+ 
+[7, 5, 2] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:--:  :--:
+I              I 
+:  :--:--:--:  :
+I           I  I 
+:--:--:--:--:  :
+ 
+[8, 5, 2] = java.lang.reflect.InvocationTargetException 
+[9, 5, 2] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:--:  :--:
+I  I        I  I 
+:  :  :  :  :  :
+I     I  I     I 
+:--:--:  :--:--:
+ 
+[1, 6, 2] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:--:--:  :--:
+I  I  I  I     I  I 
+:  :  :  :  :--:--:
+I  I  I  I  I  I  I 
+:--:--:--:--:--:--:
+ 
+[2, 6, 2] = java.lang.reflect.InvocationTargetException 
+[3, 6, 2] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:--:--:  :--:
+I  I              I 
+:  :  :  :--:--:  :
+I     I     I     I 
+:--:--:--:--:  :--:
+ 
+[4, 6, 2] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:--:--:  :--:
+I     I  I        I 
+:  :  :  :  :  :  :
+I  I        I  I  I 
+:--:--:--:--:  :--:
+ 
+[5, 6, 2] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:--:--:  :--:
+I           I     I 
+:--:--:  :  :  :  :
+I  I  I     I  I  I 
+:--:--:--:--:--:  :
+ 
+[6, 6, 2] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:--:--:  :--:
+I                 I 
+:  :--:--:  :--:  :
+I        I     I  I 
+:--:--:--:--:--:  :
+ 
+[7, 6, 2] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:--:--:  :--:
+I                 I 
+:  :  :--:--:--:  :
+I  I           I  I 
+:--:--:--:--:--:  :
+ 
+[8, 6, 2] = java.lang.reflect.InvocationTargetException 
+[9, 6, 2] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:--:--:  :--:
+I     I        I  I 
+:  :  :  :  :--:  :
+I  I     I        I 
+:--:--:--:  :--:--:
+ 
+[1, 7, 2] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:--:--:--:  :--:
+I  I  I  I  I     I  I 
+:  :  :  :  :--:--:--:
+I  I  I  I  I  I  I  I 
+:--:--:--:--:--:--:--:
+ 
+[2, 7, 2] = java.lang.reflect.InvocationTargetException 
+[3, 7, 2] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:--:--:--:  :--:
+I     I              I 
+:  :--:  :  :--:--:  :
+I        I     I     I 
+:--:--:--:--:--:  :--:
+ 
+[4, 7, 2] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:--:--:--:  :--:
+I        I  I        I 
+:  :--:  :  :  :  :  :
+I     I        I  I  I 
+:--:--:--:--:--:  :--:
+ 
+[5, 7, 2] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:--:--:--:  :--:
+I  I           I     I 
+:--:  :--:  :  :  :  :
+I     I  I     I  I  I 
+:--:--:--:--:--:--:  :
+ 
+[6, 7, 2] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:--:--:--:  :--:
+I                    I 
+:  :--:--:--:  :--:  :
+I           I     I  I 
+:--:--:--:--:--:--:  :
+ 
+[7, 7, 2] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:--:--:--:  :--:
+I  I                 I 
+:  :  :  :--:--:--:  :
+I     I           I  I 
+:--:--:--:--:--:--:  :
+ 
+[8, 7, 2] = java.lang.reflect.InvocationTargetException 
+[9, 7, 2] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:--:--:--:  :--:
+I  I     I        I  I 
+:  :  :  :  :  :  :  :
+I     I     I  I     I 
+:--:--:--:--:  :--:--:
+ 
+[1, 8, 2] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:--:--:--:  :--:--:
+I  I  I  I  I  I  I  I  I 
+:  :  :  :  :  :--:--:--:
+I  I  I  I  I  I  I  I  I 
+:--:--:--:--:--:--:--:--:
+ 
+[2, 8, 2] = java.lang.reflect.InvocationTargetException 
+[3, 8, 2] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:--:--:--:  :--:--:
+I  I     I              I 
+:  :  :--:  :  :--:--:  :
+I           I        I  I 
+:--:--:--:--:--:--:--:  :
+ 
+[4, 8, 2] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:--:--:--:  :--:--:
+I           I  I     I  I 
+:  :--:--:  :  :  :  :  :
+I        I        I     I 
+:--:--:--:--:--:  :--:--:
+ 
+[5, 8, 2] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:--:--:--:  :--:--:
+I              I        I 
+:  :--:--:  :  :  :--:  :
+I     I  I     I  I  I  I 
+:--:--:--:--:--:--:--:  :
+ 
+[6, 8, 2] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:--:--:--:  :--:--:
+I              I     I  I 
+:  :--:--:--:  :--:  :  :
+I           I           I 
+:--:--:--:--:--:  :--:--:
+ 
+[7, 8, 2] = java.lang.reflect.InvocationTargetException 
+[8, 8, 2] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:--:--:--:  :--:--:
+I     I           I     I 
+:  :  :  :--:--:  :  :  :
+I  I           I     I  I 
+:--:--:--:--:--:--:--:  :
+ 
+[9, 8, 2] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:--:--:--:  :--:--:
+I  I     I        I     I 
+:  :  :  :  :  :  :--:  :
+I     I     I  I        I 
+:--:--:--:--:  :--:--:--:
+ 
+[1, 9, 2] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:--:--:--:--:  :--:--:
+I  I  I  I  I  I     I  I  I 
+:  :  :  :  :  :  :--:--:--:
+I  I  I  I  I  I  I  I  I  I 
+:--:--:--:--:--:--:--:--:--:
+ 
+[2, 9, 2] = java.lang.reflect.InvocationTargetException 
+[3, 9, 2] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:--:--:--:--:  :--:--:
+I     I     I              I 
+:  :--:  :--:  :  :--:--:  :
+I              I        I  I 
+:--:--:--:--:--:--:--:--:  :
+ 
+[4, 9, 2] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:--:--:--:--:  :--:--:
+I              I  I     I  I 
+:  :--:--:--:  :  :  :  :  :
+I           I        I     I 
+:--:--:--:--:--:--:  :--:--:
+ 
+[5, 9, 2] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:--:--:--:--:  :--:--:
+I  I              I        I 
+:--:  :--:--:  :  :  :--:  :
+I  I        I     I     I  I 
+:--:--:--:--:--:--:--:--:  :
+ 
+[6, 9, 2] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:--:--:--:--:  :--:--:
+I                 I     I  I 
+:  :  :--:--:--:  :--:  :  :
+I  I           I           I 
+:--:--:--:--:--:--:  :--:--:
+ 
+[7, 9, 2] = java.lang.reflect.InvocationTargetException 
+[8, 9, 2] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:--:--:--:--:  :--:--:
+I        I           I     I 
+:  :--:  :  :--:--:  :  :  :
+I     I           I     I  I 
+:--:--:--:--:--:--:--:--:  :
+ 
+[9, 9, 2] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:--:--:--:--:  :--:--:
+I     I     I        I     I 
+:  :  :  :  :  :  :--:--:  :
+I  I     I     I           I 
+:--:--:--:--:--:  :--:--:--:
+ 
+[1, 1, 3] = Amazing - Copyright by Creative Computing, Morristown, NJ
+ 
+[2, 1, 3] = Amazing - Copyright by Creative Computing, Morristown, NJ
+ 
+[3, 1, 3] = Amazing - Copyright by Creative Computing, Morristown, NJ
+ 
+[4, 1, 3] = Amazing - Copyright by Creative Computing, Morristown, NJ
+ 
+[5, 1, 3] = Amazing - Copyright by Creative Computing, Morristown, NJ
+ 
+[6, 1, 3] = Amazing - Copyright by Creative Computing, Morristown, NJ
+ 
+[7, 1, 3] = Amazing - Copyright by Creative Computing, Morristown, NJ
+ 
+[8, 1, 3] = Amazing - Copyright by Creative Computing, Morristown, NJ
+ 
+[9, 1, 3] = Amazing - Copyright by Creative Computing, Morristown, NJ
+ 
+[1, 2, 3] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:  :
+I     I 
+:  :--:
+I     I 
+:--:  :
+I     I 
+:--:--:
+ 
+[2, 2, 3] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:  :
+I     I 
+:  :--:
+I     I 
+:  :--:
+I  I  I 
+:--:--:
+ 
+[3, 2, 3] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:  :
+I  I  I 
+:  :  :
+I  I  I 
+:  :--:
+I  I  I 
+:--:--:
+ 
+[4, 2, 3] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:  :
+I     I 
+:  :  :
+I  I  I 
+:  :  :
+I  I  I 
+:--:  :
+ 
+[5, 2, 3] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:  :
+I     I 
+:  :--:
+I     I 
+:  :  :
+I  I  I 
+:--:  :
+ 
+[6, 2, 3] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:  :
+I     I 
+:  :--:
+I     I 
+:  :--:
+I  I  I 
+:--:--:
+ 
+[7, 2, 3] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:  :
+I  I  I 
+:  :  :
+I  I  I 
+:  :  :
+I     I 
+:--:--:
+ 
+[8, 2, 3] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:  :
+I  I  I 
+:  :  :
+I  I  I 
+:  :  :
+I     I 
+:--:--:
+ 
+[9, 2, 3] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:  :
+I     I 
+:  :--:
+I     I 
+:  :--:
+I  I  I 
+:--:--:
+ 
+[1, 3, 3] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:  :
+I        I 
+:  :--:--:
+I        I 
+:--:--:  :
+I        I 
+:--:--:--:
+ 
+[2, 3, 3] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:  :
+I  I     I 
+:  :  :  :
+I     I  I 
+:  :--:  :
+I     I  I 
+:--:--:  :
+ 
+[3, 3, 3] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:  :
+I        I 
+:  :--:  :
+I  I     I 
+:--:  :--:
+I        I 
+:  :--:--:
+ 
+[4, 3, 3] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:  :
+I        I 
+:--:  :  :
+I     I  I 
+:  :--:  :
+I     I  I 
+:--:--:  :
+ 
+[5, 3, 3] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:  :
+I        I 
+:  :--:--:
+I        I 
+:  :--:  :
+I  I  I  I 
+:--:--:--:
+ 
+[6, 3, 3] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:  :
+I  I     I 
+:  :  :  :
+I  I  I  I 
+:  :--:  :
+I  I  I  I 
+:--:--:--:
+ 
+[7, 3, 3] = java.lang.reflect.InvocationTargetException 
+[8, 3, 3] = java.lang.reflect.InvocationTargetException 
+[9, 3, 3] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:  :
+I        I 
+:  :  :--:
+I  I  I  I 
+:  :  :  :
+I  I     I 
+:--:  :--:
+ 
+[1, 4, 3] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:  :--:
+I        I  I 
+:  :--:--:  :
+I  I  I     I 
+:  :  :--:--:
+I  I  I  I  I 
+:--:--:--:--:
+ 
+[2, 4, 3] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:  :--:
+I  I     I  I 
+:  :  :  :  :
+I     I  I  I 
+:  :--:  :  :
+I  I        I 
+:--:  :--:--:
+ 
+[3, 4, 3] = java.lang.reflect.InvocationTargetException 
+[4, 4, 3] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:  :--:
+I           I 
+:  :--:  :  :
+I  I  I  I  I 
+:  :  :  :  :
+I     I  I  I 
+:--:--:  :--:
+ 
+[5, 4, 3] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:  :--:
+I           I 
+:  :--:--:  :
+I        I  I 
+:  :--:  :--:
+I  I  I     I 
+:--:--:--:  :
+ 
+[6, 4, 3] = java.lang.reflect.InvocationTargetException 
+[7, 4, 3] = java.lang.reflect.InvocationTargetException 
+[8, 4, 3] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:  :--:
+I     I  I  I 
+:  :--:  :  :
+I  I  I     I 
+:  :  :--:--:
+I  I  I  I  I 
+:--:--:--:--:
+ 
+[9, 4, 3] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:  :--:
+I        I  I 
+:  :  :--:  :
+I  I     I  I 
+:  :  :--:  :
+I  I        I 
+:--:  :--:--:
+ 
+[1, 5, 3] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:--:  :--:
+I              I 
+:  :--:--:--:  :
+I           I  I 
+:  :--:--:  :  :
+I        I  I  I 
+:--:--:--:  :--:
+ 
+[2, 5, 3] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:--:  :--:
+I     I     I  I 
+:  :  :  :--:--:
+I  I  I     I  I 
+:  :  :  :  :--:
+I  I  I  I  I  I 
+:--:--:--:--:--:
+ 
+[3, 5, 3] = java.lang.reflect.InvocationTargetException 
+[4, 5, 3] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:--:  :--:
+I  I           I 
+:  :  :  :  :  :
+I     I  I  I  I 
+:--:--:  :  :  :
+I        I  I  I 
+:--:--:--:  :--:
+ 
+[5, 5, 3] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:--:  :--:
+I           I  I 
+:  :  :--:--:  :
+I  I     I     I 
+:  :--:  :  :  :
+I     I     I  I 
+:--:--:--:  :--:
+ 
+[6, 5, 3] = java.lang.reflect.InvocationTargetException 
+[7, 5, 3] = java.lang.reflect.InvocationTargetException 
+[8, 5, 3] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:--:  :--:
+I        I  I  I 
+:  :--:  :  :  :
+I  I     I     I 
+:  :  :  :  :--:
+I  I     I  I  I 
+:  :--:--:--:--:
+ 
+[9, 5, 3] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:--:  :--:
+I  I        I  I 
+:  :  :  :  :  :
+I  I  I  I  I  I 
+:  :  :  :  :  :
+I     I  I     I 
+:--:--:  :--:--:
+ 
+[1, 6, 3] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:--:--:  :--:
+I              I  I 
+:  :--:--:  :--:  :
+I        I  I     I 
+:  :--:  :  :  :--:
+I     I  I        I 
+:--:--:  :--:--:--:
+ 
+[2, 6, 3] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:--:--:  :--:
+I  I     I     I  I 
+:  :  :  :  :  :  :
+I     I     I  I  I 
+:--:  :--:--:--:  :
+I                 I 
+:  :--:--:--:--:--:
+ 
+[3, 6, 3] = java.lang.reflect.InvocationTargetException 
+[4, 6, 3] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:--:--:  :--:
+I     I           I 
+:  :--:  :  :  :  :
+I        I  I  I  I 
+:--:--:--:  :  :  :
+I           I  I  I 
+:--:--:--:--:  :--:
+ 
+[5, 6, 3] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:--:--:  :--:
+I              I  I 
+:  :--:  :--:--:  :
+I     I     I     I 
+:  :  :--:  :--:  :
+I  I     I        I 
+:--:--:--:--:  :--:
+ 
+[6, 6, 3] = java.lang.reflect.InvocationTargetException 
+[7, 6, 3] = java.lang.reflect.InvocationTargetException 
+[8, 6, 3] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:--:--:  :--:
+I  I        I  I  I 
+:  :  :--:  :  :  :
+I  I  I     I     I 
+:  :  :  :  :--:--:
+I  I  I     I  I  I 
+:--:--:--:--:--:--:
+ 
+[9, 6, 3] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:--:--:  :--:
+I     I        I  I 
+:  :  :  :  :--:  :
+I  I  I  I  I     I 
+:  :  :  :  :  :  :
+I  I     I     I  I 
+:--:--:--:  :--:--:
+ 
+[1, 7, 3] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:--:--:--:  :--:
+I                 I  I 
+:  :--:  :--:--:--:  :
+I     I  I        I  I 
+:  :  :  :  :--:  :  :
+I  I  I     I        I 
+:--:  :--:--:--:--:--:
+ 
+[2, 7, 3] = java.lang.reflect.InvocationTargetException 
+[3, 7, 3] = java.lang.reflect.InvocationTargetException 
+[4, 7, 3] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:--:--:--:  :--:
+I        I           I 
+:  :  :--:  :--:  :  :
+I  I        I  I  I  I 
+:  :--:--:--:  :  :  :
+I              I  I  I 
+:--:--:--:--:--:  :--:
+ 
+[5, 7, 3] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:--:--:--:  :--:
+I                    I 
+:  :--:--:  :--:--:--:
+I  I     I     I     I 
+:  :--:  :  :  :  :  :
+I        I  I     I  I 
+:--:--:--:--:--:  :--:
+ 
+[6, 7, 3] = java.lang.reflect.InvocationTargetException 
+[7, 7, 3] = java.lang.reflect.InvocationTargetException 
+[8, 7, 3] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:--:--:--:  :--:
+I              I  I  I 
+:  :--:  :--:  :  :  :
+I  I     I     I     I 
+:  :  :--:  :  :--:--:
+I  I     I        I  I 
+:--:--:  :--:--:--:--:
+ 
+[9, 7, 3] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:--:--:--:  :--:
+I        I           I 
+:  :--:  :  :  :--:--:
+I     I  I  I  I     I 
+:--:  :  :  :  :  :  :
+I     I     I     I  I 
+:--:--:--:--:  :--:--:
+ 
+[1, 8, 3] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:--:--:--:  :--:--:
+I                 I     I 
+:  :--:  :--:--:--:  :  :
+I     I  I        I  I  I 
+:--:  :  :  :--:  :--:  :
+I     I     I           I 
+:--:  :--:--:--:--:--:--:
+ 
+[2, 8, 3] = java.lang.reflect.InvocationTargetException 
+[3, 8, 3] = java.lang.reflect.InvocationTargetException 
+[4, 8, 3] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:--:--:--:  :--:--:
+I              I        I 
+:--:--:--:--:  :  :--:  :
+I              I  I  I  I 
+:  :--:--:--:--:  :  :  :
+I                 I     I 
+:--:--:--:--:--:  :--:--:
+ 
+[5, 8, 3] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:--:--:--:  :--:--:
+I                 I     I 
+:  :--:--:  :--:--:--:  :
+I  I     I     I     I  I 
+:  :--:  :  :  :  :  :  :
+I        I  I     I     I 
+:--:--:--:--:--:  :--:--:
+ 
+[6, 8, 3] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:--:--:--:  :--:--:
+I  I                 I  I 
+:  :  :  :--:--:--:  :  :
+I  I  I  I     I     I  I 
+:  :  :  :--:  :  :  :  :
+I     I        I  I     I 
+:--:--:--:--:--:  :--:--:
+ 
+[7, 8, 3] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:--:--:--:  :--:--:
+I     I        I        I 
+:  :--:  :  :  :--:  :  :
+I  I     I  I        I  I 
+:  :  :  :  :--:--:--:  :
+I     I  I  I           I 
+:--:--:--:  :--:--:--:--:
+ 
+[8, 8, 3] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:--:--:--:  :--:--:
+I        I        I     I 
+:--:  :--:  :  :  :  :  :
+I     I     I  I     I  I 
+:  :--:  :--:  :--:--:  :
+I        I     I        I 
+:--:--:--:--:--:  :--:--:
+ 
+[9, 8, 3] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:--:--:--:  :--:--:
+I        I              I 
+:  :--:  :  :  :--:--:--:
+I     I  I  I  I        I 
+:--:  :  :  :  :  :--:  :
+I     I     I     I     I 
+:--:--:--:--:  :--:--:--:
+ 
+[1, 9, 3] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:--:--:--:--:  :--:--:
+I                    I     I 
+:  :--:--:--:--:--:--:--:  :
+I                 I  I  I  I 
+:  :  :  :--:--:  :--:--:  :
+I  I  I  I  I              I 
+:--:--:--:--:  :--:--:--:--:
+ 
+[2, 9, 3] = java.lang.reflect.InvocationTargetException 
+[3, 9, 3] = java.lang.reflect.InvocationTargetException 
+[4, 9, 3] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:--:--:--:--:  :--:--:
+I              I  I        I 
+:  :--:--:--:  :  :  :--:  :
+I  I           I  I  I  I  I 
+:  :  :--:--:--:  :  :  :  :
+I  I                 I     I 
+:--:--:--:--:--:--:  :--:--:
+ 
+[5, 9, 3] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:--:--:--:--:  :--:--:
+I  I                 I     I 
+:  :  :  :--:  :--:  :  :  :
+I  I  I     I     I  I  I  I 
+:  :  :--:  :--:  :--:  :  :
+I        I     I        I  I 
+:--:--:--:--:--:--:  :--:--:
+ 
+[6, 9, 3] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:--:--:--:--:  :--:--:
+I     I                 I  I 
+:  :  :  :--:--:--:--:  :  :
+I  I  I  I        I     I  I 
+:  :  :  :--:  :  :  :--:  :
+I  I           I  I        I 
+:--:--:--:--:--:--:  :--:--:
+ 
+[7, 9, 3] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:--:--:--:--:  :--:--:
+I        I        I        I 
+:--:  :--:  :  :  :--:  :  :
+I     I     I  I        I  I 
+:  :--:  :  :  :--:--:--:  :
+I        I  I  I           I 
+:--:--:--:--:  :--:--:--:--:
+ 
+[8, 9, 3] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:--:--:--:--:  :--:--:
+I           I        I     I 
+:  :  :--:--:  :  :  :  :  :
+I  I  I  I     I  I     I  I 
+:  :  :  :  :--:  :--:--:  :
+I  I        I     I        I 
+:--:--:--:--:--:--:  :--:--:
+ 
+[9, 9, 3] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:--:--:--:--:  :--:--:
+I           I        I     I 
+:  :--:--:  :  :  :--:  :  :
+I     I  I  I  I     I  I  I 
+:  :  :  :  :  :  :  :  :  :
+I  I     I     I  I     I  I 
+:--:--:--:--:--:  :--:--:--:
+ 
+[1, 1, 4] = Amazing - Copyright by Creative Computing, Morristown, NJ
+ 
+[2, 1, 4] = Amazing - Copyright by Creative Computing, Morristown, NJ
+ 
+[3, 1, 4] = Amazing - Copyright by Creative Computing, Morristown, NJ
+ 
+[4, 1, 4] = Amazing - Copyright by Creative Computing, Morristown, NJ
+ 
+[5, 1, 4] = Amazing - Copyright by Creative Computing, Morristown, NJ
+ 
+[6, 1, 4] = Amazing - Copyright by Creative Computing, Morristown, NJ
+ 
+[7, 1, 4] = Amazing - Copyright by Creative Computing, Morristown, NJ
+ 
+[8, 1, 4] = Amazing - Copyright by Creative Computing, Morristown, NJ
+ 
+[9, 1, 4] = Amazing - Copyright by Creative Computing, Morristown, NJ
+ 
+[1, 2, 4] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:  :
+I     I 
+:  :--:
+I     I 
+:--:  :
+I  I  I 
+:  :--:
+I  I  I 
+:--:--:
+ 
+[2, 2, 4] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:  :
+I     I 
+:  :--:
+I  I  I 
+:  :  :
+I  I  I 
+:  :--:
+I  I  I 
+:--:--:
+ 
+[3, 2, 4] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:  :
+I     I 
+:--:  :
+I     I 
+:  :--:
+I     I 
+:  :  :
+I  I  I 
+:--:  :
+ 
+[4, 2, 4] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:  :
+I     I 
+:  :  :
+I  I  I 
+:  :  :
+I  I  I 
+:  :  :
+I  I  I 
+:--:  :
+ 
+[5, 2, 4] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:  :
+I     I 
+:  :--:
+I     I 
+:  :  :
+I  I  I 
+:--:  :
+I     I 
+:  :--:
+ 
+[6, 2, 4] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:  :
+I     I 
+:  :  :
+I  I  I 
+:  :--:
+I     I 
+:  :  :
+I  I  I 
+:--:  :
+ 
+[7, 2, 4] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:  :
+I  I  I 
+:  :  :
+I  I  I 
+:  :  :
+I  I  I 
+:  :--:
+I  I  I 
+:--:--:
+ 
+[8, 2, 4] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:  :
+I  I  I 
+:  :  :
+I  I  I 
+:  :  :
+I  I  I 
+:  :--:
+I  I  I 
+:--:--:
+ 
+[9, 2, 4] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:  :
+I     I 
+:  :--:
+I  I  I 
+:  :--:
+I     I 
+:  :  :
+I  I  I 
+:--:--:
+ 
+[1, 3, 4] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:  :
+I        I 
+:  :--:--:
+I        I 
+:--:--:  :
+I  I     I 
+:  :  :--:
+I  I  I  I 
+:--:--:--:
+ 
+[2, 3, 4] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:  :
+I  I     I 
+:  :  :  :
+I     I  I 
+:  :--:  :
+I     I  I 
+:--:  :  :
+I     I  I 
+:--:--:  :
+ 
+[3, 3, 4] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:  :
+I     I  I 
+:  :--:  :
+I  I     I 
+:  :  :  :
+I  I  I  I 
+:  :--:  :
+I  I  I  I 
+:--:--:--:
+ 
+[4, 3, 4] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:  :
+I        I 
+:  :--:  :
+I  I  I  I 
+:  :  :  :
+I     I  I 
+:  :--:  :
+I     I  I 
+:--:--:  :
+ 
+[5, 3, 4] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:  :
+I        I 
+:  :  :--:
+I  I     I 
+:  :--:  :
+I     I  I 
+:--:  :--:
+I        I 
+:--:--:  :
+ 
+[6, 3, 4] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:  :
+I  I     I 
+:--:  :--:
+I     I  I 
+:  :--:  :
+I     I  I 
+:  :  :--:
+I  I  I  I 
+:--:--:--:
+ 
+[7, 3, 4] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:  :
+I  I  I  I 
+:--:--:  :
+I     I  I 
+:  :  :  :
+I  I  I  I 
+:  :  :  :
+I  I  I  I 
+:--:--:--:
+ 
+[8, 3, 4] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:  :
+I     I  I 
+:--:  :  :
+I     I  I 
+:  :--:  :
+I  I     I 
+:  :  :--:
+I  I  I  I 
+:--:--:--:
+ 
+[9, 3, 4] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:  :
+I        I 
+:  :  :--:
+I  I  I  I 
+:  :  :  :
+I  I  I  I 
+:  :  :  :
+I  I     I 
+:--:  :--:
+ 
+[1, 4, 4] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:  :--:
+I        I  I 
+:  :--:--:  :
+I           I 
+:  :--:--:--:
+I        I  I 
+:  :  :  :--:
+I  I  I  I  I 
+:--:--:--:--:
+ 
+[2, 4, 4] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:  :--:
+I  I        I 
+:  :  :  :  :
+I     I  I  I 
+:  :--:  :  :
+I  I     I  I 
+:  :  :--:  :
+I  I  I     I 
+:--:  :--:--:
+ 
+[3, 4, 4] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:  :--:
+I     I     I 
+:  :  :--:  :
+I  I  I     I 
+:  :  :  :--:
+I  I  I  I  I 
+:  :  :  :--:
+I  I  I  I  I 
+:--:--:--:--:
+ 
+[4, 4, 4] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:  :--:
+I  I        I 
+:  :  :  :  :
+I     I  I  I 
+:  :--:  :  :
+I     I  I  I 
+:--:  :  :  :
+I     I  I  I 
+:--:--:  :--:
+ 
+[5, 4, 4] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:  :--:
+I        I  I 
+:  :  :--:  :
+I  I        I 
+:  :--:  :--:
+I     I     I 
+:  :  :--:  :
+I  I     I  I 
+:--:--:  :--:
+ 
+[6, 4, 4] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:  :--:
+I           I 
+:  :--:--:  :
+I     I  I  I 
+:--:  :  :  :
+I  I  I     I 
+:  :  :  :  :
+I     I  I  I 
+:--:--:  :--:
+ 
+[7, 4, 4] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:  :--:
+I     I     I 
+:  :  :--:  :
+I  I     I  I 
+:  :--:  :  :
+I     I     I 
+:  :  :--:--:
+I  I  I  I  I 
+:--:--:--:--:
+ 
+[8, 4, 4] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:  :--:
+I        I  I 
+:--:--:  :  :
+I           I 
+:  :--:--:--:
+I     I     I 
+:--:  :--:  :
+I           I 
+:  :--:--:--:
+ 
+[9, 4, 4] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:  :--:
+I        I  I 
+:  :  :--:  :
+I  I     I  I 
+:  :  :  :  :
+I  I  I  I  I 
+:  :  :--:  :
+I  I        I 
+:--:  :--:--:
+ 
+[1, 5, 4] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:--:  :--:
+I              I 
+:  :--:--:--:  :
+I           I  I 
+:  :--:--:  :  :
+I        I  I  I 
+:--:--:  :  :  :
+I        I  I  I 
+:--:--:--:  :--:
+ 
+[2, 5, 4] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:--:  :--:
+I     I     I  I 
+:  :  :  :  :  :
+I  I     I     I 
+:  :--:--:--:  :
+I           I  I 
+:  :  :--:  :--:
+I  I  I  I  I  I 
+:--:--:--:  :--:
+ 
+[3, 5, 4] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:--:  :--:
+I  I     I     I 
+:--:  :  :--:  :
+I     I  I     I 
+:  :--:  :  :--:
+I     I  I     I 
+:  :  :  :--:--:
+I  I  I  I  I  I 
+:--:--:--:--:--:
+ 
+[4, 5, 4] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:--:  :--:
+I     I        I 
+:  :--:  :  :  :
+I        I  I  I 
+:  :--:--:  :  :
+I     I  I  I  I 
+:--:  :  :  :  :
+I        I  I  I 
+:--:--:--:  :--:
+ 
+[5, 5, 4] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:--:  :--:
+I  I        I  I 
+:  :  :--:  :  :
+I  I     I  I  I 
+:  :  :  :--:  :
+I  I  I     I  I 
+:  :  :--:  :  :
+I  I  I  I     I 
+:--:--:--:--:--:
+ 
+[6, 5, 4] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:--:  :--:
+I              I 
+:  :  :--:--:  :
+I  I        I  I 
+:  :--:--:--:  :
+I  I     I     I 
+:  :  :  :  :--:
+I     I  I     I 
+:--:--:--:  :--:
+ 
+[7, 5, 4] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:--:  :--:
+I        I     I 
+:  :  :  :--:  :
+I  I  I     I  I 
+:  :  :--:  :  :
+I  I  I     I  I 
+:--:  :--:  :  :
+I  I        I  I 
+:--:--:--:--:  :
+ 
+[8, 5, 4] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:--:  :--:
+I           I  I 
+:  :--:--:  :  :
+I  I           I 
+:  :  :--:--:--:
+I  I     I     I 
+:  :--:  :  :  :
+I  I        I  I 
+:--:  :--:--:--:
+ 
+[9, 5, 4] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:--:  :--:
+I  I           I 
+:  :  :  :--:  :
+I  I  I  I     I 
+:  :  :  :  :--:
+I  I  I  I     I 
+:  :  :  :--:  :
+I     I  I     I 
+:--:--:  :--:--:
+ 
+[1, 6, 4] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:--:--:  :--:
+I                 I 
+:  :--:--:  :--:--:
+I        I        I 
+:  :--:  :--:--:  :
+I  I  I     I     I 
+:  :  :  :  :  :--:
+I     I  I  I     I 
+:--:--:  :--:--:--:
+ 
+[2, 6, 4] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:--:--:  :--:
+I  I     I     I  I 
+:  :  :  :  :  :  :
+I  I  I     I  I  I 
+:  :  :  :--:  :  :
+I  I  I  I  I     I 
+:  :--:  :--:--:--:
+I  I              I 
+:--:  :--:--:--:--:
+ 
+[3, 6, 4] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:--:--:  :--:
+I           I     I 
+:  :--:  :  :--:  :
+I  I     I  I     I 
+:  :  :--:  :  :--:
+I  I     I  I     I 
+:--:--:  :  :  :  :
+I  I  I     I  I  I 
+:--:--:--:--:--:  :
+ 
+[4, 6, 4] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:--:--:  :--:
+I        I        I 
+:  :  :--:  :  :  :
+I  I        I  I  I 
+:  :--:--:--:  :--:
+I  I        I     I 
+:  :--:--:  :  :  :
+I           I  I  I 
+:--:--:--:--:  :--:
+ 
+[5, 6, 4] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:--:--:  :--:
+I     I        I  I 
+:  :  :  :--:--:  :
+I  I  I     I  I  I 
+:  :  :  :  :--:  :
+I  I  I  I     I  I 
+:  :  :  :--:  :  :
+I  I  I  I  I     I 
+:--:--:--:--:--:--:
+ 
+[6, 6, 4] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:--:--:  :--:
+I  I              I 
+:  :  :--:--:--:  :
+I  I  I     I  I  I 
+:  :  :  :  :  :  :
+I     I  I  I     I 
+:  :--:--:  :  :  :
+I           I  I  I 
+:--:--:--:--:  :--:
+ 
+[7, 6, 4] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:--:--:  :--:
+I  I        I     I 
+:  :  :  :  :--:  :
+I     I  I     I  I 
+:  :--:  :--:  :  :
+I  I  I  I     I  I 
+:  :--:  :--:  :  :
+I     I        I  I 
+:--:--:--:--:--:  :
+ 
+[8, 6, 4] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:--:--:  :--:
+I              I  I 
+:  :--:--:--:  :  :
+I  I  I           I 
+:  :  :  :--:--:--:
+I  I  I     I     I 
+:  :  :--:  :  :  :
+I     I        I  I 
+:--:--:  :--:--:--:
+ 
+[9, 6, 4] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:--:--:  :--:
+I     I        I  I 
+:  :  :  :  :  :  :
+I  I  I  I  I     I 
+:  :  :  :  :--:--:
+I  I  I  I        I 
+:  :--:  :  :--:  :
+I        I  I     I 
+:--:--:--:  :--:--:
+ 
+[1, 7, 4] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:--:--:--:  :--:
+I                 I  I 
+:  :--:  :--:--:--:  :
+I     I        I  I  I 
+:  :  :--:--:  :  :  :
+I  I  I  I        I  I 
+:  :  :  :  :--:--:  :
+I  I     I           I 
+:--:  :--:--:--:--:--:
+ 
+[2, 7, 4] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:--:--:--:  :--:
+I  I        I        I 
+:  :  :  :  :  :  :  :
+I     I  I     I  I  I 
+:--:--:  :--:--:--:  :
+I        I     I     I 
+:  :  :--:  :  :  :--:
+I  I        I  I     I 
+:--:  :--:--:--:--:--:
+ 
+[3, 7, 4] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:--:--:--:  :--:
+I              I     I 
+:  :--:--:  :  :--:  :
+I     I     I  I     I 
+:--:  :  :--:  :  :--:
+I     I     I  I     I 
+:  :--:--:  :  :  :  :
+I  I  I  I     I  I  I 
+:--:--:--:--:--:--:  :
+ 
+[4, 7, 4] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:--:--:--:  :--:
+I           I     I  I 
+:--:  :  :--:  :  :  :
+I     I        I  I  I 
+:  :  :--:--:--:  :  :
+I  I  I        I  I  I 
+:  :  :  :--:  :  :  :
+I  I     I     I     I 
+:--:--:--:--:--:  :--:
+ 
+[5, 7, 4] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:--:--:--:  :--:
+I  I     I        I  I 
+:  :  :  :  :--:  :  :
+I     I  I     I  I  I 
+:  :--:  :  :  :--:  :
+I  I  I     I     I  I 
+:  :  :  :  :--:  :  :
+I     I  I     I     I 
+:--:--:  :--:--:--:--:
+ 
+[6, 7, 4] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:--:--:--:  :--:
+I     I              I 
+:  :  :  :--:--:--:  :
+I  I  I  I        I  I 
+:  :  :  :  :--:--:  :
+I  I     I     I     I 
+:  :--:--:--:  :  :  :
+I              I  I  I 
+:--:--:--:--:--:  :--:
+ 
+[7, 7, 4] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:--:--:--:  :--:
+I  I           I     I 
+:--:--:  :  :  :--:  :
+I        I  I     I  I 
+:  :--:--:  :--:  :  :
+I  I     I  I     I  I 
+:  :  :  :  :--:  :  :
+I     I  I        I  I 
+:--:--:--:--:--:--:  :
+ 
+[8, 7, 4] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:--:--:--:  :--:
+I  I              I  I 
+:  :  :--:--:--:  :  :
+I  I     I           I 
+:  :  :  :  :--:--:--:
+I  I  I  I     I     I 
+:  :--:  :--:  :  :  :
+I        I        I  I 
+:--:--:--:  :--:--:--:
+ 
+[9, 7, 4] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:--:--:--:  :--:
+I        I        I  I 
+:  :--:--:  :  :--:  :
+I        I  I  I     I 
+:  :--:  :  :  :  :  :
+I  I     I  I     I  I 
+:  :--:--:  :  :--:  :
+I           I  I     I 
+:--:--:--:--:  :--:--:
+ 
+[1, 8, 4] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:--:--:--:  :--:--:
+I                 I     I 
+:  :--:  :--:--:  :  :--:
+I     I        I  I     I 
+:  :  :--:--:  :--:--:  :
+I  I  I  I           I  I 
+:  :  :  :  :--:--:--:  :
+I  I     I              I 
+:--:  :--:--:--:--:--:--:
+ 
+[2, 8, 4] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:--:--:--:  :--:--:
+I  I        I           I 
+:  :  :  :  :  :--:  :  :
+I     I  I     I     I  I 
+:--:--:  :--:--:  :--:--:
+I        I     I  I     I 
+:  :  :--:--:  :  :  :  :
+I  I           I     I  I 
+:--:  :--:--:--:--:--:--:
+ 
+[3, 8, 4] = java.lang.reflect.InvocationTargetException 
+[4, 8, 4] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:--:--:--:  :--:--:
+I  I        I           I 
+:  :  :  :--:  :  :--:--:
+I  I  I        I  I     I 
+:  :  :--:--:--:  :  :  :
+I  I  I        I  I  I  I 
+:  :  :  :--:  :  :--:  :
+I        I     I        I 
+:--:--:--:--:--:  :--:--:
+ 
+[5, 8, 4] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:--:--:--:  :--:--:
+I     I           I     I 
+:  :  :  :  :--:--:  :  :
+I  I     I     I     I  I 
+:  :--:--:--:  :--:--:  :
+I  I        I     I     I 
+:  :--:  :  :--:  :  :--:
+I        I     I        I 
+:--:--:--:--:--:--:--:  :
+ 
+[6, 8, 4] = java.lang.reflect.InvocationTargetException 
+[7, 8, 4] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:--:--:--:  :--:--:
+I              I     I  I 
+:  :  :--:  :  :--:  :  :
+I  I     I  I           I 
+:  :--:--:  :--:--:--:--:
+I  I     I  I           I 
+:  :  :  :  :  :--:--:  :
+I     I  I        I     I 
+:--:--:--:--:--:  :--:--:
+ 
+[8, 8, 4] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:--:--:--:  :--:--:
+I     I  I  I     I     I 
+:  :  :  :--:  :  :  :  :
+I  I  I  I     I     I  I 
+:  :  :  :  :--:--:--:  :
+I  I  I  I     I     I  I 
+:  :  :  :--:  :  :  :  :
+I  I           I     I  I 
+:--:--:--:--:--:--:--:  :
+ 
+[9, 8, 4] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:--:--:--:  :--:--:
+I        I        I     I 
+:  :--:--:  :  :--:--:  :
+I        I  I  I        I 
+:  :--:  :  :  :  :  :--:
+I  I     I  I     I  I  I 
+:  :--:--:  :  :--:  :  :
+I           I     I     I 
+:--:--:--:--:  :--:--:--:
+ 
+[1, 9, 4] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:--:--:--:--:  :--:--:
+I                       I  I 
+:  :--:--:--:  :--:--:--:--:
+I  I        I        I  I  I 
+:  :  :--:  :--:--:  :--:--:
+I     I  I        I        I 
+:  :  :  :  :--:  :--:--:  :
+I  I  I  I  I  I  I        I 
+:--:--:--:--:--:  :--:--:--:
+ 
+[2, 9, 4] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:--:--:--:--:  :--:--:
+I     I        I           I 
+:  :  :  :  :  :  :--:--:  :
+I  I     I  I     I        I 
+:  :--:--:  :--:--:--:--:--:
+I     I        I     I     I 
+:--:  :  :--:--:  :  :  :  :
+I     I           I     I  I 
+:--:--:  :--:--:--:--:--:--:
+ 
+[3, 9, 4] = java.lang.reflect.InvocationTargetException 
+[4, 9, 4] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:--:--:--:--:  :--:--:
+I  I           I           I 
+:  :  :  :  :--:  :  :--:--:
+I     I  I        I  I     I 
+:--:--:  :--:--:--:  :  :  :
+I     I  I        I  I  I  I 
+:  :  :  :  :--:  :  :--:  :
+I  I        I     I        I 
+:--:--:--:--:--:--:  :--:--:
+ 
+[5, 9, 4] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:--:--:--:--:  :--:--:
+I  I     I           I     I 
+:  :  :  :  :  :--:  :--:  :
+I  I  I     I     I     I  I 
+:  :  :  :--:--:  :--:  :  :
+I     I  I     I     I     I 
+:--:--:  :  :  :--:  :--:--:
+I           I     I        I 
+:--:--:--:--:--:--:--:--:  :
+ 
+[6, 9, 4] = java.lang.reflect.InvocationTargetException 
+[7, 9, 4] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:--:--:--:--:  :--:--:
+I  I              I     I  I 
+:  :  :--:--:  :  :--:  :  :
+I     I     I  I        I  I 
+:--:  :  :--:  :  :--:--:  :
+I     I     I  I        I  I 
+:  :--:--:  :  :--:--:  :  :
+I           I        I     I 
+:--:--:--:--:--:--:  :--:--:
+ 
+[8, 9, 4] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:--:--:--:--:  :--:--:
+I        I     I     I     I 
+:  :--:  :  :--:  :  :  :  :
+I  I  I     I     I     I  I 
+:  :  :  :--:  :--:--:--:  :
+I  I  I  I  I     I     I  I 
+:  :  :  :--:--:  :  :  :  :
+I     I           I     I  I 
+:--:--:--:--:--:--:--:--:  :
+ 
+[9, 9, 4] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:--:--:--:--:  :--:--:
+I           I        I     I 
+:  :--:--:--:  :  :  :  :--:
+I           I  I  I  I     I 
+:--:--:--:  :  :  :  :--:  :
+I           I  I  I     I  I 
+:  :--:--:--:  :  :--:  :  :
+I              I  I        I 
+:--:--:--:--:--:  :--:--:--:
+ 
+[1, 1, 5] = Amazing - Copyright by Creative Computing, Morristown, NJ
+ 
+[2, 1, 5] = Amazing - Copyright by Creative Computing, Morristown, NJ
+ 
+[3, 1, 5] = Amazing - Copyright by Creative Computing, Morristown, NJ
+ 
+[4, 1, 5] = Amazing - Copyright by Creative Computing, Morristown, NJ
+ 
+[5, 1, 5] = Amazing - Copyright by Creative Computing, Morristown, NJ
+ 
+[6, 1, 5] = Amazing - Copyright by Creative Computing, Morristown, NJ
+ 
+[7, 1, 5] = Amazing - Copyright by Creative Computing, Morristown, NJ
+ 
+[8, 1, 5] = Amazing - Copyright by Creative Computing, Morristown, NJ
+ 
+[9, 1, 5] = Amazing - Copyright by Creative Computing, Morristown, NJ
+ 
+[1, 2, 5] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:  :
+I     I 
+:  :--:
+I     I 
+:--:  :
+I     I 
+:  :--:
+I     I 
+:--:  :
+I     I 
+:--:--:
+ 
+[2, 2, 5] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:  :
+I     I 
+:  :--:
+I  I  I 
+:  :  :
+I     I 
+:  :--:
+I     I 
+:  :--:
+I  I  I 
+:--:--:
+ 
+[3, 2, 5] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:  :
+I     I 
+:--:  :
+I     I 
+:  :--:
+I     I 
+:  :  :
+I  I  I 
+:  :  :
+I  I  I 
+:--:  :
+ 
+[4, 2, 5] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:  :
+I     I 
+:  :  :
+I  I  I 
+:  :  :
+I  I  I 
+:  :  :
+I  I  I 
+:--:  :
+I     I 
+:  :--:
+ 
+[5, 2, 5] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:  :
+I     I 
+:  :--:
+I     I 
+:--:  :
+I  I  I 
+:  :  :
+I  I  I 
+:  :--:
+I  I  I 
+:--:--:
+ 
+[6, 2, 5] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:  :
+I     I 
+:  :  :
+I  I  I 
+:  :--:
+I     I 
+:--:  :
+I  I  I 
+:  :  :
+I     I 
+:  :--:
+ 
+[7, 2, 5] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:  :
+I  I  I 
+:  :  :
+I  I  I 
+:  :  :
+I     I 
+:  :--:
+I     I 
+:  :  :
+I  I  I 
+:--:  :
+ 
+[8, 2, 5] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:  :
+I  I  I 
+:  :  :
+I  I  I 
+:  :  :
+I     I 
+:  :--:
+I     I 
+:  :  :
+I  I  I 
+:--:  :
+ 
+[9, 2, 5] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:  :
+I     I 
+:  :  :
+I  I  I 
+:  :--:
+I  I  I 
+:  :--:
+I     I 
+:  :  :
+I  I  I 
+:--:  :
+ 
+[1, 3, 5] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:  :
+I        I 
+:  :--:--:
+I        I 
+:--:--:  :
+I        I 
+:  :--:--:
+I     I  I 
+:  :  :--:
+I  I  I  I 
+:--:--:--:
+ 
+[2, 3, 5] = java.lang.reflect.InvocationTargetException 
+[3, 3, 5] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:  :
+I  I     I 
+:--:--:  :
+I  I     I 
+:--:  :--:
+I     I  I 
+:  :--:  :
+I        I 
+:  :  :  :
+I  I  I  I 
+:--:--:  :
+ 
+[4, 3, 5] = java.lang.reflect.InvocationTargetException 
+[5, 3, 5] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:  :
+I        I 
+:  :  :--:
+I  I     I 
+:  :--:  :
+I     I  I 
+:--:  :--:
+I        I 
+:--:--:  :
+I        I 
+:  :--:--:
+ 
+[6, 3, 5] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:  :
+I        I 
+:--:  :--:
+I     I  I 
+:  :--:  :
+I  I     I 
+:  :  :  :
+I     I  I 
+:  :--:  :
+I     I  I 
+:--:--:  :
+ 
+[7, 3, 5] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:  :
+I  I  I  I 
+:--:--:  :
+I     I  I 
+:  :  :  :
+I  I     I 
+:  :--:--:
+I        I 
+:  :  :  :
+I  I  I  I 
+:--:--:--:
+ 
+[8, 3, 5] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:  :
+I     I  I 
+:--:  :  :
+I     I  I 
+:  :--:  :
+I        I 
+:  :--:--:
+I     I  I 
+:--:  :  :
+I        I 
+:  :--:--:
+ 
+[9, 3, 5] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:  :
+I        I 
+:  :  :--:
+I  I  I  I 
+:  :  :  :
+I  I  I  I 
+:  :  :  :
+I  I  I  I 
+:  :  :  :
+I  I     I 
+:--:--:  :
+ 
+[1, 4, 5] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:  :--:
+I        I  I 
+:  :--:--:  :
+I           I 
+:  :--:--:--:
+I  I        I 
+:  :  :--:  :
+I     I  I  I 
+:  :  :--:  :
+I  I  I  I  I 
+:--:--:--:--:
+ 
+[2, 4, 5] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:  :--:
+I  I        I 
+:  :  :  :  :
+I     I  I  I 
+:  :--:  :  :
+I  I     I  I 
+:  :  :--:  :
+I  I  I     I 
+:  :  :  :--:
+I  I  I     I 
+:--:  :--:--:
+ 
+[3, 4, 5] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:  :--:
+I     I     I 
+:  :  :--:  :
+I  I  I     I 
+:  :  :  :--:
+I  I     I  I 
+:  :--:--:  :
+I        I  I 
+:  :--:  :  :
+I  I  I     I 
+:--:--:--:--:
+ 
+[4, 4, 5] = java.lang.reflect.InvocationTargetException 
+[5, 4, 5] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:  :--:
+I        I  I 
+:  :--:--:  :
+I        I  I 
+:  :--:  :  :
+I     I  I  I 
+:--:  :--:  :
+I  I     I  I 
+:  :--:  :  :
+I  I  I     I 
+:--:--:--:--:
+ 
+[6, 4, 5] = java.lang.reflect.InvocationTargetException 
+[7, 4, 5] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:  :--:
+I     I     I 
+:  :  :--:  :
+I  I     I  I 
+:  :--:  :  :
+I  I  I     I 
+:  :--:--:--:
+I           I 
+:  :  :--:  :
+I  I  I  I  I 
+:--:--:--:--:
+ 
+[8, 4, 5] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:  :--:
+I  I  I  I  I 
+:--:--:  :  :
+I           I 
+:  :--:--:--:
+I     I     I 
+:--:  :--:  :
+I  I     I  I 
+:  :  :  :--:
+I  I  I  I  I 
+:--:--:--:--:
+ 
+[9, 4, 5] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:  :--:
+I        I  I 
+:  :  :--:  :
+I  I  I     I 
+:  :  :  :  :
+I  I  I  I  I 
+:  :  :  :--:
+I  I  I     I 
+:  :  :--:  :
+I  I        I 
+:--:--:  :--:
+ 
+[1, 5, 5] = java.lang.reflect.InvocationTargetException 
+[2, 5, 5] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:--:  :--:
+I     I        I 
+:  :  :  :--:  :
+I  I     I     I 
+:  :--:--:  :  :
+I  I     I  I  I 
+:  :  :  :  :--:
+I     I  I     I 
+:  :--:  :--:  :
+I  I  I  I     I 
+:--:--:  :--:--:
+ 
+[3, 5, 5] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:--:  :--:
+I        I     I 
+:--:  :  :--:  :
+I     I  I     I 
+:  :  :  :  :--:
+I  I  I        I 
+:  :--:--:--:--:
+I     I        I 
+:--:  :  :--:  :
+I        I     I 
+:  :--:--:--:--:
+ 
+[4, 5, 5] = java.lang.reflect.InvocationTargetException 
+[5, 5, 5] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:--:  :--:
+I  I        I  I 
+:  :  :--:  :  :
+I  I     I  I  I 
+:  :  :  :--:  :
+I     I     I  I 
+:  :--:--:  :  :
+I        I     I 
+:  :  :  :--:--:
+I  I  I  I  I  I 
+:--:--:--:--:--:
+ 
+[6, 5, 5] = java.lang.reflect.InvocationTargetException 
+[7, 5, 5] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:--:  :--:
+I  I     I     I 
+:  :  :  :--:  :
+I  I  I     I  I 
+:  :  :  :  :  :
+I  I  I  I     I 
+:  :  :--:--:--:
+I  I        I  I 
+:  :--:--:  :  :
+I              I 
+:--:  :--:--:--:
+ 
+[8, 5, 5] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:--:  :--:
+I           I  I 
+:  :--:--:  :  :
+I  I           I 
+:  :  :--:--:--:
+I  I     I     I 
+:  :--:  :  :  :
+I  I        I  I 
+:  :  :  :--:  :
+I  I     I  I  I 
+:--:--:--:--:  :
+ 
+[9, 5, 5] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:--:  :--:
+I  I           I 
+:  :  :  :  :  :
+I     I  I  I  I 
+:--:--:  :  :  :
+I     I  I  I  I 
+:  :  :  :  :  :
+I  I  I  I  I  I 
+:  :--:  :--:  :
+I           I  I 
+:--:--:--:  :--:
+ 
+[1, 6, 5] = java.lang.reflect.InvocationTargetException 
+[2, 6, 5] = java.lang.reflect.InvocationTargetException 
+[3, 6, 5] = java.lang.reflect.InvocationTargetException 
+[4, 6, 5] = java.lang.reflect.InvocationTargetException 
+[5, 6, 5] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:--:--:  :--:
+I     I        I  I 
+:  :  :  :--:  :  :
+I  I  I     I  I  I 
+:  :  :  :  :--:  :
+I  I     I     I  I 
+:  :--:--:--:  :  :
+I           I     I 
+:  :  :--:  :--:--:
+I  I     I     I  I 
+:--:--:--:  :--:--:
+ 
+[6, 6, 5] = java.lang.reflect.InvocationTargetException 
+[7, 6, 5] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:--:--:  :--:
+I           I     I 
+:--:  :  :  :--:  :
+I     I  I     I  I 
+:  :--:  :--:  :  :
+I     I     I     I 
+:--:--:  :--:--:--:
+I     I        I  I 
+:  :  :--:--:  :  :
+I  I              I 
+:--:--:  :--:--:--:
+ 
+[8, 6, 5] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:--:--:  :--:
+I  I           I  I 
+:  :  :--:--:  :  :
+I  I  I           I 
+:  :  :  :--:--:--:
+I     I     I     I 
+:  :--:--:  :  :  :
+I  I  I        I  I 
+:  :  :  :  :--:  :
+I     I     I  I  I 
+:--:--:--:--:--:  :
+ 
+[9, 6, 5] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:--:--:  :--:
+I     I        I  I 
+:  :  :  :  :--:  :
+I  I     I  I     I 
+:  :--:--:  :  :  :
+I     I  I     I  I 
+:--:  :  :  :--:  :
+I  I     I  I     I 
+:  :--:  :  :--:  :
+I        I     I  I 
+:--:--:--:--:  :--:
+ 
+[1, 7, 5] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:--:--:--:  :--:
+I                    I 
+:  :--:  :--:--:--:--:
+I     I     I        I 
+:--:  :--:  :--:  :  :
+I  I     I     I  I  I 
+:  :  :  :--:  :--:  :
+I  I  I     I        I 
+:  :  :  :  :--:--:--:
+I     I  I           I 
+:--:--:--:--:  :--:--:
+ 
+[2, 7, 5] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:--:--:--:  :--:
+I           I     I  I 
+:  :--:  :  :  :--:  :
+I     I  I     I     I 
+:  :--:  :  :--:  :--:
+I  I     I  I  I     I 
+:  :  :--:  :  :  :--:
+I  I  I     I  I     I 
+:  :  :  :--:  :--:  :
+I  I  I              I 
+:--:  :--:--:--:--:--:
+ 
+[3, 7, 5] = java.lang.reflect.InvocationTargetException 
+[4, 7, 5] = java.lang.reflect.InvocationTargetException 
+[5, 7, 5] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:--:--:--:  :--:
+I  I     I        I  I 
+:  :  :  :  :--:  :  :
+I     I  I     I  I  I 
+:  :--:  :  :  :--:  :
+I     I     I     I  I 
+:--:  :  :--:--:  :  :
+I     I  I     I     I 
+:  :--:  :  :  :--:--:
+I     I     I        I 
+:--:--:  :--:--:--:--:
+ 
+[6, 7, 5] = java.lang.reflect.InvocationTargetException 
+[7, 7, 5] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:--:--:--:  :--:
+I        I     I     I 
+:  :  :--:  :  :--:  :
+I  I     I  I     I  I 
+:--:  :  :  :--:  :  :
+I     I  I     I     I 
+:  :--:--:  :--:--:--:
+I  I     I        I  I 
+:  :  :  :--:--:  :  :
+I     I              I 
+:--:--:--:  :--:--:--:
+ 
+[8, 7, 5] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:--:--:--:  :--:
+I                 I  I 
+:  :--:  :--:--:  :  :
+I  I  I  I           I 
+:--:--:  :  :--:--:--:
+I        I     I     I 
+:  :--:--:--:  :  :  :
+I  I     I        I  I 
+:  :  :  :  :  :--:  :
+I     I  I        I  I 
+:--:--:--:--:--:--:  :
+ 
+[9, 7, 5] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:--:--:--:  :--:
+I        I           I 
+:  :--:  :  :  :--:  :
+I  I  I     I  I     I 
+:  :  :  :--:  :--:--:
+I  I  I  I  I        I 
+:  :  :  :  :  :--:  :
+I  I  I  I  I  I     I 
+:  :  :  :  :  :--:  :
+I     I     I     I  I 
+:--:--:--:--:--:  :--:
+ 
+[1, 8, 5] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:--:--:--:  :--:--:
+I                 I     I 
+:  :--:  :--:  :--:  :  :
+I     I     I        I  I 
+:--:  :--:  :--:--:--:  :
+I  I     I     I        I 
+:  :  :  :--:  :--:--:--:
+I  I  I     I           I 
+:  :  :  :  :--:--:--:  :
+I     I  I     I        I 
+:--:--:--:--:  :--:--:--:
+ 
+[2, 8, 5] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:--:--:--:  :--:--:
+I           I           I 
+:  :--:  :  :  :--:--:  :
+I     I  I     I     I  I 
+:--:--:  :  :--:  :  :  :
+I  I     I  I  I  I     I 
+:  :  :--:  :  :  :--:--:
+I     I     I     I     I 
+:  :  :  :--:--:--:  :  :
+I  I  I              I  I 
+:--:  :--:--:--:--:--:--:
+ 
+[3, 8, 5] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:--:--:--:  :--:--:
+I                       I 
+:--:  :--:--:--:--:--:  :
+I     I        I     I  I 
+:  :--:  :--:  :  :  :  :
+I  I  I     I  I  I     I 
+:  :--:--:  :--:  :--:--:
+I     I  I  I           I 
+:  :  :  :  :  :  :  :  :
+I  I        I     I  I  I 
+:--:--:--:--:--:--:--:  :
+ 
+[4, 8, 5] = java.lang.reflect.InvocationTargetException 
+[5, 8, 5] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:--:--:--:  :--:--:
+I                 I     I 
+:  :--:--:  :--:--:  :  :
+I  I     I           I  I 
+:  :  :--:--:  :--:--:  :
+I  I        I     I     I 
+:  :--:--:  :--:  :--:--:
+I        I     I        I 
+:  :--:  :--:  :--:--:  :
+I     I              I  I 
+:--:--:--:--:--:--:--:  :
+ 
+[6, 8, 5] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:--:--:--:  :--:--:
+I     I        I        I 
+:  :  :  :--:  :--:  :  :
+I  I  I  I     I     I  I 
+:--:  :  :  :  :  :--:  :
+I     I  I  I  I     I  I 
+:  :--:  :  :--:  :  :  :
+I  I     I        I  I  I 
+:  :--:--:--:--:--:  :--:
+I              I  I     I 
+:--:--:--:--:--:--:--:  :
+ 
+[7, 8, 5] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:--:--:--:  :--:--:
+I              I     I  I 
+:--:--:--:  :  :--:  :  :
+I     I     I        I  I 
+:  :  :  :  :--:--:--:  :
+I  I     I  I     I     I 
+:  :--:--:  :  :--:  :--:
+I  I     I        I     I 
+:  :--:  :--:--:  :--:  :
+I        I              I 
+:--:--:--:  :--:--:--:--:
+ 
+[8, 8, 5] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:--:--:--:  :--:--:
+I  I        I  I  I     I 
+:  :  :  :  :  :  :  :  :
+I  I  I  I  I  I     I  I 
+:  :  :  :  :  :--:--:  :
+I     I  I     I        I 
+:  :--:  :--:--:  :--:--:
+I  I  I        I     I  I 
+:  :  :  :--:--:--:  :  :
+I     I                 I 
+:--:--:--:--:--:  :--:--:
+ 
+[9, 8, 5] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:--:--:--:  :--:--:
+I        I        I     I 
+:  :--:  :  :  :--:  :  :
+I  I  I     I  I     I  I 
+:  :  :  :--:  :--:--:  :
+I  I  I  I  I        I  I 
+:  :  :  :  :  :--:  :  :
+I  I  I  I  I  I        I 
+:  :  :  :  :  :--:  :--:
+I     I     I     I     I 
+:--:--:--:--:--:  :--:--:
+ 
+[1, 9, 5] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:--:--:--:--:  :--:--:
+I                    I     I 
+:  :--:--:  :--:--:--:  :--:
+I  I     I     I           I 
+:  :  :  :--:  :--:--:--:  :
+I  I  I     I           I  I 
+:  :  :  :  :--:--:--:  :  :
+I     I  I     I     I     I 
+:  :--:  :--:  :--:  :  :--:
+I  I  I     I        I     I 
+:--:--:--:--:  :--:--:--:--:
+ 
+[2, 9, 5] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:--:--:--:--:  :--:--:
+I              I     I     I 
+:  :  :--:  :  :  :--:  :  :
+I  I     I  I     I  I  I  I 
+:  :--:--:  :  :--:  :  :  :
+I     I     I  I     I  I  I 
+:--:  :  :--:--:  :  :  :  :
+I  I  I        I  I  I  I  I 
+:  :  :  :  :  :  :  :  :  :
+I     I  I  I     I     I  I 
+:--:--:  :--:--:--:--:--:--:
+ 
+[3, 9, 5] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:--:--:--:--:  :--:--:
+I     I                    I 
+:  :--:  :--:--:--:--:--:  :
+I  I     I        I     I  I 
+:  :  :  :  :--:  :  :  :  :
+I  I  I  I     I  I  I     I 
+:  :  :  :--:  :--:  :--:--:
+I     I     I  I           I 
+:  :--:--:--:  :  :  :--:  :
+I              I     I  I  I 
+:--:--:--:--:--:--:--:--:  :
+ 
+[4, 9, 5] = java.lang.reflect.InvocationTargetException 
+[5, 9, 5] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:--:--:--:--:  :--:--:
+I  I                 I     I 
+:  :  :  :  :  :--:--:  :  :
+I  I  I  I  I           I  I 
+:  :  :  :--:--:  :--:--:  :
+I     I  I     I     I     I 
+:--:--:  :  :  :--:  :--:--:
+I     I     I     I        I 
+:  :--:  :--:--:  :--:--:  :
+I        I              I  I 
+:--:--:--:--:--:--:--:--:  :
+ 
+[6, 9, 5] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:--:--:--:--:  :--:--:
+I     I           I     I  I 
+:  :  :  :  :--:  :--:  :  :
+I  I  I  I  I     I     I  I 
+:  :  :  :  :  :  :  :--:  :
+I  I     I  I  I  I  I     I 
+:  :--:--:  :  :--:  :  :--:
+I  I        I        I     I 
+:  :  :--:--:--:--:--:--:  :
+I  I                       I 
+:--:  :--:--:--:--:--:--:--:
+ 
+[7, 9, 5] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:--:--:--:--:  :--:--:
+I           I     I     I  I 
+:  :--:--:--:  :  :--:  :  :
+I  I     I     I        I  I 
+:  :  :  :  :  :  :--:--:  :
+I  I  I     I  I     I     I 
+:  :  :--:--:  :--:--:  :--:
+I  I        I        I     I 
+:  :--:  :  :--:--:  :--:  :
+I        I  I              I 
+:--:--:--:--:  :--:--:--:--:
+ 
+[8, 9, 5] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:--:--:--:--:  :--:--:
+I           I     I  I     I 
+:  :--:  :  :  :  :  :  :  :
+I     I  I     I  I     I  I 
+:--:--:  :  :--:--:--:--:  :
+I        I  I     I        I 
+:  :--:--:  :  :  :  :--:--:
+I  I     I  I  I  I     I  I 
+:  :  :  :  :  :--:--:  :  :
+I     I  I                 I 
+:--:--:--:--:--:--:  :--:--:
+ 
+[9, 9, 5] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:--:--:--:--:  :--:--:
+I           I        I     I 
+:  :  :--:  :  :  :  :  :  :
+I  I     I     I  I  I  I  I 
+:  :--:  :--:--:  :  :  :  :
+I  I  I        I  I  I  I  I 
+:  :  :--:--:  :  :--:  :  :
+I     I        I  I     I  I 
+:--:  :  :--:--:  :  :--:  :
+I     I        I     I     I 
+:--:--:--:--:--:--:  :--:--:
+ 
+[1, 1, 6] = Amazing - Copyright by Creative Computing, Morristown, NJ
+ 
+[2, 1, 6] = Amazing - Copyright by Creative Computing, Morristown, NJ
+ 
+[3, 1, 6] = Amazing - Copyright by Creative Computing, Morristown, NJ
+ 
+[4, 1, 6] = Amazing - Copyright by Creative Computing, Morristown, NJ
+ 
+[5, 1, 6] = Amazing - Copyright by Creative Computing, Morristown, NJ
+ 
+[6, 1, 6] = Amazing - Copyright by Creative Computing, Morristown, NJ
+ 
+[7, 1, 6] = Amazing - Copyright by Creative Computing, Morristown, NJ
+ 
+[8, 1, 6] = Amazing - Copyright by Creative Computing, Morristown, NJ
+ 
+[9, 1, 6] = Amazing - Copyright by Creative Computing, Morristown, NJ
+ 
+[1, 2, 6] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:  :
+I     I 
+:  :--:
+I     I 
+:--:  :
+I     I 
+:  :--:
+I     I 
+:--:  :
+I  I  I 
+:  :--:
+I  I  I 
+:--:--:
+ 
+[2, 2, 6] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:  :
+I     I 
+:  :--:
+I  I  I 
+:  :  :
+I     I 
+:  :--:
+I  I  I 
+:  :  :
+I     I 
+:  :--:
+I  I  I 
+:--:--:
+ 
+[3, 2, 6] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:  :
+I     I 
+:--:  :
+I     I 
+:  :--:
+I     I 
+:  :  :
+I  I  I 
+:  :  :
+I  I  I 
+:  :  :
+I  I  I 
+:--:  :
+ 
+[4, 2, 6] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:  :
+I  I  I 
+:  :  :
+I  I  I 
+:  :  :
+I  I  I 
+:  :  :
+I  I  I 
+:  :  :
+I  I  I 
+:  :--:
+I  I  I 
+:--:--:
+ 
+[5, 2, 6] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:  :
+I     I 
+:  :--:
+I     I 
+:  :  :
+I  I  I 
+:--:  :
+I     I 
+:  :--:
+I     I 
+:  :  :
+I  I  I 
+:--:  :
+ 
+[6, 2, 6] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:  :
+I     I 
+:  :--:
+I  I  I 
+:  :--:
+I     I 
+:--:  :
+I  I  I 
+:  :  :
+I  I  I 
+:  :  :
+I  I  I 
+:--:--:
+ 
+[7, 2, 6] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:  :
+I  I  I 
+:  :  :
+I  I  I 
+:  :  :
+I     I 
+:  :--:
+I     I 
+:  :  :
+I  I  I 
+:  :  :
+I  I  I 
+:--:  :
+ 
+[8, 2, 6] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:  :
+I  I  I 
+:  :  :
+I  I  I 
+:  :  :
+I     I 
+:  :--:
+I     I 
+:  :  :
+I  I  I 
+:--:  :
+I     I 
+:  :--:
+ 
+[9, 2, 6] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:  :
+I     I 
+:  :  :
+I  I  I 
+:  :  :
+I  I  I 
+:  :--:
+I  I  I 
+:  :--:
+I     I 
+:  :  :
+I  I  I 
+:--:  :
+ 
+[1, 3, 6] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:  :
+I        I 
+:  :--:--:
+I        I 
+:--:--:  :
+I        I 
+:  :--:--:
+I  I     I 
+:  :  :--:
+I     I  I 
+:  :  :--:
+I  I  I  I 
+:--:--:--:
+ 
+[2, 3, 6] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:  :
+I  I     I 
+:  :  :  :
+I     I  I 
+:  :--:  :
+I  I  I  I 
+:  :  :  :
+I     I  I 
+:  :--:  :
+I  I     I 
+:  :  :--:
+I  I     I 
+:--:  :--:
+ 
+[3, 3, 6] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:  :
+I        I 
+:  :--:  :
+I  I     I 
+:--:  :  :
+I     I  I 
+:  :--:--:
+I  I     I 
+:  :  :  :
+I     I  I 
+:  :--:  :
+I  I  I  I 
+:--:--:  :
+ 
+[4, 3, 6] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:  :
+I        I 
+:--:--:  :
+I     I  I 
+:  :  :  :
+I  I  I  I 
+:  :  :  :
+I  I  I  I 
+:  :--:  :
+I  I     I 
+:  :  :  :
+I     I  I 
+:--:--:  :
+ 
+[5, 3, 6] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:  :
+I        I 
+:  :--:--:
+I  I     I 
+:  :--:  :
+I     I  I 
+:--:  :  :
+I  I     I 
+:  :--:  :
+I  I     I 
+:  :  :--:
+I  I  I  I 
+:--:--:--:
+ 
+[6, 3, 6] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:  :
+I        I 
+:--:  :--:
+I     I  I 
+:  :--:  :
+I  I     I 
+:  :  :  :
+I     I  I 
+:  :--:  :
+I     I  I 
+:--:  :  :
+I     I  I 
+:--:--:  :
+ 
+[7, 3, 6] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:  :
+I  I  I  I 
+:--:--:  :
+I     I  I 
+:  :  :  :
+I  I     I 
+:  :--:--:
+I  I     I 
+:  :--:  :
+I     I  I 
+:  :  :  :
+I  I  I  I 
+:--:--:--:
+ 
+[8, 3, 6] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:  :
+I     I  I 
+:--:  :  :
+I     I  I 
+:  :--:  :
+I        I 
+:  :--:--:
+I     I  I 
+:--:  :--:
+I  I     I 
+:  :  :--:
+I  I  I  I 
+:--:--:--:
+ 
+[9, 3, 6] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:  :
+I        I 
+:  :  :  :
+I  I  I  I 
+:  :  :  :
+I  I  I  I 
+:  :  :  :
+I  I  I  I 
+:  :  :--:
+I  I     I 
+:  :--:  :
+I     I  I 
+:--:--:  :
+ 
+[1, 4, 6] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:  :--:
+I        I  I 
+:  :--:--:  :
+I           I 
+:  :--:--:  :
+I  I     I  I 
+:  :  :  :--:
+I  I  I     I 
+:  :  :  :  :
+I     I  I  I 
+:  :--:  :  :
+I  I  I  I  I 
+:--:--:--:  :
+ 
+[2, 4, 6] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:  :--:
+I  I     I  I 
+:  :  :  :  :
+I     I  I  I 
+:  :--:  :  :
+I  I     I  I 
+:  :  :  :  :
+I  I  I  I  I 
+:  :  :--:  :
+I  I  I     I 
+:  :  :  :  :
+I  I     I  I 
+:  :--:--:--:
+ 
+[3, 4, 6] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:  :--:
+I     I     I 
+:  :  :--:  :
+I  I  I     I 
+:  :  :  :  :
+I  I     I  I 
+:  :--:--:  :
+I  I        I 
+:  :--:  :--:
+I     I     I 
+:--:  :--:--:
+I           I 
+:--:--:--:  :
+ 
+[4, 4, 6] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:  :--:
+I           I 
+:--:--:  :  :
+I     I  I  I 
+:  :  :  :  :
+I  I  I  I  I 
+:  :  :  :--:
+I  I  I     I 
+:  :--:  :  :
+I  I     I  I 
+:  :  :  :  :
+I     I  I  I 
+:--:--:--:  :
+ 
+[5, 4, 6] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:  :--:
+I        I  I 
+:  :--:--:  :
+I        I  I 
+:  :--:  :  :
+I     I  I  I 
+:--:  :--:  :
+I        I  I 
+:  :--:  :  :
+I     I     I 
+:  :  :--:--:
+I  I        I 
+:--:  :--:--:
+ 
+[6, 4, 6] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:  :--:
+I           I 
+:--:--:--:  :
+I     I  I  I 
+:  :  :  :  :
+I  I  I     I 
+:--:  :  :  :
+I     I  I  I 
+:  :--:  :  :
+I        I  I 
+:  :--:--:  :
+I        I  I 
+:--:--:--:  :
+ 
+[7, 4, 6] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:  :--:
+I     I     I 
+:  :  :--:  :
+I  I     I  I 
+:  :  :  :  :
+I  I  I     I 
+:  :  :--:--:
+I  I     I  I 
+:  :--:--:--:
+I           I 
+:  :--:--:  :
+I  I        I 
+:--:  :--:--:
+ 
+[8, 4, 6] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:  :--:
+I        I  I 
+:--:--:  :  :
+I           I 
+:  :--:  :--:
+I     I     I 
+:--:  :--:--:
+I     I     I 
+:  :--:  :  :
+I        I  I 
+:  :  :--:  :
+I  I  I  I  I 
+:--:--:--:  :
+ 
+[9, 4, 6] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:  :--:
+I        I  I 
+:  :  :--:  :
+I  I  I     I 
+:  :  :  :  :
+I  I  I  I  I 
+:  :  :  :--:
+I  I  I     I 
+:  :  :--:  :
+I  I     I  I 
+:  :--:  :  :
+I     I     I 
+:--:--:  :--:
+ 
+[1, 5, 6] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:--:  :--:
+I           I  I 
+:  :--:--:--:  :
+I           I  I 
+:  :--:--:  :  :
+I  I     I  I  I 
+:  :--:  :  :  :
+I  I     I  I  I 
+:  :  :--:  :  :
+I  I        I  I 
+:--:  :--:--:  :
+I              I 
+:  :--:--:--:--:
+ 
+[2, 5, 6] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:--:  :--:
+I     I     I  I 
+:  :  :  :  :  :
+I  I     I     I 
+:  :  :--:--:--:
+I  I  I     I  I 
+:  :  :  :  :  :
+I  I     I  I  I 
+:  :--:--:  :  :
+I     I     I  I 
+:  :  :  :--:  :
+I  I  I        I 
+:--:  :--:--:--:
+ 
+[3, 5, 6] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:--:  :--:
+I  I     I     I 
+:--:  :  :--:  :
+I     I  I     I 
+:  :--:  :  :--:
+I  I  I     I  I 
+:  :  :  :--:  :
+I     I     I  I 
+:--:  :--:--:  :
+I  I        I  I 
+:  :  :--:  :  :
+I  I  I        I 
+:--:--:  :--:--:
+ 
+[4, 5, 6] = java.lang.reflect.InvocationTargetException 
+[5, 5, 6] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:--:  :--:
+I  I        I  I 
+:  :  :--:  :  :
+I  I     I  I  I 
+:  :  :  :--:  :
+I     I     I  I 
+:  :--:--:  :  :
+I  I     I     I 
+:  :  :  :--:  :
+I     I     I  I 
+:  :  :--:  :  :
+I  I  I  I  I  I 
+:--:--:--:  :--:
+ 
+[6, 5, 6] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:--:  :--:
+I        I     I 
+:--:  :  :--:  :
+I     I  I  I  I 
+:  :--:  :--:  :
+I  I     I     I 
+:  :  :--:  :--:
+I  I  I  I     I 
+:  :  :  :  :  :
+I  I  I     I  I 
+:  :  :--:--:  :
+I  I  I  I     I 
+:--:--:--:  :--:
+ 
+[7, 5, 6] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:--:  :--:
+I        I     I 
+:  :  :  :--:  :
+I  I  I     I  I 
+:  :  :  :  :  :
+I  I  I  I     I 
+:  :  :--:--:--:
+I  I        I  I 
+:  :--:--:  :  :
+I  I        I  I 
+:  :  :--:--:  :
+I  I           I 
+:--:  :--:--:--:
+ 
+[8, 5, 6] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:--:  :--:
+I           I  I 
+:  :--:--:  :  :
+I  I           I 
+:  :  :--:--:--:
+I  I     I     I 
+:  :--:  :  :--:
+I  I     I     I 
+:  :  :--:--:  :
+I  I        I  I 
+:  :--:--:  :  :
+I        I     I 
+:--:--:--:--:  :
+ 
+[9, 5, 6] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:--:  :--:
+I           I  I 
+:  :--:  :--:  :
+I     I  I     I 
+:--:  :  :  :  :
+I     I  I  I  I 
+:  :--:  :  :--:
+I     I  I     I 
+:  :  :  :--:  :
+I  I  I     I  I 
+:  :--:--:  :  :
+I        I     I 
+:--:--:--:  :--:
+ 
+[1, 6, 6] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:--:--:  :--:
+I              I  I 
+:  :--:--:  :--:  :
+I        I     I  I 
+:--:--:  :  :--:  :
+I     I  I     I  I 
+:  :  :  :--:  :  :
+I  I  I     I     I 
+:  :--:  :  :  :--:
+I  I     I  I     I 
+:  :  :--:  :--:  :
+I  I  I  I  I     I 
+:--:--:--:  :--:--:
+ 
+[2, 6, 6] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:--:--:  :--:
+I  I     I     I  I 
+:  :  :  :  :--:  :
+I     I     I     I 
+:--:  :--:--:--:  :
+I     I        I  I 
+:  :  :  :--:  :  :
+I  I  I     I  I  I 
+:  :--:  :--:  :  :
+I        I        I 
+:  :  :--:  :  :--:
+I  I  I  I     I  I 
+:--:--:--:--:--:--:
+ 
+[3, 6, 6] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:--:--:  :--:
+I           I     I 
+:  :--:  :  :--:  :
+I  I     I  I     I 
+:  :  :--:  :  :--:
+I  I     I        I 
+:--:--:  :--:--:  :
+I     I     I  I  I 
+:  :  :--:  :--:  :
+I  I  I  I     I  I 
+:  :  :  :--:  :--:
+I  I  I  I  I  I  I 
+:--:--:--:--:  :--:
+ 
+[4, 6, 6] = java.lang.reflect.InvocationTargetException 
+[5, 6, 6] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:--:--:  :--:
+I     I        I  I 
+:  :  :  :--:  :  :
+I  I  I     I  I  I 
+:  :  :  :  :--:  :
+I  I     I     I  I 
+:  :  :--:--:  :  :
+I  I        I     I 
+:  :--:--:  :--:--:
+I        I  I     I 
+:  :--:  :  :  :  :
+I     I  I     I  I 
+:--:--:  :--:--:--:
+ 
+[6, 6, 6] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:--:--:  :--:
+I     I     I     I 
+:  :--:  :  :  :  :
+I  I     I  I  I  I 
+:  :  :--:  :--:  :
+I     I     I     I 
+:  :--:  :--:  :--:
+I  I  I     I     I 
+:  :  :  :--:  :  :
+I     I        I  I 
+:  :  :  :--:--:  :
+I  I  I  I  I  I  I 
+:--:--:--:--:--:  :
+ 
+[7, 6, 6] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:--:--:  :--:
+I           I     I 
+:  :  :  :  :--:  :
+I  I  I  I     I  I 
+:  :  :  :--:  :  :
+I  I  I     I     I 
+:  :--:  :--:--:--:
+I     I        I  I 
+:--:  :--:--:  :  :
+I     I        I  I 
+:  :--:  :--:--:  :
+I     I           I 
+:--:--:  :--:--:--:
+ 
+[8, 6, 6] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:--:--:  :--:
+I              I  I 
+:  :--:--:--:  :  :
+I     I           I 
+:--:  :  :--:--:  :
+I  I  I        I  I 
+:  :  :--:  :  :--:
+I  I  I     I     I 
+:  :  :  :--:--:  :
+I     I        I  I 
+:--:--:--:--:  :--:
+I                 I 
+:--:--:--:--:--:  :
+ 
+[9, 6, 6] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:--:--:  :--:
+I              I  I 
+:  :--:--:  :--:  :
+I     I  I     I  I 
+:--:  :  :  :  :  :
+I  I     I  I  I  I 
+:  :--:  :  :  :  :
+I        I  I     I 
+:  :--:--:  :--:--:
+I  I     I     I  I 
+:  :  :  :--:  :  :
+I     I     I     I 
+:--:--:--:--:  :--:
+ 
+[1, 7, 6] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:--:--:--:  :--:
+I                 I  I 
+:  :--:  :--:  :--:  :
+I     I     I        I 
+:--:  :--:  :--:--:--:
+I  I     I           I 
+:  :  :  :--:--:--:  :
+I  I  I     I        I 
+:  :  :  :  :--:  :--:
+I     I  I     I     I 
+:--:--:  :--:  :--:  :
+I           I  I     I 
+:--:--:--:--:  :--:--:
+ 
+[2, 7, 6] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:--:--:--:  :--:
+I     I     I     I  I 
+:  :  :  :  :  :  :  :
+I  I     I     I  I  I 
+:  :--:  :--:--:--:  :
+I  I           I     I 
+:  :  :--:--:--:  :--:
+I  I     I     I     I 
+:  :  :--:  :  :--:  :
+I  I  I     I     I  I 
+:  :  :  :  :--:  :  :
+I  I     I     I     I 
+:  :--:--:--:--:--:--:
+ 
+[3, 7, 6] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:--:--:--:  :--:
+I        I     I     I 
+:  :--:--:  :  :--:  :
+I     I     I  I     I 
+:--:  :  :--:  :  :  :
+I     I     I     I  I 
+:  :--:--:  :--:  :  :
+I  I     I     I  I  I 
+:  :  :  :--:  :  :  :
+I  I  I        I  I  I 
+:  :--:--:--:--:  :  :
+I  I  I           I  I 
+:--:--:--:--:--:--:  :
+ 
+[4, 7, 6] = java.lang.reflect.InvocationTargetException 
+[5, 7, 6] = java.lang.reflect.InvocationTargetException 
+[6, 7, 6] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:--:--:--:  :--:
+I              I     I 
+:  :--:--:  :  :--:  :
+I     I     I     I  I 
+:--:--:  :--:  :--:  :
+I        I     I     I 
+:  :--:--:  :--:  :--:
+I  I  I  I  I  I     I 
+:  :--:--:  :  :  :  :
+I        I  I  I  I  I 
+:  :--:  :  :  :--:  :
+I  I  I     I  I     I 
+:--:--:--:--:--:  :--:
+ 
+[7, 7, 6] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:--:--:--:  :--:
+I              I     I 
+:  :  :--:  :  :--:  :
+I  I  I  I  I     I  I 
+:--:  :  :  :  :  :  :
+I     I  I  I  I     I 
+:  :--:  :  :--:--:  :
+I     I  I        I  I 
+:  :  :  :--:--:  :  :
+I  I  I  I        I  I 
+:  :  :  :  :--:--:  :
+I  I     I  I        I 
+:--:--:--:  :--:--:--:
+ 
+[8, 7, 6] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:--:--:--:  :--:
+I                 I  I 
+:  :  :--:--:--:  :  :
+I  I     I           I 
+:  :--:--:  :--:--:--:
+I  I     I     I     I 
+:  :  :  :--:  :  :  :
+I     I  I     I  I  I 
+:--:--:  :  :--:--:  :
+I        I        I  I 
+:  :--:--:--:--:  :  :
+I              I     I 
+:--:--:--:--:--:--:  :
+ 
+[9, 7, 6] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:--:--:--:  :--:
+I                 I  I 
+:  :--:--:--:  :--:  :
+I        I  I  I     I 
+:  :--:  :  :  :  :--:
+I  I     I  I  I     I 
+:  :  :--:  :  :  :  :
+I  I  I     I  I  I  I 
+:  :--:  :  :  :--:  :
+I        I  I     I  I 
+:--:--:--:  :--:  :  :
+I              I     I 
+:--:--:--:--:--:  :--:
+ 
+[1, 8, 6] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:--:--:--:  :--:--:
+I                 I     I 
+:  :--:  :--:--:--:  :--:
+I     I     I           I 
+:--:  :--:  :--:--:--:  :
+I  I     I           I  I 
+:  :  :  :--:  :--:  :  :
+I  I  I     I     I     I 
+:  :  :--:  :--:  :--:--:
+I     I  I     I  I     I 
+:--:--:  :--:  :  :--:  :
+I              I        I 
+:--:--:--:--:  :--:--:--:
+ 
+[2, 8, 6] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:--:--:--:  :--:--:
+I  I        I           I 
+:  :  :  :  :  :--:--:  :
+I     I  I     I  I     I 
+:  :--:  :--:--:  :  :  :
+I  I     I     I     I  I 
+:  :  :--:  :--:  :--:--:
+I  I     I     I  I     I 
+:--:  :--:  :  :--:  :  :
+I     I     I     I  I  I 
+:  :  :  :--:--:  :  :  :
+I  I           I     I  I 
+:--:--:--:--:--:--:--:  :
+ 
+[3, 8, 6] = java.lang.reflect.InvocationTargetException 
+[4, 8, 6] = java.lang.reflect.InvocationTargetException 
+[5, 8, 6] = java.lang.reflect.InvocationTargetException 
+[6, 8, 6] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:--:--:--:  :--:--:
+I  I  I        I     I  I 
+:  :--:  :--:  :--:  :  :
+I  I     I     I     I  I 
+:  :  :  :  :--:  :--:  :
+I     I  I  I  I  I  I  I 
+:--:--:  :  :--:  :--:  :
+I        I        I  I  I 
+:  :--:--:--:--:--:--:  :
+I                       I 
+:  :  :  :  :  :  :--:--:
+I  I  I  I  I  I  I  I  I 
+:--:--:--:--:--:--:--:--:
+ 
+[7, 8, 6] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:--:--:--:  :--:--:
+I              I     I  I 
+:  :  :--:  :  :--:  :  :
+I  I  I  I  I           I 
+:--:  :  :  :  :--:--:  :
+I     I  I  I        I  I 
+:  :--:  :  :--:--:  :--:
+I     I  I        I     I 
+:  :  :  :--:--:  :--:  :
+I  I  I  I        I     I 
+:  :  :  :  :--:--:  :--:
+I  I     I        I     I 
+:--:--:--:  :--:--:--:--:
+ 
+[8, 8, 6] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:--:--:--:  :--:--:
+I     I     I     I     I 
+:  :  :  :--:  :  :  :  :
+I  I  I        I     I  I 
+:  :--:  :--:--:--:--:  :
+I     I        I        I 
+:  :  :--:--:  :  :--:--:
+I  I  I        I     I  I 
+:--:  :  :  :--:--:  :  :
+I     I  I  I           I 
+:  :--:  :  :  :  :  :--:
+I        I  I  I     I  I 
+:--:--:--:--:  :--:--:--:
+ 
+[9, 8, 6] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:--:--:--:  :--:--:
+I                 I     I 
+:  :--:--:--:  :--:--:  :
+I     I     I     I     I 
+:  :  :--:  :  :  :  :--:
+I  I  I     I  I  I  I  I 
+:  :  :  :--:  :  :  :  :
+I  I  I     I  I  I     I 
+:  :--:  :  :  :--:  :--:
+I        I  I     I     I 
+:--:--:--:  :--:  :--:  :
+I              I        I 
+:--:--:--:--:--:  :--:--:
+ 
+[1, 9, 6] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:--:--:--:--:  :--:--:
+I                          I 
+:  :  :--:--:--:--:--:--:--:
+I  I                       I 
+:  :  :--:--:--:--:--:--:  :
+I  I  I        I  I     I  I 
+:  :--:  :  :  :  :  :  :  :
+I  I     I  I  I  I  I     I 
+:  :  :--:  :  :  :  :--:--:
+I     I     I  I  I        I 
+:  :--:  :--:  :  :--:--:  :
+I     I     I        I     I 
+:--:--:--:--:--:--:  :--:--:
+ 
+[2, 9, 6] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:--:--:--:--:  :--:--:
+I     I        I           I 
+:  :  :  :  :  :  :  :--:--:
+I  I     I  I     I        I 
+:  :--:--:  :--:--:--:--:  :
+I     I     I     I        I 
+:--:  :  :--:  :--:  :--:--:
+I     I  I  I     I  I     I 
+:  :--:  :  :  :  :--:  :  :
+I     I  I     I     I  I  I 
+:--:  :  :  :--:--:  :  :  :
+I     I           I     I  I 
+:--:--:--:--:--:--:--:--:  :
+ 
+[3, 9, 6] = java.lang.reflect.InvocationTargetException 
+[4, 9, 6] = java.lang.reflect.InvocationTargetException 
+[5, 9, 6] = java.lang.reflect.InvocationTargetException 
+[6, 9, 6] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:--:--:--:--:  :--:--:
+I     I           I     I  I 
+:  :  :  :  :--:  :--:  :  :
+I  I  I  I  I     I     I  I 
+:  :  :  :  :  :  :  :--:  :
+I  I     I  I  I  I     I  I 
+:  :--:--:  :  :--:  :  :  :
+I  I        I        I  I  I 
+:  :  :--:--:--:--:--:--:  :
+I  I  I        I  I        I 
+:  :  :  :  :  :  :  :  :--:
+I  I     I  I        I     I 
+:--:  :--:--:--:--:--:--:--:
+ 
+[7, 9, 6] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:--:--:--:--:  :--:--:
+I                 I     I  I 
+:--:--:  :  :  :  :--:  :  :
+I     I  I  I  I        I  I 
+:  :  :  :  :  :--:--:--:  :
+I  I     I  I  I        I  I 
+:  :--:--:  :  :  :--:  :  :
+I  I     I  I        I     I 
+:  :  :  :--:--:--:  :--:--:
+I  I  I     I        I     I 
+:  :--:  :  :  :--:--:  :  :
+I        I  I           I  I 
+:--:--:--:--:  :--:--:--:--:
+ 
+[8, 9, 6] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:--:--:--:--:  :--:--:
+I     I        I     I     I 
+:  :--:  :--:--:  :  :  :  :
+I        I        I     I  I 
+:--:--:  :  :--:--:--:--:  :
+I        I        I        I 
+:  :--:--:--:--:  :  :--:--:
+I        I        I     I  I 
+:  :--:  :  :--:--:--:  :  :
+I  I     I  I  I           I 
+:  :  :--:  :  :  :  :  :--:
+I  I           I  I     I  I 
+:--:--:--:--:--:  :--:--:--:
+ 
+[9, 9, 6] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:--:--:--:--:  :--:--:
+I  I                 I     I 
+:  :  :--:  :  :  :--:--:  :
+I  I     I  I  I  I        I 
+:  :--:  :  :  :  :  :  :--:
+I        I  I  I     I     I 
+:--:--:--:  :--:  :--:--:--:
+I        I     I     I     I 
+:--:  :  :--:  :  :--:  :  :
+I     I        I     I  I  I 
+:  :--:--:--:--:--:  :--:  :
+I                 I        I 
+:--:--:--:--:--:--:  :--:--:
+ 
+[1, 1, 7] = Amazing - Copyright by Creative Computing, Morristown, NJ
+ 
+[2, 1, 7] = Amazing - Copyright by Creative Computing, Morristown, NJ
+ 
+[3, 1, 7] = Amazing - Copyright by Creative Computing, Morristown, NJ
+ 
+[4, 1, 7] = Amazing - Copyright by Creative Computing, Morristown, NJ
+ 
+[5, 1, 7] = Amazing - Copyright by Creative Computing, Morristown, NJ
+ 
+[6, 1, 7] = Amazing - Copyright by Creative Computing, Morristown, NJ
+ 
+[7, 1, 7] = Amazing - Copyright by Creative Computing, Morristown, NJ
+ 
+[8, 1, 7] = Amazing - Copyright by Creative Computing, Morristown, NJ
+ 
+[9, 1, 7] = Amazing - Copyright by Creative Computing, Morristown, NJ
+ 
+[1, 2, 7] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:  :
+I     I 
+:  :--:
+I     I 
+:--:  :
+I     I 
+:  :--:
+I     I 
+:--:  :
+I     I 
+:  :--:
+I     I 
+:  :  :
+I  I  I 
+:--:  :
+ 
+[2, 2, 7] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:  :
+I     I 
+:  :--:
+I  I  I 
+:  :  :
+I     I 
+:  :  :
+I  I  I 
+:  :  :
+I  I  I 
+:  :--:
+I     I 
+:  :  :
+I  I  I 
+:--:  :
+ 
+[3, 2, 7] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:  :
+I     I 
+:--:  :
+I     I 
+:  :--:
+I     I 
+:  :  :
+I  I  I 
+:  :  :
+I  I  I 
+:  :  :
+I  I  I 
+:--:  :
+I     I 
+:  :--:
+ 
+[4, 2, 7] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:  :
+I     I 
+:  :  :
+I  I  I 
+:  :  :
+I  I  I 
+:  :  :
+I  I  I 
+:--:  :
+I     I 
+:  :--:
+I     I 
+:--:  :
+I     I 
+:  :--:
+ 
+[5, 2, 7] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:  :
+I     I 
+:  :--:
+I     I 
+:  :  :
+I  I  I 
+:--:  :
+I     I 
+:  :--:
+I     I 
+:--:  :
+I  I  I 
+:  :  :
+I     I 
+:  :--:
+ 
+[6, 2, 7] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:  :
+I     I 
+:  :  :
+I  I  I 
+:  :--:
+I     I 
+:--:  :
+I  I  I 
+:  :  :
+I     I 
+:  :--:
+I     I 
+:  :  :
+I  I  I 
+:--:  :
+ 
+[7, 2, 7] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:  :
+I  I  I 
+:  :  :
+I  I  I 
+:  :  :
+I     I 
+:  :--:
+I     I 
+:  :  :
+I  I  I 
+:  :  :
+I  I  I 
+:  :  :
+I  I  I 
+:--:  :
+ 
+[8, 2, 7] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:  :
+I  I  I 
+:  :  :
+I  I  I 
+:  :  :
+I     I 
+:  :--:
+I     I 
+:--:  :
+I  I  I 
+:  :  :
+I  I  I 
+:  :--:
+I  I  I 
+:--:--:
+ 
+[9, 2, 7] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:  :
+I     I 
+:  :  :
+I  I  I 
+:  :  :
+I  I  I 
+:  :  :
+I  I  I 
+:  :--:
+I  I  I 
+:  :--:
+I     I 
+:  :  :
+I  I  I 
+:--:  :
+ 
+[1, 3, 7] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:  :
+I        I 
+:  :--:--:
+I        I 
+:--:--:  :
+I        I 
+:  :--:--:
+I  I     I 
+:  :  :  :
+I  I  I  I 
+:  :  :  :
+I     I  I 
+:  :--:  :
+I  I  I  I 
+:--:--:--:
+ 
+[2, 3, 7] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:  :
+I  I     I 
+:  :  :  :
+I     I  I 
+:  :--:  :
+I     I  I 
+:--:  :  :
+I     I  I 
+:  :--:  :
+I  I     I 
+:  :  :--:
+I  I  I  I 
+:  :  :  :
+I  I     I 
+:--:  :--:
+ 
+[3, 3, 7] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:  :
+I        I 
+:  :--:  :
+I  I     I 
+:--:  :  :
+I     I  I 
+:  :--:--:
+I  I     I 
+:  :  :  :
+I  I  I  I 
+:  :--:  :
+I     I  I 
+:  :  :  :
+I  I     I 
+:  :--:--:
+ 
+[4, 3, 7] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:  :
+I        I 
+:--:--:  :
+I     I  I 
+:  :  :  :
+I  I  I  I 
+:  :  :  :
+I  I  I  I 
+:  :--:  :
+I  I     I 
+:  :  :  :
+I     I  I 
+:  :--:  :
+I     I  I 
+:--:--:  :
+ 
+[5, 3, 7] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:  :
+I        I 
+:  :  :--:
+I  I     I 
+:  :--:  :
+I     I  I 
+:--:  :--:
+I  I     I 
+:--:--:  :
+I        I 
+:  :--:--:
+I        I 
+:  :--:  :
+I  I     I 
+:--:  :--:
+ 
+[6, 3, 7] = java.lang.reflect.InvocationTargetException 
+[7, 3, 7] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:  :
+I        I 
+:--:--:  :
+I     I  I 
+:  :  :  :
+I  I     I 
+:  :  :--:
+I  I     I 
+:  :--:  :
+I  I  I  I 
+:  :--:--:
+I        I 
+:  :--:  :
+I  I     I 
+:--:  :--:
+ 
+[8, 3, 7] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:  :
+I     I  I 
+:--:  :  :
+I     I  I 
+:  :--:  :
+I        I 
+:  :--:--:
+I     I  I 
+:--:  :  :
+I     I  I 
+:  :--:  :
+I        I 
+:  :  :--:
+I  I  I  I 
+:--:--:--:
+ 
+[9, 3, 7] = java.lang.reflect.InvocationTargetException 
+[1, 4, 7] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:  :--:
+I        I  I 
+:  :--:--:  :
+I           I 
+:  :  :--:--:
+I  I  I     I 
+:  :  :  :--:
+I  I  I     I 
+:  :--:  :  :
+I  I     I  I 
+:  :  :  :  :
+I     I  I  I 
+:--:--:  :  :
+I        I  I 
+:--:--:--:  :
+ 
+[2, 4, 7] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:  :--:
+I  I     I  I 
+:  :  :  :  :
+I     I  I  I 
+:  :--:  :  :
+I  I     I  I 
+:  :  :--:  :
+I  I  I  I  I 
+:  :  :--:  :
+I  I  I     I 
+:  :  :  :--:
+I  I  I  I  I 
+:  :  :  :--:
+I  I  I  I  I 
+:--:--:--:--:
+ 
+[3, 4, 7] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:  :--:
+I     I     I 
+:  :  :--:  :
+I  I  I     I 
+:  :  :  :  :
+I  I     I  I 
+:  :  :--:  :
+I  I  I     I 
+:  :--:  :--:
+I     I     I 
+:--:  :--:--:
+I           I 
+:--:--:--:  :
+I           I 
+:  :--:--:--:
+ 
+[4, 4, 7] = java.lang.reflect.InvocationTargetException 
+[5, 4, 7] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:  :--:
+I        I  I 
+:  :--:--:  :
+I        I  I 
+:  :--:  :  :
+I     I  I  I 
+:--:  :--:  :
+I        I  I 
+:  :--:  :  :
+I     I     I 
+:  :  :--:--:
+I  I  I     I 
+:  :  :  :  :
+I  I     I  I 
+:--:  :--:--:
+ 
+[6, 4, 7] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:  :--:
+I           I 
+:--:--:--:  :
+I     I  I  I 
+:  :  :  :  :
+I  I  I     I 
+:--:  :  :  :
+I     I  I  I 
+:  :--:  :  :
+I        I  I 
+:  :--:--:  :
+I        I  I 
+:--:--:  :  :
+I        I  I 
+:--:--:--:  :
+ 
+[7, 4, 7] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:  :--:
+I     I     I 
+:  :  :--:  :
+I  I     I  I 
+:  :--:  :  :
+I  I  I     I 
+:  :--:--:--:
+I  I  I     I 
+:  :  :  :--:
+I     I     I 
+:  :--:--:  :
+I        I  I 
+:  :--:  :  :
+I  I        I 
+:--:  :--:--:
+ 
+[8, 4, 7] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:  :--:
+I  I     I  I 
+:--:--:  :  :
+I           I 
+:  :--:--:--:
+I     I     I 
+:--:  :  :--:
+I     I     I 
+:  :--:--:  :
+I  I     I  I 
+:  :  :  :  :
+I  I  I  I  I 
+:  :  :  :  :
+I  I  I     I 
+:--:  :--:--:
+ 
+[9, 4, 7] = java.lang.reflect.InvocationTargetException 
+[1, 5, 7] = java.lang.reflect.InvocationTargetException 
+[2, 5, 7] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:--:  :--:
+I     I        I 
+:  :  :  :--:  :
+I  I     I     I 
+:  :  :--:  :--:
+I  I  I  I     I 
+:  :  :  :--:  :
+I  I     I     I 
+:  :--:  :  :--:
+I     I  I  I  I 
+:--:  :--:  :  :
+I     I     I  I 
+:  :  :  :--:  :
+I  I  I        I 
+:--:  :--:--:--:
+ 
+[3, 5, 7] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:--:  :--:
+I        I     I 
+:--:  :  :--:  :
+I     I  I     I 
+:  :  :  :  :--:
+I  I  I     I  I 
+:  :--:--:--:  :
+I        I  I  I 
+:--:  :  :  :  :
+I     I  I     I 
+:  :--:--:  :--:
+I        I     I 
+:  :--:  :--:  :
+I  I           I 
+:--:  :--:--:--:
+ 
+[4, 5, 7] = java.lang.reflect.InvocationTargetException 
+[5, 5, 7] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:--:  :--:
+I  I        I  I 
+:  :  :--:  :  :
+I  I     I  I  I 
+:  :  :  :--:  :
+I     I     I  I 
+:  :  :--:  :  :
+I  I  I  I     I 
+:  :  :  :  :--:
+I  I     I     I 
+:  :--:--:--:  :
+I        I     I 
+:  :--:  :  :--:
+I     I  I     I 
+:--:--:  :--:--:
+ 
+[6, 5, 7] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:--:  :--:
+I        I     I 
+:--:  :  :  :  :
+I     I  I  I  I 
+:  :--:  :--:  :
+I  I     I     I 
+:  :  :  :  :--:
+I  I  I  I     I 
+:  :  :--:  :  :
+I  I        I  I 
+:  :--:--:--:  :
+I        I  I  I 
+:--:--:  :  :  :
+I        I     I 
+:--:--:  :--:--:
+ 
+[7, 5, 7] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:--:  :--:
+I        I     I 
+:  :  :  :--:  :
+I  I  I     I  I 
+:  :  :--:  :  :
+I  I  I  I     I 
+:  :  :  :--:--:
+I  I        I  I 
+:--:--:--:  :  :
+I           I  I 
+:  :  :--:--:  :
+I  I     I     I 
+:--:  :--:  :  :
+I           I  I 
+:  :--:--:--:--:
+ 
+[8, 5, 7] = java.lang.reflect.InvocationTargetException 
+[9, 5, 7] = java.lang.reflect.InvocationTargetException 
+[1, 6, 7] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:--:--:  :--:
+I                 I 
+:  :--:--:  :--:  :
+I        I  I  I  I 
+:--:--:  :  :  :  :
+I  I     I  I     I 
+:  :  :  :  :--:--:
+I     I  I        I 
+:--:--:  :--:--:  :
+I        I        I 
+:  :--:--:  :--:--:
+I     I        I  I 
+:--:  :--:--:  :  :
+I           I     I 
+:--:--:  :--:--:--:
+ 
+[2, 6, 7] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:--:--:  :--:
+I  I     I     I  I 
+:  :  :  :  :  :  :
+I     I     I  I  I 
+:--:  :--:--:--:  :
+I     I     I     I 
+:  :  :  :--:  :--:
+I  I  I     I     I 
+:  :--:  :  :--:  :
+I  I     I     I  I 
+:  :  :  :--:  :  :
+I     I     I     I 
+:--:--:--:  :--:--:
+I                 I 
+:  :--:--:--:--:--:
+ 
+[3, 6, 7] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:--:--:  :--:
+I           I     I 
+:  :--:  :  :--:  :
+I  I     I  I     I 
+:  :  :--:  :  :--:
+I  I     I        I 
+:--:--:  :--:--:  :
+I     I     I  I  I 
+:  :  :--:  :  :  :
+I  I        I  I  I 
+:  :--:--:--:  :  :
+I     I  I     I  I 
+:  :  :  :  :  :  :
+I  I  I     I     I 
+:--:  :--:--:--:--:
+ 
+[4, 6, 7] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:--:--:  :--:
+I           I     I 
+:  :  :--:--:  :  :
+I  I        I  I  I 
+:  :--:--:  :  :  :
+I  I  I  I  I  I  I 
+:  :  :--:  :  :  :
+I     I     I  I  I 
+:--:--:  :--:  :  :
+I     I  I     I  I 
+:  :  :  :  :--:  :
+I  I  I  I  I     I 
+:  :  :  :--:  :--:
+I  I  I  I  I  I  I 
+:--:--:--:--:  :--:
+ 
+[5, 6, 7] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:--:--:  :--:
+I     I        I  I 
+:  :  :  :--:  :  :
+I  I  I     I  I  I 
+:  :  :  :  :--:  :
+I  I     I     I  I 
+:  :  :--:--:  :  :
+I  I        I     I 
+:  :--:--:  :--:--:
+I        I        I 
+:  :--:  :--:--:  :
+I     I  I  I     I 
+:--:  :  :  :  :  :
+I     I  I     I  I 
+:--:--:  :--:--:--:
+ 
+[6, 6, 7] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:--:--:  :--:
+I     I     I     I 
+:  :--:  :  :  :  :
+I  I     I  I  I  I 
+:  :  :--:  :--:  :
+I     I     I     I 
+:  :  :  :--:  :--:
+I  I  I  I  I     I 
+:  :  :  :  :  :  :
+I  I  I        I  I 
+:  :--:--:  :--:  :
+I        I  I     I 
+:  :--:  :--:  :--:
+I  I  I     I     I 
+:--:--:--:  :--:--:
+ 
+[7, 6, 7] = java.lang.reflect.InvocationTargetException 
+[8, 6, 7] = java.lang.reflect.InvocationTargetException 
+[9, 6, 7] = java.lang.reflect.InvocationTargetException 
+[1, 7, 7] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:--:--:--:  :--:
+I                 I  I 
+:  :--:  :--:--:--:  :
+I     I           I  I 
+:--:  :--:  :--:  :  :
+I  I     I     I     I 
+:  :  :  :--:  :--:--:
+I  I  I     I        I 
+:  :  :  :  :--:--:  :
+I     I  I     I     I 
+:--:--:--:--:  :  :--:
+I           I  I  I  I 
+:  :  :--:  :  :  :  :
+I  I     I     I     I 
+:--:--:--:--:  :--:--:
+ 
+[2, 7, 7] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:--:--:--:  :--:
+I     I     I     I  I 
+:  :  :  :  :  :  :  :
+I  I     I     I  I  I 
+:  :--:  :--:--:--:  :
+I  I     I  I  I     I 
+:  :  :  :--:--:  :--:
+I  I  I  I     I     I 
+:  :  :--:  :  :--:  :
+I  I  I     I     I  I 
+:  :  :  :--:--:  :  :
+I  I  I        I     I 
+:  :  :--:--:  :--:--:
+I  I  I              I 
+:--:--:  :--:--:--:--:
+ 
+[3, 7, 7] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:--:--:--:  :--:
+I  I           I     I 
+:  :  :--:  :  :--:  :
+I  I  I     I  I     I 
+:  :  :  :--:  :  :  :
+I     I     I     I  I 
+:  :--:--:  :--:--:  :
+I  I     I     I  I  I 
+:--:  :  :--:  :--:  :
+I     I        I     I 
+:  :--:--:--:--:  :--:
+I        I     I     I 
+:  :--:  :  :--:--:  :
+I     I  I           I 
+:--:--:  :--:--:--:--:
+ 
+[4, 7, 7] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:--:--:--:  :--:
+I        I           I 
+:--:  :  :  :  :  :  :
+I     I     I  I  I  I 
+:  :--:--:--:  :  :  :
+I        I     I  I  I 
+:--:--:  :  :--:  :  :
+I        I  I  I  I  I 
+:--:--:--:  :  :  :  :
+I        I  I     I  I 
+:  :  :  :--:  :--:  :
+I  I  I        I     I 
+:  :  :--:--:--:  :--:
+I  I  I              I 
+:--:  :--:--:--:--:--:
+ 
+[5, 7, 7] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:--:--:--:  :--:
+I  I     I        I  I 
+:  :  :  :  :--:  :  :
+I     I  I     I  I  I 
+:--:--:  :  :  :--:  :
+I     I     I     I  I 
+:  :--:  :  :--:  :  :
+I     I  I     I     I 
+:--:  :  :--:  :  :--:
+I     I  I     I  I  I 
+:  :--:  :  :--:  :  :
+I        I     I  I  I 
+:  :--:--:--:  :  :  :
+I           I  I     I 
+:--:--:--:--:  :--:--:
+ 
+[6, 7, 7] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:--:--:--:  :--:
+I  I           I     I 
+:  :  :--:  :  :  :  :
+I     I     I  I  I  I 
+:--:--:  :--:  :--:  :
+I        I     I     I 
+:  :  :--:  :--:  :--:
+I  I     I  I  I     I 
+:  :--:  :  :  :  :  :
+I  I     I        I  I 
+:  :--:--:--:--:--:--:
+I           I        I 
+:  :--:--:  :  :  :  :
+I  I  I  I     I  I  I 
+:--:--:--:--:--:--:  :
+ 
+[7, 7, 7] = java.lang.reflect.InvocationTargetException 
+[8, 7, 7] = java.lang.reflect.InvocationTargetException 
+[9, 7, 7] = java.lang.reflect.InvocationTargetException 
+[1, 8, 7] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:--:--:--:  :--:--:
+I                 I     I 
+:  :--:  :--:--:--:  :  :
+I     I           I  I  I 
+:--:  :--:--:--:  :  :  :
+I  I     I     I     I  I 
+:  :  :  :--:  :  :--:  :
+I  I  I     I  I  I     I 
+:  :  :--:  :  :  :  :--:
+I     I  I     I  I  I  I 
+:--:--:  :--:  :--:  :  :
+I  I     I     I     I  I 
+:  :  :  :  :  :  :--:  :
+I     I     I  I        I 
+:--:--:--:--:  :--:--:--:
+ 
+[2, 8, 7] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:--:--:--:  :--:--:
+I           I           I 
+:  :--:  :  :  :--:--:--:
+I     I  I     I        I 
+:  :--:  :  :--:  :--:  :
+I  I     I        I     I 
+:--:  :  :--:--:--:--:--:
+I     I  I        I     I 
+:  :  :--:  :  :--:  :  :
+I  I  I     I     I  I  I 
+:  :  :  :  :--:  :  :  :
+I  I     I     I     I  I 
+:  :--:--:--:--:--:--:  :
+I                    I  I 
+:--:--:--:--:--:--:--:  :
+ 
+[3, 8, 7] = java.lang.reflect.InvocationTargetException 
+[4, 8, 7] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:--:--:--:  :--:--:
+I        I              I 
+:--:  :  :  :--:  :--:  :
+I     I  I     I  I     I 
+:  :--:  :--:  :  :  :--:
+I     I     I  I  I     I 
+:--:  :--:--:  :  :  :  :
+I  I           I  I  I  I 
+:  :--:--:  :--:  :  :--:
+I        I  I     I     I 
+:--:  :  :--:  :--:--:  :
+I     I        I     I  I 
+:  :  :--:--:--:  :--:  :
+I  I           I        I 
+:--:  :--:--:--:--:--:--:
+ 
+[5, 8, 7] = java.lang.reflect.InvocationTargetException 
+[6, 8, 7] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:--:--:--:  :--:--:
+I  I           I     I  I 
+:  :  :  :--:  :--:  :--:
+I  I  I  I     I     I  I 
+:  :  :  :  :--:  :--:--:
+I     I  I  I  I  I     I 
+:--:--:  :  :--:  :  :  :
+I        I        I  I  I 
+:  :--:--:--:--:--:  :  :
+I  I                 I  I 
+:  :--:--:--:--:--:--:  :
+I     I  I     I        I 
+:  :  :  :  :  :  :  :--:
+I  I  I  I  I     I  I  I 
+:--:--:--:  :--:--:--:--:
+ 
+[7, 8, 7] = java.lang.reflect.InvocationTargetException 
+[8, 8, 7] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:--:--:--:  :--:--:
+I  I              I     I 
+:  :  :--:--:  :  :  :  :
+I  I  I        I     I  I 
+:  :  :  :--:--:--:--:  :
+I  I  I        I        I 
+:  :  :  :--:  :  :--:--:
+I     I  I     I     I  I 
+:--:--:--:  :--:--:  :  :
+I           I  I        I 
+:  :--:--:  :  :  :--:--:
+I  I        I  I        I 
+:  :  :--:--:  :--:--:  :
+I  I                 I  I 
+:--:--:--:--:--:--:--:  :
+ 
+[9, 8, 7] = java.lang.reflect.InvocationTargetException 
+[1, 9, 7] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:--:--:--:--:  :--:--:
+I                    I     I 
+:  :--:--:--:--:--:--:  :  :
+I  I              I     I  I 
+:  :  :--:--:--:  :  :--:  :
+I  I  I        I  I  I     I 
+:  :--:  :  :  :  :  :  :  :
+I  I     I  I  I  I  I  I  I 
+:  :  :--:  :  :  :  :  :  :
+I     I     I  I     I  I  I 
+:--:--:  :--:  :--:--:  :  :
+I  I        I  I     I  I  I 
+:--:  :  :  :  :  :  :  :--:
+I  I     I  I  I  I     I  I 
+:--:--:--:--:--:  :--:--:--:
+ 
+[2, 9, 7] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:--:--:--:--:  :--:--:
+I              I     I     I 
+:  :--:--:  :  :  :  :  :  :
+I        I  I     I  I  I  I 
+:--:--:--:  :  :--:--:  :  :
+I     I     I        I  I  I 
+:  :  :  :--:--:--:  :  :--:
+I  I  I     I     I  I     I 
+:  :--:  :--:  :  :--:  :  :
+I  I     I     I     I  I  I 
+:  :  :  :  :  :--:  :  :  :
+I  I  I     I  I  I     I  I 
+:  :  :--:--:  :  :  :--:  :
+I     I           I     I  I 
+:--:--:--:--:--:--:--:--:  :
+ 
+[3, 9, 7] = java.lang.reflect.InvocationTargetException 
+[4, 9, 7] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:--:--:--:--:  :--:--:
+I           I              I 
+:  :--:  :  :  :--:  :--:  :
+I  I     I  I     I  I     I 
+:  :  :--:--:--:  :  :  :--:
+I  I     I     I  I  I  I  I 
+:  :--:  :  :--:  :  :  :  :
+I     I           I  I  I  I 
+:--:  :--:--:--:--:  :  :  :
+I     I     I  I     I     I 
+:  :--:  :  :  :  :--:--:  :
+I  I  I  I        I     I  I 
+:  :  :  :--:--:--:  :--:  :
+I     I           I        I 
+:--:--:  :--:--:--:--:--:--:
+ 
+[5, 9, 7] = java.lang.reflect.InvocationTargetException 
+[6, 9, 7] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:--:--:--:--:  :--:--:
+I                 I     I  I 
+:  :  :--:  :--:  :--:  :  :
+I  I     I  I     I     I  I 
+:  :--:  :  :  :--:  :--:  :
+I  I     I  I     I        I 
+:  :--:--:  :  :--:  :  :--:
+I  I        I        I     I 
+:  :  :--:--:--:--:--:--:--:
+I  I     I     I     I     I 
+:  :  :--:  :  :  :  :  :  :
+I  I  I     I     I  I  I  I 
+:  :  :  :--:--:--:  :  :  :
+I  I           I        I  I 
+:--:--:--:--:  :--:--:--:--:
+ 
+[7, 9, 7] = java.lang.reflect.InvocationTargetException 
+[8, 9, 7] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:--:--:--:--:  :--:--:
+I              I     I     I 
+:  :--:  :--:--:  :  :  :  :
+I  I     I        I     I  I 
+:  :  :--:  :--:--:--:--:  :
+I  I     I        I        I 
+:--:--:  :  :--:  :  :--:--:
+I        I  I     I     I  I 
+:  :--:--:--:  :--:--:  :  :
+I  I           I  I        I 
+:  :  :--:--:  :  :  :--:--:
+I  I  I        I  I        I 
+:  :  :  :--:--:  :  :--:  :
+I     I           I     I  I 
+:--:--:--:--:--:--:--:--:  :
+ 
+[9, 9, 7] = java.lang.reflect.InvocationTargetException 
+[1, 1, 8] = Amazing - Copyright by Creative Computing, Morristown, NJ
+ 
+[2, 1, 8] = Amazing - Copyright by Creative Computing, Morristown, NJ
+ 
+[3, 1, 8] = Amazing - Copyright by Creative Computing, Morristown, NJ
+ 
+[4, 1, 8] = Amazing - Copyright by Creative Computing, Morristown, NJ
+ 
+[5, 1, 8] = Amazing - Copyright by Creative Computing, Morristown, NJ
+ 
+[6, 1, 8] = Amazing - Copyright by Creative Computing, Morristown, NJ
+ 
+[7, 1, 8] = Amazing - Copyright by Creative Computing, Morristown, NJ
+ 
+[8, 1, 8] = Amazing - Copyright by Creative Computing, Morristown, NJ
+ 
+[9, 1, 8] = Amazing - Copyright by Creative Computing, Morristown, NJ
+ 
+[1, 2, 8] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:  :
+I     I 
+:  :--:
+I     I 
+:--:  :
+I     I 
+:  :--:
+I     I 
+:--:  :
+I     I 
+:  :--:
+I     I 
+:  :  :
+I  I  I 
+:  :  :
+I  I  I 
+:--:  :
+ 
+[2, 2, 8] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:  :
+I     I 
+:  :--:
+I  I  I 
+:  :  :
+I     I 
+:  :  :
+I  I  I 
+:  :  :
+I  I  I 
+:  :--:
+I     I 
+:  :  :
+I  I  I 
+:  :  :
+I  I  I 
+:--:  :
+ 
+[3, 2, 8] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:  :
+I  I  I 
+:--:  :
+I     I 
+:  :--:
+I     I 
+:--:  :
+I  I  I 
+:  :  :
+I  I  I 
+:  :  :
+I  I  I 
+:  :  :
+I  I  I 
+:  :  :
+I  I  I 
+:--:--:
+ 
+[4, 2, 8] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:  :
+I     I 
+:  :  :
+I  I  I 
+:  :  :
+I  I  I 
+:--:  :
+I  I  I 
+:--:  :
+I     I 
+:  :--:
+I     I 
+:--:  :
+I  I  I 
+:  :  :
+I  I  I 
+:--:  :
+ 
+[5, 2, 8] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:  :
+I     I 
+:  :--:
+I     I 
+:--:  :
+I  I  I 
+:--:  :
+I     I 
+:  :--:
+I     I 
+:--:  :
+I  I  I 
+:  :  :
+I  I  I 
+:  :  :
+I  I  I 
+:--:--:
+ 
+[6, 2, 8] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:  :
+I     I 
+:  :  :
+I  I  I 
+:  :--:
+I     I 
+:--:  :
+I  I  I 
+:  :  :
+I     I 
+:  :--:
+I     I 
+:  :  :
+I  I  I 
+:  :  :
+I  I  I 
+:--:  :
+ 
+[7, 2, 8] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:  :
+I  I  I 
+:  :  :
+I  I  I 
+:  :  :
+I     I 
+:  :--:
+I     I 
+:  :  :
+I  I  I 
+:  :  :
+I  I  I 
+:  :  :
+I  I  I 
+:  :  :
+I  I  I 
+:--:  :
+ 
+[8, 2, 8] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:  :
+I  I  I 
+:  :  :
+I  I  I 
+:  :  :
+I     I 
+:  :--:
+I     I 
+:  :  :
+I  I  I 
+:--:  :
+I     I 
+:  :--:
+I     I 
+:  :  :
+I  I  I 
+:--:  :
+ 
+[9, 2, 8] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:  :
+I     I 
+:  :  :
+I  I  I 
+:  :  :
+I  I  I 
+:  :  :
+I  I  I 
+:  :  :
+I  I  I 
+:  :--:
+I  I  I 
+:  :--:
+I     I 
+:  :  :
+I  I  I 
+:--:  :
+ 
+[1, 3, 8] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:  :
+I        I 
+:  :--:--:
+I        I 
+:--:--:  :
+I        I 
+:  :--:--:
+I  I     I 
+:  :  :  :
+I  I  I  I 
+:  :--:  :
+I  I     I 
+:  :  :  :
+I     I  I 
+:  :--:  :
+I     I  I 
+:--:--:  :
+ 
+[2, 3, 8] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:  :
+I  I     I 
+:  :  :  :
+I     I  I 
+:  :--:  :
+I     I  I 
+:--:  :  :
+I     I  I 
+:  :--:  :
+I  I     I 
+:  :  :--:
+I  I  I  I 
+:--:  :  :
+I     I  I 
+:  :  :  :
+I  I     I 
+:  :--:--:
+ 
+[3, 3, 8] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:  :
+I        I 
+:--:--:  :
+I  I     I 
+:--:  :--:
+I     I  I 
+:  :--:--:
+I  I     I 
+:  :  :  :
+I  I  I  I 
+:  :--:  :
+I     I  I 
+:  :  :  :
+I  I  I  I 
+:  :  :  :
+I  I  I  I 
+:--:--:  :
+ 
+[4, 3, 8] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:  :
+I        I 
+:--:--:  :
+I     I  I 
+:  :  :  :
+I  I  I  I 
+:  :  :  :
+I  I  I  I 
+:  :--:  :
+I  I     I 
+:  :  :  :
+I     I  I 
+:  :--:  :
+I     I  I 
+:--:  :  :
+I     I  I 
+:--:--:  :
+ 
+[5, 3, 8] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:  :
+I        I 
+:  :  :--:
+I  I     I 
+:  :--:  :
+I     I  I 
+:--:  :--:
+I        I 
+:--:--:  :
+I        I 
+:  :  :--:
+I  I     I 
+:  :--:--:
+I        I 
+:  :--:  :
+I     I  I 
+:--:--:  :
+ 
+[6, 3, 8] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:  :
+I  I     I 
+:--:  :--:
+I     I  I 
+:  :--:  :
+I  I     I 
+:  :  :  :
+I     I  I 
+:--:--:  :
+I     I  I 
+:  :  :  :
+I  I  I  I 
+:  :  :  :
+I  I  I  I 
+:  :  :--:
+I  I  I  I 
+:--:--:--:
+ 
+[7, 3, 8] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:  :
+I        I 
+:--:--:  :
+I     I  I 
+:  :  :  :
+I  I     I 
+:  :--:--:
+I  I     I 
+:  :--:  :
+I  I     I 
+:  :  :--:
+I  I     I 
+:  :--:  :
+I     I  I 
+:--:  :  :
+I        I 
+:  :--:--:
+ 
+[8, 3, 8] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:  :
+I     I  I 
+:--:  :  :
+I     I  I 
+:  :--:  :
+I        I 
+:  :--:  :
+I     I  I 
+:--:  :  :
+I     I  I 
+:  :--:--:
+I  I     I 
+:  :  :  :
+I     I  I 
+:  :--:  :
+I     I  I 
+:--:--:  :
+ 
+[9, 3, 8] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:  :
+I  I     I 
+:  :  :  :
+I  I  I  I 
+:  :  :  :
+I  I  I  I 
+:  :  :  :
+I  I  I  I 
+:  :  :--:
+I  I     I 
+:  :--:  :
+I     I  I 
+:  :  :  :
+I  I     I 
+:  :  :--:
+I  I  I  I 
+:--:--:--:
+ 
+[1, 4, 8] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:  :--:
+I        I  I 
+:  :--:--:  :
+I           I 
+:  :  :--:--:
+I  I        I 
+:  :--:--:--:
+I     I     I 
+:  :--:  :  :
+I  I     I  I 
+:  :  :  :  :
+I     I  I  I 
+:--:--:  :  :
+I  I     I  I 
+:  :  :  :  :
+I     I  I  I 
+:--:--:--:  :
+ 
+[2, 4, 8] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:  :--:
+I  I     I  I 
+:  :  :  :  :
+I     I  I  I 
+:  :--:  :  :
+I  I     I  I 
+:  :  :--:  :
+I  I  I  I  I 
+:  :  :--:  :
+I  I  I     I 
+:  :  :  :--:
+I  I     I  I 
+:  :--:--:  :
+I        I  I 
+:  :  :  :  :
+I  I  I     I 
+:--:--:--:--:
+ 
+[3, 4, 8] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:  :--:
+I     I     I 
+:  :  :--:  :
+I  I  I     I 
+:  :  :  :--:
+I  I     I  I 
+:  :--:--:--:
+I  I  I     I 
+:  :--:  :  :
+I     I  I  I 
+:--:  :  :--:
+I  I        I 
+:  :--:--:  :
+I  I  I  I  I 
+:  :  :  :--:
+I  I  I  I  I 
+:--:--:--:--:
+ 
+[4, 4, 8] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:  :--:
+I           I 
+:--:--:  :  :
+I     I  I  I 
+:  :  :  :  :
+I  I  I  I  I 
+:  :  :  :--:
+I  I  I     I 
+:  :--:  :  :
+I  I     I  I 
+:  :  :  :  :
+I     I  I  I 
+:--:--:--:  :
+I           I 
+:  :  :--:--:
+I  I        I 
+:--:  :--:--:
+ 
+[5, 4, 8] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:  :--:
+I        I  I 
+:  :--:--:  :
+I        I  I 
+:  :--:  :  :
+I     I  I  I 
+:--:  :--:  :
+I        I  I 
+:  :--:  :  :
+I     I     I 
+:--:  :--:--:
+I  I     I  I 
+:  :  :  :--:
+I  I  I     I 
+:  :  :  :  :
+I     I  I  I 
+:--:--:--:--:
+ 
+[6, 4, 8] = java.lang.reflect.InvocationTargetException 
+[7, 4, 8] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:  :--:
+I     I     I 
+:  :  :--:  :
+I  I     I  I 
+:  :  :  :  :
+I  I  I     I 
+:  :  :--:  :
+I  I     I  I 
+:  :--:  :--:
+I  I  I     I 
+:  :  :  :  :
+I  I     I  I 
+:  :--:--:--:
+I     I     I 
+:--:  :  :  :
+I        I  I 
+:  :--:--:--:
+ 
+[8, 4, 8] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:  :--:
+I  I  I  I  I 
+:--:--:  :  :
+I           I 
+:  :--:--:--:
+I     I     I 
+:--:  :  :--:
+I     I     I 
+:  :--:--:  :
+I  I     I  I 
+:  :  :  :  :
+I     I  I  I 
+:  :--:  :  :
+I     I  I  I 
+:  :  :  :--:
+I  I  I  I  I 
+:--:--:--:--:
+ 
+[9, 4, 8] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:  :--:
+I  I     I  I 
+:  :  :  :  :
+I  I  I  I  I 
+:  :  :  :  :
+I  I  I  I  I 
+:  :  :  :  :
+I  I  I     I 
+:  :  :--:  :
+I  I     I  I 
+:  :--:  :  :
+I     I  I  I 
+:  :  :  :  :
+I  I     I  I 
+:  :--:--:  :
+I  I        I 
+:--:  :--:--:
+ 
+[1, 5, 8] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:--:  :--:
+I           I  I 
+:  :--:--:--:  :
+I           I  I 
+:  :--:--:  :  :
+I        I  I  I 
+:--:--:  :  :  :
+I        I  I  I 
+:  :--:--:  :  :
+I  I        I  I 
+:--:  :  :--:  :
+I     I  I  I  I 
+:  :--:--:--:  :
+I              I 
+:  :  :  :--:--:
+I  I  I  I  I  I 
+:--:--:--:--:--:
+ 
+[2, 5, 8] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:--:  :--:
+I     I     I  I 
+:  :  :  :  :  :
+I  I     I  I  I 
+:  :--:--:  :  :
+I  I        I  I 
+:  :  :--:--:  :
+I  I     I     I 
+:  :--:  :--:  :
+I     I  I     I 
+:  :  :  :  :--:
+I  I  I  I     I 
+:  :  :--:  :  :
+I  I  I     I  I 
+:  :  :  :--:  :
+I  I     I     I 
+:--:--:--:  :--:
+ 
+[3, 5, 8] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:--:  :--:
+I        I     I 
+:--:  :  :--:  :
+I     I  I     I 
+:  :  :  :  :--:
+I  I  I     I  I 
+:  :--:  :--:  :
+I     I     I  I 
+:--:  :  :  :  :
+I     I  I  I  I 
+:  :--:--:  :  :
+I        I  I  I 
+:  :--:  :  :  :
+I  I     I  I  I 
+:  :  :--:  :  :
+I  I  I        I 
+:--:  :--:--:--:
+ 
+[4, 5, 8] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:--:  :--:
+I        I     I 
+:  :--:  :  :  :
+I     I  I  I  I 
+:--:  :  :  :--:
+I     I  I     I 
+:--:--:  :  :  :
+I     I  I  I  I 
+:  :  :  :  :  :
+I  I  I     I  I 
+:  :--:  :  :  :
+I        I  I  I 
+:  :--:--:--:  :
+I  I           I 
+:  :  :--:  :--:
+I  I     I     I 
+:--:--:--:  :--:
+ 
+[5, 5, 8] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:--:  :--:
+I  I        I  I 
+:  :  :--:  :  :
+I  I     I  I  I 
+:  :  :  :--:  :
+I     I     I  I 
+:  :  :--:  :  :
+I  I     I     I 
+:  :--:  :--:--:
+I  I           I 
+:  :--:--:--:  :
+I        I  I  I 
+:--:--:  :  :  :
+I        I     I 
+:  :--:  :--:--:
+I     I        I 
+:--:--:  :--:--:
+ 
+[6, 5, 8] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:--:  :--:
+I        I     I 
+:--:  :  :  :  :
+I     I  I  I  I 
+:  :--:  :--:  :
+I  I     I     I 
+:  :  :  :  :--:
+I  I  I  I     I 
+:  :  :--:  :  :
+I  I        I  I 
+:  :--:--:--:  :
+I        I  I  I 
+:--:--:  :  :  :
+I  I     I  I  I 
+:  :  :  :  :  :
+I     I  I     I 
+:--:--:  :--:--:
+ 
+[7, 5, 8] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:--:  :--:
+I  I     I     I 
+:  :  :  :--:  :
+I  I  I     I  I 
+:  :  :  :  :  :
+I  I  I  I     I 
+:  :  :--:--:  :
+I  I        I  I 
+:  :--:--:  :  :
+I  I        I  I 
+:  :  :--:--:  :
+I  I  I     I  I 
+:  :  :  :  :  :
+I  I  I  I     I 
+:  :--:  :--:--:
+I  I        I  I 
+:--:  :--:--:--:
+ 
+[8, 5, 8] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:--:  :--:
+I           I  I 
+:  :--:--:  :  :
+I  I           I 
+:  :  :--:--:--:
+I  I     I     I 
+:  :--:  :  :  :
+I  I     I  I  I 
+:  :  :--:--:  :
+I  I        I  I 
+:  :--:--:  :  :
+I        I     I 
+:  :--:--:--:  :
+I  I  I     I  I 
+:  :--:  :  :  :
+I     I     I  I 
+:--:--:--:--:  :
+ 
+[9, 5, 8] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:--:  :--:
+I     I        I 
+:  :--:  :--:  :
+I     I  I  I  I 
+:--:  :  :  :  :
+I     I  I  I  I 
+:  :  :  :  :  :
+I  I  I  I     I 
+:  :  :  :--:--:
+I  I  I     I  I 
+:  :  :--:  :--:
+I  I     I  I  I 
+:  :--:  :  :  :
+I     I  I     I 
+:  :  :  :--:--:
+I  I  I  I  I  I 
+:--:--:--:--:--:
+ 
+[1, 6, 8] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:--:--:  :--:
+I              I  I 
+:  :--:--:  :  :  :
+I        I  I     I 
+:  :--:  :  :--:--:
+I  I  I  I        I 
+:  :  :  :--:--:  :
+I     I  I        I 
+:--:--:  :  :--:--:
+I        I        I 
+:  :--:--:--:--:  :
+I     I        I  I 
+:--:  :--:--:  :  :
+I  I     I     I  I 
+:  :  :  :  :--:  :
+I     I  I        I 
+:--:--:  :--:--:--:
+ 
+[2, 6, 8] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:--:--:  :--:
+I  I     I     I  I 
+:  :  :  :  :  :  :
+I     I     I  I  I 
+:--:  :--:--:--:  :
+I     I     I     I 
+:  :  :  :--:  :--:
+I  I  I     I     I 
+:  :--:  :  :--:  :
+I  I     I     I  I 
+:  :  :  :--:  :  :
+I     I     I     I 
+:--:--:--:  :--:--:
+I  I  I  I  I  I  I 
+:  :  :  :  :--:--:
+I  I  I  I  I  I  I 
+:--:--:--:--:--:--:
+ 
+[3, 6, 8] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:--:--:  :--:
+I           I     I 
+:  :--:  :  :--:  :
+I  I     I  I     I 
+:  :  :--:  :  :--:
+I  I     I        I 
+:--:--:  :--:--:--:
+I     I     I     I 
+:  :  :--:  :  :  :
+I  I        I  I  I 
+:  :--:--:--:  :  :
+I     I  I     I  I 
+:--:  :  :  :  :--:
+I     I     I     I 
+:--:  :--:--:--:  :
+I                 I 
+:  :--:--:--:--:--:
+ 
+[4, 6, 8] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:--:--:  :--:
+I        I     I  I 
+:  :  :  :  :  :--:
+I  I  I  I  I  I  I 
+:  :--:  :  :  :--:
+I     I     I  I  I 
+:--:  :--:--:  :--:
+I           I     I 
+:--:--:--:--:  :  :
+I     I  I     I  I 
+:  :  :  :  :--:--:
+I  I        I     I 
+:  :--:--:--:  :  :
+I              I  I 
+:  :  :  :  :--:  :
+I  I  I  I     I  I 
+:--:--:--:--:--:  :
+ 
+[5, 6, 8] = java.lang.reflect.InvocationTargetException 
+[6, 6, 8] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:--:--:  :--:
+I     I     I     I 
+:  :--:  :  :  :  :
+I  I     I  I  I  I 
+:  :  :--:  :--:  :
+I     I     I     I 
+:  :  :  :--:  :--:
+I  I  I  I  I  I  I 
+:  :  :  :  :  :  :
+I  I  I        I  I 
+:  :  :--:--:--:  :
+I  I              I 
+:  :--:--:--:--:--:
+I           I     I 
+:  :  :--:  :  :  :
+I  I  I  I     I  I 
+:--:--:--:--:--:  :
+ 
+[7, 6, 8] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:--:--:  :--:
+I           I     I 
+:  :  :  :  :--:  :
+I  I  I  I     I  I 
+:  :--:  :--:  :  :
+I     I  I  I     I 
+:--:  :  :  :--:--:
+I  I  I        I  I 
+:  :  :--:--:  :  :
+I     I        I  I 
+:--:  :  :  :--:  :
+I     I  I  I     I 
+:  :--:  :--:  :  :
+I  I     I     I  I 
+:  :  :--:  :--:  :
+I  I        I     I 
+:--:  :--:--:--:--:
+ 
+[8, 6, 8] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:--:--:  :--:
+I              I  I 
+:  :--:--:--:  :  :
+I     I           I 
+:--:  :  :--:--:--:
+I  I  I        I  I 
+:  :  :--:  :  :--:
+I  I  I     I     I 
+:  :  :  :--:--:  :
+I     I        I  I 
+:--:--:--:--:  :--:
+I                 I 
+:  :--:--:--:--:  :
+I     I  I     I  I 
+:--:  :  :  :  :  :
+I        I     I  I 
+:--:--:--:--:--:  :
+ 
+[9, 6, 8] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:--:--:  :--:
+I        I        I 
+:  :  :--:  :  :  :
+I  I     I  I  I  I 
+:  :--:  :  :  :  :
+I  I  I  I  I  I  I 
+:  :  :  :  :  :  :
+I  I  I  I  I  I  I 
+:  :  :  :  :--:  :
+I     I  I     I  I 
+:--:  :  :--:  :  :
+I     I     I  I  I 
+:  :--:--:  :  :  :
+I        I     I  I 
+:  :--:  :--:--:  :
+I     I  I        I 
+:--:--:  :--:--:--:
+ 
+[1, 7, 8] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:--:--:--:  :--:
+I                 I  I 
+:  :--:  :--:--:--:  :
+I     I              I 
+:--:  :--:  :--:--:--:
+I  I     I     I     I 
+:  :  :  :--:  :--:  :
+I  I  I     I     I  I 
+:  :  :--:  :--:  :  :
+I     I  I     I     I 
+:  :--:  :--:  :--:  :
+I     I     I  I  I  I 
+:--:  :  :  :  :  :  :
+I     I  I     I     I 
+:  :--:--:--:  :--:--:
+I           I        I 
+:--:--:--:--:--:--:  :
+ 
+[2, 7, 8] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:--:--:--:  :--:
+I     I     I     I  I 
+:  :  :  :  :  :  :  :
+I  I     I     I  I  I 
+:  :--:  :--:--:--:  :
+I  I     I     I     I 
+:  :  :  :  :--:  :--:
+I  I  I  I     I     I 
+:  :  :--:  :  :--:  :
+I  I  I     I     I  I 
+:  :  :  :  :--:  :  :
+I  I     I     I     I 
+:  :--:--:--:--:  :--:
+I              I     I 
+:--:--:--:--:  :--:--:
+I                    I 
+:--:--:--:--:--:--:  :
+ 
+[3, 7, 8] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:--:--:--:  :--:
+I  I           I     I 
+:  :  :--:  :  :--:  :
+I  I  I     I  I     I 
+:  :  :  :--:  :  :  :
+I     I     I     I  I 
+:  :--:--:  :--:--:  :
+I  I     I        I  I 
+:--:  :  :--:  :--:  :
+I     I        I     I 
+:  :  :--:--:--:  :--:
+I  I           I     I 
+:  :--:--:--:  :--:  :
+I     I     I  I     I 
+:--:  :  :--:  :  :--:
+I     I        I     I 
+:--:  :--:--:--:--:--:
+ 
+[4, 7, 8] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:--:--:--:  :--:
+I  I              I  I 
+:  :  :  :  :--:  :  :
+I     I  I  I  I     I 
+:--:--:  :  :  :  :  :
+I     I  I     I  I  I 
+:  :--:  :--:  :  :  :
+I        I     I  I  I 
+:--:--:--:  :--:  :--:
+I        I  I        I 
+:  :  :  :--:  :  :  :
+I  I  I        I  I  I 
+:  :  :--:--:--:--:  :
+I  I  I        I     I 
+:  :  :  :--:  :  :--:
+I  I  I     I        I 
+:--:  :--:--:--:--:--:
+ 
+[5, 7, 8] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:--:--:--:  :--:
+I  I     I        I  I 
+:  :  :  :  :--:  :  :
+I     I  I     I  I  I 
+:--:--:  :  :  :--:  :
+I     I     I     I  I 
+:  :--:  :  :--:  :  :
+I     I  I     I     I 
+:--:  :  :--:  :  :--:
+I     I  I     I     I 
+:  :--:  :  :--:--:  :
+I        I     I     I 
+:  :--:--:--:  :  :--:
+I  I        I  I     I 
+:  :  :--:  :  :--:  :
+I     I     I     I  I 
+:--:--:--:--:--:  :--:
+ 
+[6, 7, 8] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:--:--:--:  :--:
+I  I           I     I 
+:  :  :--:  :  :  :  :
+I     I     I  I  I  I 
+:--:--:  :--:  :--:  :
+I        I     I     I 
+:  :  :--:  :--:  :--:
+I  I  I  I     I     I 
+:  :  :  :  :--:  :  :
+I  I     I        I  I 
+:  :--:--:--:--:--:--:
+I           I  I     I 
+:  :--:--:--:--:  :  :
+I        I        I  I 
+:  :--:  :  :  :--:  :
+I  I  I     I  I     I 
+:--:--:--:--:--:  :--:
+ 
+[7, 7, 8] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:--:--:--:  :--:
+I              I     I 
+:--:  :--:  :  :--:  :
+I     I  I  I     I  I 
+:  :--:  :  :  :  :  :
+I  I     I  I  I     I 
+:  :--:  :  :--:--:  :
+I  I     I        I  I 
+:  :  :--:--:--:  :  :
+I  I     I        I  I 
+:  :--:  :  :  :--:  :
+I        I  I     I  I 
+:--:--:--:  :--:--:  :
+I           I     I  I 
+:  :--:  :--:  :  :  :
+I     I  I     I     I 
+:--:--:  :--:--:--:--:
+ 
+[8, 7, 8] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:--:--:--:  :--:
+I                 I  I 
+:  :  :--:--:--:  :  :
+I  I  I  I           I 
+:  :--:--:  :--:--:--:
+I  I     I     I     I 
+:  :  :  :--:  :  :--:
+I     I  I     I     I 
+:--:--:  :  :--:--:  :
+I        I        I  I 
+:  :--:--:--:--:  :  :
+I     I        I     I 
+:--:  :  :--:--:--:  :
+I  I        I     I  I 
+:  :--:--:  :  :  :  :
+I           I     I  I 
+:--:--:--:--:--:--:  :
+ 
+[9, 7, 8] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:--:--:--:  :--:
+I  I        I        I 
+:  :  :  :--:  :  :--:
+I  I  I     I  I     I 
+:  :  :--:  :  :  :  :
+I  I     I  I  I  I  I 
+:  :--:  :  :  :  :  :
+I     I  I  I  I  I  I 
+:--:  :  :  :  :--:  :
+I        I  I     I  I 
+:  :--:--:  :--:  :  :
+I        I     I  I  I 
+:--:--:  :--:  :  :  :
+I     I     I     I  I 
+:  :--:--:  :  :--:  :
+I           I  I     I 
+:--:--:--:--:--:  :--:
+ 
+[1, 8, 8] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:--:--:--:  :--:--:
+I                       I 
+:  :--:  :--:--:--:--:--:
+I     I                 I 
+:--:  :--:  :--:--:--:  :
+I  I     I     I     I  I 
+:  :  :  :--:  :  :  :  :
+I  I  I     I  I  I     I 
+:  :  :--:  :--:  :--:--:
+I     I  I     I  I     I 
+:  :--:  :--:  :  :  :  :
+I     I     I  I     I  I 
+:--:  :  :  :  :--:--:  :
+I     I  I  I        I  I 
+:  :--:--:  :  :--:--:  :
+I           I        I  I 
+:--:--:--:--:--:--:  :--:
+ 
+[2, 8, 8] = java.lang.reflect.InvocationTargetException 
+[3, 8, 8] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:--:--:--:  :--:--:
+I        I              I 
+:--:--:  :  :--:--:--:  :
+I        I  I  I     I  I 
+:  :--:--:  :  :  :  :  :
+I  I     I     I  I     I 
+:  :  :  :  :--:  :  :--:
+I     I     I     I     I 
+:  :--:--:--:  :--:--:  :
+I           I        I  I 
+:  :--:--:--:--:--:  :  :
+I  I                 I  I 
+:--:  :--:  :--:--:--:  :
+I     I     I  I        I 
+:  :--:  :--:  :  :  :--:
+I     I  I        I     I 
+:--:--:  :--:--:--:--:--:
+ 
+[4, 8, 8] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:--:--:--:  :--:--:
+I  I              I     I 
+:  :  :  :  :  :  :--:  :
+I     I  I  I  I     I  I 
+:--:--:  :  :--:  :  :  :
+I        I     I  I  I  I 
+:  :  :--:--:  :  :  :  :
+I  I     I     I  I     I 
+:  :--:--:  :--:  :--:--:
+I  I     I  I           I 
+:  :  :  :--:  :  :--:  :
+I  I  I        I  I     I 
+:  :  :--:--:--:--:  :--:
+I  I  I  I        I     I 
+:  :  :  :  :  :  :--:  :
+I  I  I     I  I        I 
+:--:  :--:--:--:--:--:--:
+ 
+[5, 8, 8] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:--:--:--:  :--:--:
+I  I              I     I 
+:  :  :  :  :--:--:  :  :
+I     I  I     I     I  I 
+:--:--:  :--:  :  :--:  :
+I        I  I     I     I 
+:  :--:--:  :--:  :--:--:
+I        I     I        I 
+:--:--:--:  :  :--:--:  :
+I           I  I     I  I 
+:  :--:--:--:  :  :  :  :
+I           I  I  I     I 
+:  :--:--:  :  :  :--:--:
+I  I  I     I     I     I 
+:  :  :  :  :--:--:  :  :
+I     I  I           I  I 
+:--:--:  :--:--:--:--:--:
+ 
+[6, 8, 8] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:--:--:--:  :--:--:
+I              I     I  I 
+:  :--:  :--:  :--:  :  :
+I     I  I     I     I  I 
+:--:  :  :  :--:  :--:  :
+I     I  I     I  I     I 
+:--:--:  :  :--:  :  :  :
+I        I        I  I  I 
+:  :  :--:--:--:--:  :  :
+I  I     I        I  I  I 
+:  :--:  :  :--:  :  :  :
+I  I  I     I     I  I  I 
+:  :  :--:--:--:--:  :  :
+I           I        I  I 
+:  :  :--:  :  :  :--:  :
+I  I  I  I     I  I  I  I 
+:--:--:--:--:--:--:--:  :
+ 
+[7, 8, 8] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:--:--:--:  :--:--:
+I  I           I     I  I 
+:  :  :--:  :  :--:  :  :
+I     I  I  I        I  I 
+:  :--:  :  :  :--:--:  :
+I  I     I  I        I  I 
+:  :--:  :  :--:--:  :  :
+I  I     I        I  I  I 
+:  :  :--:--:--:  :  :  :
+I  I     I        I  I  I 
+:  :--:  :  :  :--:  :  :
+I        I  I  I     I  I 
+:--:--:--:  :--:  :--:  :
+I  I        I     I     I 
+:  :  :  :  :  :--:--:  :
+I     I  I  I           I 
+:--:--:  :--:--:--:--:--:
+ 
+[8, 8, 8] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:--:--:--:  :--:--:
+I  I              I     I 
+:  :  :  :--:--:  :  :  :
+I     I        I     I  I 
+:--:--:--:--:  :--:--:  :
+I        I     I        I 
+:  :--:  :  :--:  :--:  :
+I  I     I     I     I  I 
+:  :--:--:  :  :--:  :  :
+I  I        I  I     I  I 
+:  :  :--:--:  :  :--:--:
+I  I  I     I  I        I 
+:  :  :--:  :  :  :--:  :
+I     I     I  I     I  I 
+:  :--:  :--:  :--:  :  :
+I     I        I     I  I 
+:--:--:--:--:--:--:--:  :
+ 
+[9, 8, 8] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:--:--:--:  :--:--:
+I  I        I           I 
+:  :  :  :--:  :  :--:  :
+I  I  I     I  I     I  I 
+:  :  :--:  :  :  :  :  :
+I  I     I  I  I  I  I  I 
+:  :--:  :  :  :  :  :  :
+I     I  I  I  I  I  I  I 
+:--:  :  :  :  :--:  :--:
+I        I  I     I     I 
+:  :--:--:  :--:  :--:  :
+I        I     I  I     I 
+:--:--:  :  :  :  :  :--:
+I        I  I     I     I 
+:  :--:--:--:--:--:--:  :
+I                 I     I 
+:--:--:--:--:--:--:  :--:
+ 
+[1, 9, 8] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:--:--:--:--:  :--:--:
+I                    I     I 
+:  :--:--:--:--:--:--:  :  :
+I  I              I     I  I 
+:  :  :--:--:--:  :  :--:  :
+I  I  I        I  I  I     I 
+:  :--:  :  :  :  :  :  :--:
+I  I     I  I  I  I  I  I  I 
+:  :  :--:  :  :  :  :  :  :
+I     I     I  I     I  I  I 
+:  :--:  :--:  :--:--:  :  :
+I  I     I  I        I  I  I 
+:  :  :--:  :--:--:  :  :  :
+I  I     I  I     I     I  I 
+:  :--:  :  :  :  :--:--:  :
+I  I           I           I 
+:--:  :--:--:--:--:--:--:--:
+ 
+[2, 9, 8] = java.lang.reflect.InvocationTargetException 
+[3, 9, 8] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:--:--:--:--:  :--:--:
+I                          I 
+:--:--:  :--:  :--:--:--:  :
+I        I  I  I  I     I  I 
+:  :--:--:  :  :  :  :  :  :
+I     I     I     I  I     I 
+:--:--:  :  :  :--:  :--:--:
+I        I     I     I     I 
+:  :--:--:--:--:  :--:  :  :
+I  I     I     I        I  I 
+:  :  :  :  :--:--:--:  :  :
+I     I     I           I  I 
+:  :--:--:--:  :--:--:--:  :
+I     I  I     I           I 
+:--:  :  :  :  :  :--:--:--:
+I        I  I  I           I 
+:--:--:--:  :--:--:--:--:--:
+ 
+[4, 9, 8] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:--:--:--:--:  :--:--:
+I     I              I     I 
+:  :--:  :  :  :  :  :  :--:
+I        I  I  I  I  I     I 
+:--:--:--:  :  :--:  :  :  :
+I     I     I     I  I  I  I 
+:  :  :  :--:--:  :  :--:  :
+I  I        I     I        I 
+:  :  :--:--:  :--:  :--:--:
+I  I  I     I  I           I 
+:  :--:  :  :--:  :--:--:  :
+I     I  I        I  I     I 
+:--:  :  :--:--:--:  :  :--:
+I  I  I  I  I        I     I 
+:  :  :  :  :  :  :  :--:  :
+I     I  I     I  I        I 
+:--:--:  :--:--:--:--:--:--:
+ 
+[5, 9, 8] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:--:--:--:--:  :--:--:
+I           I        I     I 
+:--:--:  :  :  :--:--:  :  :
+I     I  I  I     I     I  I 
+:  :  :  :--:  :  :  :--:  :
+I  I  I     I  I     I     I 
+:  :  :--:  :--:--:  :--:--:
+I  I        I     I        I 
+:  :--:--:--:  :  :--:--:  :
+I  I           I  I     I  I 
+:  :  :  :--:--:  :  :  :  :
+I     I  I     I  I  I     I 
+:  :--:  :--:  :  :  :  :--:
+I     I        I     I     I 
+:--:  :--:--:--:--:--:--:  :
+I                       I  I 
+:--:--:--:--:--:--:--:--:  :
+ 
+[6, 9, 8] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:--:--:--:--:  :--:--:
+I                 I     I  I 
+:  :--:--:  :--:  :--:  :  :
+I     I  I  I     I     I  I 
+:  :  :  :  :  :  :  :--:  :
+I  I     I  I  I  I  I     I 
+:  :--:--:  :  :--:  :  :  :
+I  I        I        I  I  I 
+:  :  :  :--:--:--:--:  :  :
+I  I  I              I  I  I 
+:  :  :--:--:--:--:  :  :  :
+I  I  I  I           I  I  I 
+:  :  :--:--:--:--:--:  :  :
+I  I           I        I  I 
+:  :--:--:--:  :  :  :--:  :
+I           I     I     I  I 
+:--:--:--:--:--:--:--:--:  :
+ 
+[7, 9, 8] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:--:--:--:--:  :--:--:
+I     I           I        I 
+:  :--:  :  :  :  :--:  :  :
+I  I     I  I  I        I  I 
+:  :  :  :  :  :--:--:--:  :
+I  I  I  I  I  I        I  I 
+:  :  :--:  :  :  :--:  :  :
+I  I     I  I        I  I  I 
+:  :--:  :--:--:--:  :  :--:
+I     I     I        I     I 
+:--:  :--:  :  :--:--:--:  :
+I  I        I     I  I     I 
+:  :--:--:--:  :  :  :  :--:
+I        I     I  I  I  I  I 
+:  :--:  :  :--:  :  :  :  :
+I     I     I        I     I 
+:--:--:--:  :--:--:--:--:--:
+ 
+[8, 9, 8] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:--:--:--:--:  :--:--:
+I  I     I           I     I 
+:  :  :--:  :--:--:  :  :  :
+I        I        I     I  I 
+:  :--:  :--:--:  :--:--:  :
+I  I     I  I     I        I 
+:  :  :--:  :  :  :  :--:  :
+I  I  I     I  I  I     I  I 
+:  :  :  :--:  :  :--:  :  :
+I  I  I        I  I     I  I 
+:--:  :  :--:--:  :  :--:--:
+I     I  I     I  I        I 
+:  :--:  :  :  :  :--:--:  :
+I        I  I  I  I     I  I 
+:--:--:--:  :  :  :--:  :  :
+I           I           I  I 
+:--:--:--:--:--:--:--:--:  :
+ 
+[9, 9, 8] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:--:--:--:--:  :--:--:
+I              I     I     I 
+:--:--:  :  :--:  :--:  :  :
+I     I  I     I  I     I  I 
+:  :  :  :--:  :  :--:--:  :
+I  I  I     I  I  I        I 
+:  :  :--:  :  :  :  :--:--:
+I  I     I  I  I  I        I 
+:  :  :  :  :  :  :--:--:  :
+I  I  I     I  I     I     I 
+:  :  :--:--:  :--:  :  :--:
+I  I  I     I     I  I     I 
+:  :--:  :  :--:  :  :  :  :
+I     I  I     I     I  I  I 
+:--:  :  :--:  :--:--:  :  :
+I        I              I  I 
+:  :--:--:--:--:--:--:--:--:
+ 
+[1, 1, 9] = Amazing - Copyright by Creative Computing, Morristown, NJ
+ 
+[2, 1, 9] = Amazing - Copyright by Creative Computing, Morristown, NJ
+ 
+[3, 1, 9] = Amazing - Copyright by Creative Computing, Morristown, NJ
+ 
+[4, 1, 9] = Amazing - Copyright by Creative Computing, Morristown, NJ
+ 
+[5, 1, 9] = Amazing - Copyright by Creative Computing, Morristown, NJ
+ 
+[6, 1, 9] = Amazing - Copyright by Creative Computing, Morristown, NJ
+ 
+[7, 1, 9] = Amazing - Copyright by Creative Computing, Morristown, NJ
+ 
+[8, 1, 9] = Amazing - Copyright by Creative Computing, Morristown, NJ
+ 
+[9, 1, 9] = Amazing - Copyright by Creative Computing, Morristown, NJ
+ 
+[1, 2, 9] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:  :
+I     I 
+:  :--:
+I     I 
+:--:  :
+I     I 
+:  :--:
+I     I 
+:--:  :
+I     I 
+:  :--:
+I     I 
+:  :  :
+I  I  I 
+:  :  :
+I  I  I 
+:  :  :
+I  I  I 
+:--:  :
+ 
+[2, 2, 9] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:  :
+I     I 
+:  :--:
+I  I  I 
+:  :  :
+I     I 
+:  :  :
+I  I  I 
+:  :  :
+I  I  I 
+:  :--:
+I     I 
+:--:  :
+I  I  I 
+:  :  :
+I  I  I 
+:  :  :
+I     I 
+:  :--:
+ 
+[3, 2, 9] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:  :
+I     I 
+:--:  :
+I     I 
+:  :--:
+I     I 
+:  :  :
+I  I  I 
+:  :  :
+I  I  I 
+:--:  :
+I  I  I 
+:--:  :
+I     I 
+:  :--:
+I     I 
+:  :  :
+I  I  I 
+:--:  :
+ 
+[4, 2, 9] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:  :
+I     I 
+:  :  :
+I  I  I 
+:  :  :
+I  I  I 
+:  :  :
+I  I  I 
+:--:  :
+I     I 
+:  :--:
+I     I 
+:--:  :
+I     I 
+:  :--:
+I     I 
+:--:  :
+I     I 
+:  :--:
+ 
+[5, 2, 9] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:  :
+I     I 
+:  :--:
+I     I 
+:--:  :
+I  I  I 
+:--:  :
+I     I 
+:  :--:
+I     I 
+:--:  :
+I  I  I 
+:  :  :
+I     I 
+:  :--:
+I     I 
+:  :  :
+I  I  I 
+:--:--:
+ 
+[6, 2, 9] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:  :
+I     I 
+:  :  :
+I  I  I 
+:  :--:
+I     I 
+:--:  :
+I  I  I 
+:  :  :
+I     I 
+:  :--:
+I     I 
+:  :  :
+I  I  I 
+:  :  :
+I  I  I 
+:--:  :
+I     I 
+:  :--:
+ 
+[7, 2, 9] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:  :
+I  I  I 
+:  :  :
+I  I  I 
+:  :  :
+I     I 
+:  :--:
+I     I 
+:  :  :
+I  I  I 
+:  :  :
+I  I  I 
+:  :  :
+I  I  I 
+:  :  :
+I  I  I 
+:--:  :
+I     I 
+:  :--:
+ 
+[8, 2, 9] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:  :
+I  I  I 
+:  :  :
+I  I  I 
+:  :  :
+I     I 
+:  :--:
+I     I 
+:  :  :
+I  I  I 
+:--:  :
+I     I 
+:  :--:
+I     I 
+:--:  :
+I  I  I 
+:  :  :
+I     I 
+:  :--:
+ 
+[9, 2, 9] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:  :
+I     I 
+:  :--:
+I  I  I 
+:  :  :
+I  I  I 
+:  :  :
+I  I  I 
+:  :  :
+I  I  I 
+:  :  :
+I  I  I 
+:  :  :
+I  I  I 
+:  :  :
+I     I 
+:  :--:
+I  I  I 
+:--:--:
+ 
+[1, 3, 9] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:  :
+I        I 
+:  :--:--:
+I        I 
+:--:--:  :
+I        I 
+:  :--:--:
+I  I     I 
+:  :  :  :
+I  I  I  I 
+:  :--:  :
+I  I     I 
+:  :  :  :
+I     I  I 
+:  :--:  :
+I  I  I  I 
+:  :  :  :
+I     I  I 
+:--:--:  :
+ 
+[2, 3, 9] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:  :
+I  I     I 
+:  :  :  :
+I     I  I 
+:  :--:  :
+I     I  I 
+:--:  :  :
+I     I  I 
+:--:--:  :
+I  I     I 
+:--:  :--:
+I  I  I  I 
+:--:  :  :
+I     I  I 
+:  :  :  :
+I  I  I  I 
+:  :  :  :
+I  I  I  I 
+:--:--:  :
+ 
+[3, 3, 9] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:  :
+I        I 
+:  :--:  :
+I  I     I 
+:--:  :  :
+I     I  I 
+:  :--:--:
+I  I     I 
+:  :  :  :
+I  I  I  I 
+:  :--:  :
+I     I  I 
+:  :  :  :
+I  I     I 
+:  :--:--:
+I        I 
+:  :--:  :
+I     I  I 
+:--:--:  :
+ 
+[4, 3, 9] = java.lang.reflect.InvocationTargetException 
+[5, 3, 9] = java.lang.reflect.InvocationTargetException 
+[6, 3, 9] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:  :
+I  I     I 
+:--:  :--:
+I     I  I 
+:  :--:  :
+I  I     I 
+:  :  :  :
+I     I  I 
+:--:--:  :
+I     I  I 
+:  :  :  :
+I  I  I  I 
+:  :  :  :
+I  I     I 
+:  :--:--:
+I        I 
+:  :--:  :
+I  I     I 
+:--:--:--:
+ 
+[7, 3, 9] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:  :
+I        I 
+:--:--:  :
+I     I  I 
+:  :  :  :
+I  I     I 
+:  :  :--:
+I  I     I 
+:  :  :  :
+I  I  I  I 
+:  :--:  :
+I  I  I  I 
+:  :--:  :
+I     I  I 
+:--:  :--:
+I  I     I 
+:  :  :  :
+I  I  I  I 
+:--:--:  :
+ 
+[8, 3, 9] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:  :
+I     I  I 
+:--:  :  :
+I     I  I 
+:  :--:  :
+I        I 
+:  :--:  :
+I     I  I 
+:--:  :  :
+I     I  I 
+:  :--:--:
+I  I     I 
+:  :  :  :
+I     I  I 
+:  :--:  :
+I     I  I 
+:--:  :  :
+I     I  I 
+:--:--:  :
+ 
+[9, 3, 9] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:  :
+I  I     I 
+:  :  :  :
+I  I  I  I 
+:  :  :  :
+I  I  I  I 
+:  :  :  :
+I  I  I  I 
+:  :  :--:
+I  I     I 
+:  :--:  :
+I     I  I 
+:  :  :  :
+I  I     I 
+:  :--:--:
+I     I  I 
+:  :  :--:
+I  I  I  I 
+:--:--:--:
+ 
+[1, 4, 9] = java.lang.reflect.InvocationTargetException 
+[2, 4, 9] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:  :--:
+I  I     I  I 
+:  :  :  :  :
+I     I  I  I 
+:  :--:  :  :
+I  I     I  I 
+:  :  :  :  :
+I  I  I  I  I 
+:  :  :--:  :
+I  I  I     I 
+:  :  :  :  :
+I  I     I  I 
+:  :--:--:--:
+I     I     I 
+:  :--:  :  :
+I     I  I  I 
+:  :  :  :  :
+I  I     I  I 
+:--:--:--:  :
+ 
+[3, 4, 9] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:  :--:
+I     I     I 
+:  :  :--:  :
+I  I  I     I 
+:  :  :  :  :
+I  I     I  I 
+:  :  :--:  :
+I  I  I     I 
+:  :--:  :--:
+I     I     I 
+:--:  :--:--:
+I           I 
+:--:--:--:  :
+I           I 
+:  :--:  :--:
+I     I  I  I 
+:--:  :  :  :
+I     I     I 
+:--:  :--:--:
+ 
+[4, 4, 9] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:  :--:
+I           I 
+:--:--:  :  :
+I     I  I  I 
+:  :  :  :  :
+I  I  I  I  I 
+:  :  :  :--:
+I  I  I     I 
+:  :--:  :  :
+I  I     I  I 
+:  :  :  :  :
+I     I  I  I 
+:--:--:--:  :
+I           I 
+:  :  :--:--:
+I  I  I     I 
+:  :  :  :  :
+I  I     I  I 
+:--:--:  :--:
+ 
+[5, 4, 9] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:  :--:
+I        I  I 
+:  :--:--:  :
+I        I  I 
+:  :--:  :  :
+I     I  I  I 
+:--:  :--:  :
+I        I  I 
+:  :--:  :  :
+I     I     I 
+:--:  :--:--:
+I  I     I  I 
+:  :  :  :  :
+I  I  I  I  I 
+:  :  :  :  :
+I     I  I  I 
+:--:--:  :  :
+I           I 
+:  :--:--:--:
+ 
+[6, 4, 9] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:  :--:
+I           I 
+:--:--:--:  :
+I     I  I  I 
+:  :  :  :  :
+I  I  I     I 
+:--:  :  :  :
+I     I  I  I 
+:  :--:  :  :
+I        I  I 
+:  :  :--:  :
+I  I  I  I  I 
+:  :  :  :  :
+I  I     I  I 
+:  :--:--:  :
+I  I        I 
+:  :  :--:--:
+I  I        I 
+:--:  :--:--:
+ 
+[7, 4, 9] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:  :--:
+I     I     I 
+:  :  :--:  :
+I  I     I  I 
+:  :  :  :  :
+I  I  I     I 
+:  :  :--:  :
+I  I     I  I 
+:  :--:  :--:
+I  I  I     I 
+:  :  :  :  :
+I  I     I  I 
+:  :--:--:  :
+I     I     I 
+:--:  :--:  :
+I  I     I  I 
+:  :--:  :  :
+I  I  I  I  I 
+:--:--:  :--:
+ 
+[8, 4, 9] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:  :--:
+I        I  I 
+:--:--:  :  :
+I           I 
+:  :--:--:--:
+I     I     I 
+:--:  :  :--:
+I     I     I 
+:  :--:--:  :
+I  I     I  I 
+:  :  :  :  :
+I     I  I  I 
+:  :--:  :  :
+I  I  I     I 
+:  :  :  :--:
+I     I     I 
+:  :  :--:  :
+I  I  I  I  I 
+:--:--:--:  :
+ 
+[9, 4, 9] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:  :--:
+I  I     I  I 
+:  :  :  :  :
+I  I  I  I  I 
+:  :  :  :  :
+I  I  I  I  I 
+:  :  :  :  :
+I  I  I     I 
+:  :  :--:  :
+I  I     I  I 
+:  :--:  :  :
+I     I  I  I 
+:  :  :  :  :
+I  I     I  I 
+:  :--:--:  :
+I  I        I 
+:  :  :--:--:
+I  I        I 
+:--:  :--:--:
+ 
+[1, 5, 9] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:--:  :--:
+I              I 
+:  :--:--:--:  :
+I           I  I 
+:  :--:--:  :  :
+I  I  I  I  I  I 
+:  :--:  :  :  :
+I        I  I  I 
+:--:--:--:  :  :
+I  I        I  I 
+:--:  :--:--:  :
+I     I        I 
+:  :--:  :--:--:
+I  I  I        I 
+:  :  :--:--:--:
+I              I 
+:  :  :--:--:  :
+I  I  I        I 
+:--:--:  :--:--:
+ 
+[2, 5, 9] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:--:  :--:
+I     I     I  I 
+:  :  :  :  :  :
+I  I     I     I 
+:  :  :--:--:--:
+I  I  I        I 
+:  :  :--:  :  :
+I  I     I  I  I 
+:  :--:  :  :  :
+I     I  I  I  I 
+:--:  :  :  :--:
+I     I  I     I 
+:  :  :--:  :  :
+I  I  I     I  I 
+:  :  :  :--:  :
+I  I     I     I 
+:  :--:--:  :--:
+I        I     I 
+:--:--:--:  :--:
+ 
+[3, 5, 9] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:--:  :--:
+I        I     I 
+:--:  :  :--:  :
+I     I  I     I 
+:  :  :  :  :--:
+I  I  I        I 
+:  :--:--:--:--:
+I     I        I 
+:--:  :  :--:  :
+I     I  I     I 
+:  :--:--:  :  :
+I        I  I  I 
+:--:--:  :  :--:
+I  I     I     I 
+:  :  :--:  :  :
+I  I  I     I  I 
+:  :  :--:--:  :
+I              I 
+:  :--:--:--:--:
+ 
+[4, 5, 9] = java.lang.reflect.InvocationTargetException 
+[5, 5, 9] = java.lang.reflect.InvocationTargetException 
+[6, 5, 9] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:--:  :--:
+I        I     I 
+:--:  :  :  :  :
+I     I  I  I  I 
+:  :--:  :--:  :
+I  I     I     I 
+:  :  :  :  :--:
+I  I  I  I     I 
+:  :  :--:  :  :
+I  I        I  I 
+:  :--:--:--:  :
+I        I  I  I 
+:--:--:  :  :  :
+I  I     I     I 
+:  :  :  :  :--:
+I  I  I  I     I 
+:  :  :  :--:--:
+I     I        I 
+:--:--:--:--:  :
+ 
+[7, 5, 9] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:--:  :--:
+I        I     I 
+:  :  :  :--:  :
+I  I  I     I  I 
+:  :  :--:  :  :
+I  I  I  I     I 
+:  :  :--:--:--:
+I  I        I  I 
+:  :--:--:  :  :
+I  I        I  I 
+:  :  :--:--:  :
+I  I     I     I 
+:--:  :  :  :--:
+I     I  I     I 
+:  :--:--:  :  :
+I           I  I 
+:  :  :--:--:  :
+I  I        I  I 
+:--:--:--:--:  :
+ 
+[8, 5, 9] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:--:  :--:
+I           I  I 
+:  :--:--:  :  :
+I  I           I 
+:  :  :--:--:--:
+I  I     I     I 
+:  :--:  :  :  :
+I  I     I  I  I 
+:  :  :--:--:  :
+I  I        I  I 
+:  :--:--:  :  :
+I  I     I     I 
+:  :  :--:--:  :
+I     I        I 
+:  :--:  :--:--:
+I  I  I        I 
+:  :  :  :--:  :
+I     I  I     I 
+:--:--:--:  :--:
+ 
+[9, 5, 9] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:--:  :--:
+I     I        I 
+:  :--:  :--:  :
+I     I  I  I  I 
+:--:  :  :  :  :
+I     I  I  I  I 
+:  :  :  :  :  :
+I  I  I  I     I 
+:  :  :  :--:  :
+I  I  I     I  I 
+:  :  :--:  :  :
+I  I     I  I  I 
+:  :  :  :  :  :
+I  I  I     I  I 
+:  :--:--:--:  :
+I           I  I 
+:--:--:--:  :--:
+I              I 
+:--:--:--:--:  :
+ 
+[1, 6, 9] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:--:--:  :--:
+I                 I 
+:  :--:--:  :--:--:
+I        I        I 
+:  :--:  :--:--:  :
+I     I  I        I 
+:--:  :  :  :--:--:
+I     I  I        I 
+:--:--:  :--:--:  :
+I        I     I  I 
+:  :--:  :  :  :  :
+I     I  I  I  I  I 
+:  :  :--:  :  :  :
+I  I     I  I     I 
+:--:  :  :  :--:--:
+I     I  I  I     I 
+:  :--:  :  :  :  :
+I     I  I     I  I 
+:--:--:  :--:--:--:
+ 
+[2, 6, 9] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:--:--:  :--:
+I  I     I     I  I 
+:  :  :  :  :  :  :
+I     I     I  I  I 
+:--:  :--:--:--:  :
+I     I     I     I 
+:  :  :  :--:  :--:
+I  I  I     I     I 
+:  :--:  :  :--:  :
+I  I     I     I  I 
+:  :  :  :--:  :  :
+I     I     I     I 
+:--:--:--:  :  :--:
+I           I  I  I 
+:  :--:--:--:  :  :
+I        I  I     I 
+:  :  :  :  :  :--:
+I  I  I     I  I  I 
+:--:--:  :--:--:--:
+ 
+[3, 6, 9] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:--:--:  :--:
+I           I     I 
+:  :--:  :  :--:  :
+I  I     I  I     I 
+:  :  :--:  :  :--:
+I  I     I        I 
+:--:--:  :--:--:  :
+I     I     I  I  I 
+:  :  :--:  :--:  :
+I  I        I     I 
+:  :--:--:--:  :--:
+I     I     I     I 
+:--:  :--:  :--:  :
+I  I     I  I     I 
+:  :  :  :  :  :--:
+I  I  I  I  I     I 
+:  :  :  :  :--:  :
+I  I  I  I        I 
+:--:--:  :--:--:--:
+ 
+[4, 6, 9] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:--:--:  :--:
+I     I           I 
+:  :--:  :--:  :  :
+I     I     I  I  I 
+:--:  :  :  :  :  :
+I     I  I  I  I  I 
+:  :--:--:  :  :  :
+I           I  I  I 
+:--:--:  :--:  :  :
+I     I  I     I  I 
+:  :  :--:  :--:  :
+I  I        I     I 
+:  :--:--:--:  :  :
+I  I        I  I  I 
+:  :  :--:  :  :--:
+I     I  I  I     I 
+:  :  :--:  :--:  :
+I  I  I  I     I  I 
+:--:--:--:--:  :--:
+ 
+[5, 6, 9] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:--:--:  :--:
+I     I        I  I 
+:  :  :  :--:  :  :
+I  I  I     I  I  I 
+:  :  :  :  :--:  :
+I  I     I     I  I 
+:  :--:--:--:  :  :
+I  I        I     I 
+:  :--:--:  :  :--:
+I        I  I     I 
+:--:--:  :  :--:  :
+I     I     I     I 
+:--:  :  :  :  :--:
+I     I  I  I     I 
+:  :--:  :  :--:  :
+I        I  I  I  I 
+:--:--:--:  :  :  :
+I              I  I 
+:--:--:--:--:--:  :
+ 
+[6, 6, 9] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:--:--:  :--:
+I     I     I     I 
+:  :--:  :  :  :  :
+I  I     I  I  I  I 
+:  :  :--:  :--:  :
+I     I     I     I 
+:  :--:  :--:  :--:
+I  I  I     I  I  I 
+:  :  :  :--:  :  :
+I     I        I  I 
+:  :  :--:--:--:  :
+I  I  I        I  I 
+:  :  :--:  :  :  :
+I  I        I  I  I 
+:  :--:--:--:--:  :
+I        I        I 
+:  :--:  :  :  :--:
+I  I  I     I  I  I 
+:--:--:--:--:--:--:
+ 
+[7, 6, 9] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:--:--:  :--:
+I           I     I 
+:--:  :  :  :--:  :
+I     I  I     I  I 
+:  :--:  :--:  :  :
+I     I     I     I 
+:--:--:  :--:--:--:
+I     I        I  I 
+:  :  :--:--:  :  :
+I  I           I  I 
+:  :  :  :--:--:  :
+I  I  I  I  I     I 
+:  :--:  :  :  :  :
+I  I     I     I  I 
+:  :  :--:--:--:  :
+I  I  I        I  I 
+:--:  :  :  :--:  :
+I        I        I 
+:  :--:--:--:--:--:
+ 
+[8, 6, 9] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:--:--:  :--:
+I  I           I  I 
+:  :  :--:--:  :  :
+I     I           I 
+:  :--:  :--:--:--:
+I  I  I           I 
+:  :  :--:  :  :  :
+I  I  I     I  I  I 
+:  :  :  :--:--:  :
+I     I        I  I 
+:--:--:--:--:  :--:
+I     I           I 
+:  :  :  :--:--:  :
+I  I  I  I        I 
+:--:  :  :  :--:--:
+I     I  I        I 
+:  :--:  :  :--:  :
+I        I  I     I 
+:--:--:--:--:  :--:
+ 
+[9, 6, 9] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:--:--:  :--:
+I        I        I 
+:  :  :--:  :  :  :
+I  I     I  I  I  I 
+:  :--:  :  :  :--:
+I     I  I  I     I 
+:  :  :  :  :--:  :
+I  I  I  I  I     I 
+:  :--:  :  :--:  :
+I     I  I     I  I 
+:--:  :  :--:  :  :
+I     I     I  I  I 
+:  :--:--:  :  :  :
+I        I     I  I 
+:  :--:  :--:--:  :
+I  I  I  I        I 
+:  :  :  :--:  :--:
+I     I     I     I 
+:--:--:--:  :--:--:
+ 
+[1, 7, 9] = java.lang.reflect.InvocationTargetException 
+[2, 7, 9] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:--:--:--:  :--:
+I     I     I     I  I 
+:  :  :  :  :  :  :  :
+I  I     I     I  I  I 
+:  :--:  :--:--:--:  :
+I  I     I     I     I 
+:  :  :  :  :--:  :--:
+I  I  I  I     I     I 
+:  :  :--:  :  :--:  :
+I  I  I     I     I  I 
+:  :  :  :  :--:  :  :
+I  I     I     I     I 
+:  :--:--:--:--:  :--:
+I              I     I 
+:--:--:--:--:  :--:--:
+I     I              I 
+:  :--:  :  :--:--:  :
+I        I        I  I 
+:--:--:--:--:--:--:  :
+ 
+[3, 7, 9] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:--:--:--:  :--:
+I              I     I 
+:  :--:--:  :  :--:  :
+I  I  I     I  I     I 
+:  :  :  :--:  :  :  :
+I     I     I     I  I 
+:--:--:--:  :--:--:  :
+I  I     I     I  I  I 
+:  :  :  :--:  :  :  :
+I     I        I     I 
+:  :  :--:--:--:--:--:
+I  I     I           I 
+:  :--:  :  :--:--:  :
+I     I  I  I        I 
+:  :  :  :--:  :  :--:
+I  I  I        I     I 
+:  :  :--:--:--:--:  :
+I  I     I           I 
+:--:--:  :--:--:--:--:
+ 
+[4, 7, 9] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:--:--:--:  :--:
+I        I     I     I 
+:  :--:--:  :  :  :  :
+I  I        I  I  I  I 
+:  :  :--:--:  :  :  :
+I     I     I  I  I  I 
+:--:--:  :  :  :  :  :
+I        I     I  I  I 
+:  :--:--:  :--:  :  :
+I  I     I  I     I  I 
+:  :  :  :--:  :--:  :
+I  I  I        I     I 
+:  :  :--:--:--:  :--:
+I  I  I     I  I     I 
+:  :  :  :  :  :  :  :
+I  I  I  I  I     I  I 
+:  :  :  :  :--:--:  :
+I     I  I  I  I  I  I 
+:--:--:--:--:--:--:  :
+ 
+[5, 7, 9] = java.lang.reflect.InvocationTargetException 
+[6, 7, 9] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:--:--:--:  :--:
+I  I           I     I 
+:  :  :--:  :  :  :  :
+I     I     I  I  I  I 
+:--:--:  :--:  :--:  :
+I        I     I     I 
+:  :  :--:  :--:  :--:
+I  I     I  I  I  I  I 
+:  :--:  :  :  :  :  :
+I  I     I        I  I 
+:  :--:--:  :--:--:  :
+I  I     I           I 
+:  :  :  :  :--:--:--:
+I  I  I  I  I  I     I 
+:  :  :  :--:--:  :  :
+I     I           I  I 
+:  :  :--:--:--:--:  :
+I  I  I  I           I 
+:--:--:--:  :--:--:--:
+ 
+[7, 7, 9] = java.lang.reflect.InvocationTargetException 
+[8, 7, 9] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:--:--:--:  :--:
+I                 I  I 
+:--:--:  :--:--:  :  :
+I        I           I 
+:  :--:--:  :--:  :--:
+I  I     I     I     I 
+:  :  :  :--:  :  :  :
+I     I  I     I  I  I 
+:--:--:  :  :--:--:  :
+I  I     I        I  I 
+:  :  :--:  :--:  :--:
+I  I     I     I     I 
+:  :  :  :--:--:--:  :
+I     I     I        I 
+:--:--:  :  :  :--:--:
+I        I  I        I 
+:  :--:--:--:--:--:  :
+I              I     I 
+:--:--:--:--:--:  :--:
+ 
+[9, 7, 9] = java.lang.reflect.InvocationTargetException 
+[1, 8, 9] = java.lang.reflect.InvocationTargetException 
+[2, 8, 9] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:--:--:--:  :--:--:
+I           I     I  I  I 
+:  :  :  :  :  :--:--:--:
+I  I  I  I     I  I     I 
+:  :--:  :  :--:--:  :  :
+I  I     I           I  I 
+:  :  :--:--:--:--:--:--:
+I  I     I     I  I     I 
+:  :  :--:  :  :--:  :  :
+I  I  I     I     I  I  I 
+:  :  :  :--:--:  :  :  :
+I  I     I     I     I  I 
+:  :--:--:  :--:--:--:  :
+I     I     I        I  I 
+:--:  :  :  :  :--:--:  :
+I     I  I  I  I  I  I  I 
+:  :--:  :  :  :  :  :  :
+I     I     I  I  I  I  I 
+:--:--:--:--:--:--:--:  :
+ 
+[3, 8, 9] = java.lang.reflect.InvocationTargetException 
+[4, 8, 9] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:--:--:--:  :--:--:
+I        I     I        I 
+:  :--:--:  :  :  :--:  :
+I  I        I  I  I  I  I 
+:  :  :--:--:  :  :  :  :
+I     I     I  I  I     I 
+:--:--:  :  :  :  :  :--:
+I        I     I  I  I  I 
+:  :--:--:--:--:  :  :  :
+I  I        I     I     I 
+:  :  :  :--:  :  :  :--:
+I  I  I        I  I  I  I 
+:  :  :--:--:--:  :  :  :
+I  I  I           I  I  I 
+:  :  :  :--:--:--:  :  :
+I  I  I     I     I     I 
+:  :  :  :  :  :--:--:  :
+I     I  I  I           I 
+:--:--:--:  :--:--:--:--:
+ 
+[5, 8, 9] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:--:--:--:  :--:--:
+I                 I     I 
+:  :--:--:  :--:--:--:  :
+I  I     I     I        I 
+:  :  :  :--:  :  :  :--:
+I     I  I  I     I     I 
+:--:--:  :  :--:  :--:--:
+I        I     I        I 
+:--:--:--:  :  :--:--:  :
+I           I  I     I  I 
+:  :--:--:--:  :  :  :  :
+I           I  I  I     I 
+:  :--:--:  :  :  :--:--:
+I     I     I     I     I 
+:--:  :  :--:--:--:--:  :
+I  I  I              I  I 
+:  :  :  :--:  :--:  :  :
+I     I     I     I     I 
+:--:--:--:  :--:--:--:--:
+ 
+[6, 8, 9] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:--:--:--:  :--:--:
+I     I        I     I  I 
+:  :--:  :--:  :--:  :  :
+I        I     I     I  I 
+:  :--:  :  :--:  :--:  :
+I     I  I     I  I     I 
+:--:--:  :  :--:  :  :--:
+I        I        I     I 
+:  :--:--:--:--:--:--:  :
+I  I     I  I        I  I 
+:  :  :  :  :  :  :  :  :
+I  I  I     I  I  I     I 
+:  :  :--:--:  :  :  :--:
+I  I           I  I  I  I 
+:  :--:--:--:--:  :  :  :
+I        I        I     I 
+:  :  :  :  :  :  :--:--:
+I  I  I     I  I  I  I  I 
+:--:  :--:--:--:--:--:--:
+ 
+[7, 8, 9] = java.lang.reflect.InvocationTargetException 
+[8, 8, 9] = java.lang.reflect.InvocationTargetException 
+[9, 8, 9] = java.lang.reflect.InvocationTargetException 
+[1, 9, 9] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:--:--:--:--:  :--:--:
+I                    I     I 
+:  :--:--:--:--:--:--:  :  :
+I  I              I     I  I 
+:  :  :--:--:--:  :  :--:  :
+I  I  I        I  I  I     I 
+:  :--:  :  :  :  :  :  :  :
+I  I     I  I  I  I  I  I  I 
+:  :  :--:  :  :  :  :  :  :
+I     I     I  I     I  I  I 
+:  :--:  :  :  :--:--:  :  :
+I  I     I  I        I  I  I 
+:  :  :--:--:--:--:  :  :  :
+I  I     I        I     I  I 
+:  :--:  :  :--:  :--:--:  :
+I  I     I  I  I     I     I 
+:  :  :--:  :  :  :--:  :  :
+I  I  I        I        I  I 
+:--:  :--:--:--:--:--:--:--:
+ 
+[2, 9, 9] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:--:--:--:--:  :--:--:
+I  I           I           I 
+:  :  :  :  :  :  :--:--:--:
+I     I  I  I        I     I 
+:--:--:--:  :  :--:--:  :  :
+I     I     I           I  I 
+:  :--:  :  :--:--:--:--:--:
+I        I  I        I     I 
+:  :--:  :--:  :  :--:  :  :
+I  I     I     I     I  I  I 
+:--:  :  :  :--:--:  :  :  :
+I  I  I     I     I     I  I 
+:--:  :--:--:  :--:--:--:  :
+I  I     I     I        I  I 
+:--:--:  :  :  :  :--:--:  :
+I  I     I  I  I  I  I  I  I 
+:--:  :--:  :  :  :  :  :  :
+I  I     I     I  I  I  I  I 
+:--:--:--:--:--:--:--:--:  :
+ 
+[3, 9, 9] = java.lang.reflect.InvocationTargetException 
+[4, 9, 9] = java.lang.reflect.InvocationTargetException 
+[5, 9, 9] = java.lang.reflect.InvocationTargetException 
+[6, 9, 9] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:--:--:--:--:  :--:--:
+I     I  I        I        I 
+:  :  :  :  :--:  :--:  :  :
+I  I     I  I     I     I  I 
+:--:  :--:  :  :--:  :--:--:
+I        I  I     I  I     I 
+:  :--:--:  :  :--:  :  :  :
+I  I        I        I  I  I 
+:  :  :--:--:--:--:--:  :--:
+I  I                 I     I 
+:  :  :--:--:--:--:  :--:  :
+I  I  I                 I  I 
+:  :  :--:--:--:--:--:--:  :
+I  I           I     I     I 
+:  :  :  :--:  :  :  :  :--:
+I     I     I     I  I     I 
+:--:--:--:  :--:--:  :--:  :
+I              I           I 
+:--:--:--:--:--:  :--:--:--:
+ 
+[7, 9, 9] = java.lang.reflect.InvocationTargetException 
+[8, 9, 9] = java.lang.reflect.InvocationTargetException 
+[9, 9, 9] = Amazing - Copyright by Creative Computing, Morristown, NJ
+:--:--:--:--:--:--:  :--:--:
+I     I        I     I     I 
+:  :--:  :  :--:  :--:--:  :
+I     I  I     I  I     I  I 
+:  :  :  :--:  :  :  :  :  :
+I  I  I     I  I  I  I  I  I 
+:  :  :--:  :  :  :  :  :  :
+I  I     I  I  I  I  I     I 
+:  :--:  :  :  :  :--:  :  :
+I  I  I     I  I     I  I  I 
+:  :  :--:  :  :--:  :  :  :
+I  I     I  I     I     I  I 
+:  :--:  :--:--:  :  :  :  :
+I     I        I     I  I  I 
+:--:  :--:--:  :--:--:  :  :
+I  I           I        I  I 
+:  :  :--:--:--:  :--:--:  :
+I  I        I  I        I  I 
+:--:--:--:--:--:--:--:--:  :
+ 
