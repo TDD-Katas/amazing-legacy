@@ -175,25 +175,22 @@ public class Amazing {
                     continue;
                 case 360:
                     if (z == 1) {
-                        target = 410;
+                        x = (int) (2 * random.nextFloat()) + 1;
+                        target = 420;
                     } else {
-                        target = 370;
+                        q = 1;
+                        x = (int) (3 * random.nextFloat()) + 1;
+                        target = 400;
                     }
-                    continue;
-                case 370:
-                    q = 1;
-                    target = 390;
                     continue;
                 case 380:
                     if (wArray[r][s + 1] != 0) {
-                        target = 410;
+                        x = (int) (2 * random.nextFloat()) + 1;
+                        target = 420;
                     } else {
-                        target = 390;
+                        x = (int) (3 * random.nextFloat()) + 1;
+                        target = 400;
                     }
-                    continue;
-                case 390:
-                    x = (int) (3 * random.nextFloat()) + 1;
-                    target = 400;
                     continue;
                 case 400:
                     if (x == 1) {
@@ -209,10 +206,6 @@ public class Amazing {
                     } else {
                         target = 1090;
                     }
-                    continue;
-                case 410:
-                    x = (int) (2 * random.nextFloat()) + 1;
-                    target = 420;
                     continue;
                 case 420:
                     if (x == 1) {
@@ -250,25 +243,25 @@ public class Amazing {
                     continue;
                 case 460:
                     if (z == 1) {
-                        target = 510;
+                        x = (int) (2 * random.nextFloat()) + 1;
+                        target = 520;
                     } else {
                         target = 470;
                     }
                     continue;
                 case 470:
                     q = 1;
-                    target = 490;
+                    x = (int) (3 * random.nextFloat()) + 1;
+                    target = 500;
                     continue;
                 case 480:
                     if (wArray[r][s + 1] != 0) {
-                        target = 510;
+                        x = (int) (2 * random.nextFloat()) + 1;
+                        target = 520;
                     } else {
-                        target = 490;
+                        x = (int) (3 * random.nextFloat()) + 1;
+                        target = 500;
                     }
-                    continue;
-                case 490:
-                    x = (int) (3 * random.nextFloat()) + 1;
-                    target = 500;
                     continue;
                 case 500:
                     if (x == 1) {
@@ -283,10 +276,6 @@ public class Amazing {
                     } else {
                         target = 1090;
                     }
-                    continue;
-                case 510:
-                    x = (int) (2 * random.nextFloat()) + 1;
-                    target = 520;
                     continue;
                 case 520:
                     if (x == 1) {
@@ -315,12 +304,10 @@ public class Amazing {
                         r--;
                         target = 960;
                     } else {
-                        target = 550;
+                        q = 1;
+                        x = (int) (2 * random.nextFloat()) + 1;
+                        target = 580;
                     }
-                    continue;
-                case 550:
-                    q = 1;
-                    target = 570;
                     continue;
                 case 560:
                     if (wArray[r][s + 1] != 0) {
@@ -330,12 +317,9 @@ public class Amazing {
                         r--;
                         target = 960;
                     } else {
-                        target = 570;
+                        x = (int) (2 * random.nextFloat()) + 1;
+                        target = 580;
                     }
-                    continue;
-                case 570:
-                    x = (int) (2 * random.nextFloat()) + 1;
-                    target = 580;
                     continue;
                 case 580:
                     if (x == 1) {
@@ -388,24 +372,19 @@ public class Amazing {
                         x = (int) (2 * random.nextFloat()) + 1;
                         target = 710;
                     } else {
-                        target = 660;
+                        q = 1;
+                        x = (int) (3 * random.nextFloat()) + 1;
+                        target = 690;
                     }
-                    continue;
-                case 660:
-                    q = 1;
-                    target = 680;
                     continue;
                 case 670:
                     if (wArray[r][s + 1] != 0) {
                         x = (int) (2 * random.nextFloat()) + 1;
                         target = 710;
                     } else {
-                        target = 680;
+                        x = (int) (3 * random.nextFloat()) + 1;
+                        target = 690;
                     }
-                    continue;
-                case 680:
-                    x = (int) (3 * random.nextFloat()) + 1;
-                    target = 690;
                     continue;
                 case 690:
                     if (x == 1) {
