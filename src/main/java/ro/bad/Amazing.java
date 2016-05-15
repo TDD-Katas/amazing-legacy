@@ -444,63 +444,45 @@ public class Amazing {
                     if (wArray[r + 1][s] != 0) {
                         target = 880;
                     } else {
-                        target = 810;
-                    }
-                    continue;
-                case 810:
-                    if (s != v) {
-                        target = 840;
-                    } else {
-                        target = 820;
-                    }
-                    continue;
-                case 820:
-                    if (z == 1) {
-                        wArray[r + 1][s] = c;
-                        target = 1030;
-                    } else {
-                        q = 1;
-                        c++;
-                        target = 1000;
-                    }
-                    continue;
-                case 840:
-                    if (wArray[r][s + 1] != 0) {
-                        wArray[r + 1][s] = c;
-                        target = 1030;
-                    } else {
-                        x = (int) (2 * random.nextFloat()) + 1;
-                        target = 860;
-                    }
-                    continue;
-                case 860:
-                    if (x == 1) {
-                        wArray[r + 1][s] = c;
-                        target = 1030;
-                    } else {
-                        target = 1090;
+                        if (s != v) {
+                            if (wArray[r][s + 1] != 0) {
+                                wArray[r + 1][s] = c;
+                                target = 1030;
+                            } else {
+                                x = (int) (2 * random.nextFloat()) + 1;
+                                if (x == 1) {
+                                    wArray[r + 1][s] = c;
+                                    target = 1030;
+                                } else {
+                                    target = 1090;
+                                }
+                            }
+                        } else {
+                            if (z == 1) {
+                                wArray[r + 1][s] = c;
+                                target = 1030;
+                            } else {
+                                q = 1;
+                                c++;
+                                target = 1000;
+                            }
+                        }
                     }
                     continue;
                 case 880:
                     if (s != v) {
-                        target = 910;
+                        if (wArray[r][s + 1] != 0) {
+                            target = 210;
+                        } else {
+                            target = 1090;
+                        }
                     } else {
-                        target = 890;
-                    }
-                    continue;
-                case 890:
-                    if (z == 1) {
-                        target = 210;
-                    } else {
-                        q = 1;
-                        target = 1090;
-                    }
-                    continue;
-                case 910:
-                    if (wArray[r][s + 1] != 0) {
-                        target = 210;
-                    } else {
-                        target = 1090;
+                        if (z == 1) {
+                            target = 210;
+                        } else {
+                            q = 1;
+                            target = 1090;
+                        }
                     }
                     continue;
                 case 960:
@@ -530,9 +512,6 @@ public class Amazing {
                         vArray[r][s] = 3;
                     }
                     r++;
-                    target = 1070;
-                    continue;
-                case 1070:
                     if (c == h * v + 1) {
                         shouldContinue = false;
                     } else {
@@ -542,40 +521,31 @@ public class Amazing {
                 case 1090:
                     if (q == 1) {
                         z = 1;
-                        target = 1160;
+                        if (vArray[r][s] == 0) {
+                            vArray[r][s] = 1;
+                            q = 0;
+                            r = 1;
+                            s = 1;
+                            target = 260;
+                        } else {
+                            vArray[r][s] = 3;
+                            q = 0;
+                            target = 210;
+                        }
                     } else {
-                        target = 1100;
-                    }
-                    continue;
-                case 1100:
-                    wArray[r][s + 1] = c;
-                    c++;
-                    if (vArray[r][s] == 0) {
-                        vArray[r][s] = 1;
-                    } else {
-                        vArray[r][s] = 3;
-                    }
-                    target = 1130;
-                    continue;
-                case 1130:
-                    s++;
-                    if (c == v * h + 1) {
-                        shouldContinue = false;
-                    } else {
-                        target = 270;
-                    }
-                    continue;
-                case 1160:
-                    if (vArray[r][s] == 0) {
-                        vArray[r][s] = 1;
-                        q = 0;
-                        r = 1;
-                        s = 1;
-                        target = 260;
-                    } else {
-                        vArray[r][s] = 3;
-                        q = 0;
-                        target = 210;
+                        wArray[r][s + 1] = c;
+                        c++;
+                        if (vArray[r][s] == 0) {
+                            vArray[r][s] = 1;
+                        } else {
+                            vArray[r][s] = 3;
+                        }
+                        s++;
+                        if (c == v * h + 1) {
+                            shouldContinue = false;
+                        } else {
+                            target = 270;
+                        }
                     }
                     continue;
                 default:
