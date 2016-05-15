@@ -156,7 +156,8 @@ public class Amazing {
                     } else if (x == 2) {
                         target = 980;
                     } else {
-                        target = 1020;
+                        wArray[r + 1][s] = c;
+                        target = 1030;
                     }
                     continue;
                 case 350:
@@ -255,7 +256,8 @@ public class Amazing {
                     if (x == 1) {
                         target = 940;
                     } else if (x == 2) {
-                        target = 1020;
+                        wArray[r + 1][s] = c;
+                        target = 1030;
                     } else {
                         target = 1090;
                     }
@@ -268,7 +270,8 @@ public class Amazing {
                     if (x == 1) {
                         target = 940;
                     } else {
-                        target = 1020;
+                        wArray[r + 1][s] = c;
+                        target = 1030;
                     }
                     continue;
                 case 530:
@@ -368,7 +371,8 @@ public class Amazing {
                     if (x == 1) {
                         target = 980;
                     } else if (x == 2) {
-                        target = 1020;
+                        wArray[r + 1][s] = c;
+                        target = 1030;
                     } else {
                         target = 1090;
                     }
@@ -381,7 +385,8 @@ public class Amazing {
                     if (x == 1) {
                         target = 980;
                     } else {
-                        target = 1020;
+                        wArray[r + 1][s] = c;
+                        target = 1030;
                     }
                     continue;
                 case 720:
@@ -443,18 +448,21 @@ public class Amazing {
                     continue;
                 case 820:
                     if (z == 1) {
-                        target = 1020;
+                        wArray[r + 1][s] = c;
+                        target = 1030;
                     } else {
                         target = 830;
                     }
                     continue;
                 case 830:
                     q = 1;
-                    target = 990;
+                    c++;
+                    target = 1000;
                     continue;
                 case 840:
                     if (wArray[r][s + 1] != 0) {
-                        target = 1020;
+                        wArray[r + 1][s] = c;
+                        target = 1030;
                     } else {
                         target = 850;
                     }
@@ -465,7 +473,8 @@ public class Amazing {
                     continue;
                 case 860:
                     if (x == 1) {
-                        target = 1020;
+                        wArray[r + 1][s] = c;
+                        target = 1030;
                     } else {
                         target = 1090;
                     }
@@ -518,9 +527,6 @@ public class Amazing {
                     continue;
                 case 980:
                     wArray[r][s - 1] = c;
-                    target = 990;
-                    continue;
-                case 990:
                     c++;
                     target = 1000;
                     continue;
@@ -534,27 +540,13 @@ public class Amazing {
                         target = 270;
                     }
                     continue;
-                case 1020:
-                    wArray[r + 1][s] = c;
-                    target = 1030;
-                    continue;
                 case 1030:
                     c++;
                     if (vArray[r][s] == 0) {
-                        target = 1050;
+                        vArray[r][s] = 2;
                     } else {
-                        target = 1040;
+                        vArray[r][s] = 3;
                     }
-                    continue;
-                case 1040:
-                    vArray[r][s] = 3;
-                    target = 1060;
-                    continue;
-                case 1050:
-                    vArray[r][s] = 2;
-                    target = 1060;
-                    continue;
-                case 1060:
                     r++;
                     target = 1070;
                     continue;
@@ -567,7 +559,8 @@ public class Amazing {
                     continue;
                 case 1090:
                     if (q == 1) {
-                        target = 1150;
+                        z = 1;
+                        target = 1160;
                     } else {
                         target = 1100;
                     }
@@ -576,17 +569,10 @@ public class Amazing {
                     wArray[r][s + 1] = c;
                     c++;
                     if (vArray[r][s] == 0) {
-                        target = 1120;
+                        vArray[r][s] = 1;
                     } else {
-                        target = 1110;
+                        vArray[r][s] = 3;
                     }
-                    continue;
-                case 1110:
-                    vArray[r][s] = 3;
-                    target = 1130;
-                    continue;
-                case 1120:
-                    vArray[r][s] = 1;
                     target = 1130;
                     continue;
                 case 1130:
@@ -597,10 +583,6 @@ public class Amazing {
                         target = 270;
                     }
                     continue;
-                case 1150:
-                    z = 1;
-                    target = 1160;
-                    continue;
                 case 1160:
                     if (vArray[r][s] == 0) {
                         vArray[r][s] = 1;
@@ -609,14 +591,13 @@ public class Amazing {
                         s = 1;
                         target = 260;
                     } else {
-                        target = 1170;
+                        vArray[r][s] = 3;
+                        q = 0;
+                        target = 210;
                     }
                     continue;
-                case 1170:
-                    vArray[r][s] = 3;
-                    q = 0;
-                    target = 210;
-                    continue;
+                default:
+                    throw new IllegalStateException("Boom");
             }
 
         }
