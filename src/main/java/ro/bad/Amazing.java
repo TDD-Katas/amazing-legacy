@@ -71,31 +71,22 @@ public class Amazing {
             switch (target) {
                 case 210:
                     if (r != h) {
-                        target = 250;
+                        r++;
+                        target = 260;
                     } else {
                         target = 220;
                     }
                     continue;
                 case 220:
                     if (s != v) {
-                        target = 240;
+                        r = 1;
+                        s++;
+                        target = 260;
                     } else {
-                        target = 230;
+                        r = 1;
+                        s = 1;
+                        target = 260;
                     }
-                    continue;
-                case 230:
-                    r = 1;
-                    s = 1;
-                    target = 260;
-                    continue;
-                case 240:
-                    r = 1;
-                    s++;
-                    target = 260;
-                    continue;
-                case 250:
-                    r++;
-                    target = 260;
                     continue;
                 case 260:
                     if (wArray[r][s] == 0) {
@@ -143,12 +134,9 @@ public class Amazing {
                     if (wArray[r + 1][s] != 0) {
                         target = 350;
                     } else {
-                        target = 330;
+                        x = (int) (3 * random.nextFloat()) + 1;
+                        target = 340;
                     }
-                    continue;
-                case 330:
-                    x = (int) (3 * random.nextFloat()) + 1;
-                    target = 340;
                     continue;
                 case 340:
                     if (x == 1) {
