@@ -10,12 +10,10 @@ package ro.bad; /**
 import java.util.Random;
 
 public class Amazing {
-    private int target;      // where GOTO goes
     private Random random;
 
     public Amazing(int seed) {
         random = new Random(seed);
-        target = 0;
     }
 
     public String doit(int horizontal, int vertical) {
@@ -61,9 +59,10 @@ public class Amazing {
         // 200
         int r = x;
         int s = 1;
-        target = 270;
+        int target = 270;
 
-        while (target != -1) {
+        boolean shouldContinue = true;
+        while (shouldContinue) {
             switch (target) {
                 case 210:
                     if (r != h)
@@ -470,7 +469,7 @@ public class Amazing {
                     continue;
                 case 960:
                     if (c == h * v + 1)
-                        target = 1200;
+                        shouldContinue = false;
                     else
                         target = 970;
                     continue;
@@ -490,7 +489,7 @@ public class Amazing {
                     vArray[r][s - 1] = 1;
                     s--;
                     if (c == h * v + 1)
-                        target = 1200;
+                        shouldContinue = false;
                     else
                         target = 1010;
                     continue;
@@ -523,7 +522,7 @@ public class Amazing {
                     continue;
                 case 1070:
                     if (c == h * v + 1)
-                        target = 1200;
+                        shouldContinue = false;
                     else
                         target = 1080;
                     continue;
@@ -555,7 +554,7 @@ public class Amazing {
                 case 1130:
                     s++;
                     if (c == v * h + 1)
-                        target = 1200;
+                        shouldContinue = false;
                     else
                         target = 1140;
                     continue;
@@ -586,9 +585,6 @@ public class Amazing {
                     continue;
                 case 1190:
                     target = 210;
-                    continue;
-                case 1200:
-                    target = -1;
                     continue;
             }
 
