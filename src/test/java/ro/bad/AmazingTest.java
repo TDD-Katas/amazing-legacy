@@ -1,11 +1,8 @@
 package ro.bad;
 
 import org.approvaltests.legacycode.LegacyApprovals;
-import org.junit.Ignore;
 import org.junit.Test;
 
-import java.util.Random;
-import java.util.stream.Collectors;
 import java.util.stream.IntStream;
 
 import static org.junit.Assert.assertEquals;
@@ -58,9 +55,9 @@ public class AmazingTest {
                         "I        I        I     I  I        I        I \n" +
                         ":--:--:--:--:--:--:--:--:  :--:--:--:--:--:--:\n";
 
-        generateMaze(0, 15, 20);
+        String result = generateMaze(0, 15, 20);
 
-        assertEquals("Should have the maze that was expected", expected, Amazing.result.toString());
+        assertEquals("Should have the maze that was expected", expected, result);
     }
 
     @Test
@@ -79,8 +76,8 @@ public class AmazingTest {
                         "I  I  I  I  I \n" +
                         ":--:--:  :--:\n";
 
-        generateMaze(100, 4, 5);
-        assertEquals("Should have the maze that was expected", expected, Amazing.result.toString());
+        String result = generateMaze(100, 4, 5);
+        assertEquals("Should have the maze that was expected", expected, result);
 
     }
 
@@ -105,7 +102,6 @@ public class AmazingTest {
 
     public String generateMaze(Integer seed, Integer numberOfColumns, Integer numberOfRow) {
         Amazing amaze = new Amazing(seed);
-        Amazing.doit(numberOfColumns, numberOfRow);
-        return Amazing.result.toString();
+        return amaze.doit(numberOfColumns, numberOfRow);
     }
 }

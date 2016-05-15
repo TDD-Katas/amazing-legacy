@@ -9,42 +9,44 @@ package ro.bad; /**
 import java.util.Random;
 
 public class Amazing {
-    static int target = 0;      // where GOTO goes
-    public static Random random = new Random(0);
-    public static StringBuffer result = new StringBuffer();
+    private int target;      // where GOTO goes
+    private Random random;
+    private StringBuffer result;
 
     public Amazing(int seed){
         random = new Random(seed);
+        target = 0;
+        result = new StringBuffer();
     }
 
-    private static void clear() {
+    private void clear() {
         result.setLength(0);
     }
 
-    private static void println() {
+    private void println() {
         result.append("\n");
     }
 
-    public static void print(String text) {
+    public void print(String text) {
         result.append(text);
     }
 
-    public static int rnd(int count) {
+    public int rnd(int count) {
         return (int) (count * random.nextFloat()) + 1;
     }
 
-    public static void GOTO(int lineno) {
+    public void GOTO(int lineno) {
         target = lineno;
     }
 
-    public static void doit(int horizontal, int vertical) {
+    public String doit(int horizontal, int vertical) {
         clear();
         print("Amazing - Copyright by Creative Computing, Morristown, NJ");
         println();
 
         int h = horizontal;
         int v = vertical;
-        if (h == 1 || v == 1) return;
+        if (h == 1 || v == 1) return result.toString();
 
         int[][] wArray = new int[h + 1][v + 1];
         for (int i = 0; i <= h; i++) {
@@ -638,5 +640,7 @@ public class Amazing {
             print(":");    // 1360
             println();
         }
+
+        return result.toString();
     }
 }
