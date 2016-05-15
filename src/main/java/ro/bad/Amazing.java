@@ -24,7 +24,9 @@ public class Amazing {
 
         int h = horizontal;
         int v = vertical;
-        if (h == 1 || v == 1) return result.toString();
+        if (h == 1 || v == 1) {
+            return result.toString();
+        }
 
         int[][] wArray = new int[h + 1][v + 1];
         for (int i = 0; i <= h; i++) {
@@ -42,10 +44,11 @@ public class Amazing {
 
         // 130:170
         for (int i = 1; i <= h; i++) {
-            if (i == x)
+            if (i == x) {
                 result.append(":  ");
-            else
+            } else {
                 result.append(":--");
+            }
         }
         // 180
         result.append(":");
@@ -67,16 +70,18 @@ public class Amazing {
         while (shouldContinue) {
             switch (target) {
                 case 210:
-                    if (r != h)
+                    if (r != h) {
                         target = 250;
-                    else
+                    } else {
                         target = 220;
+                    }
                     continue;
                 case 220:
-                    if (s != v)
+                    if (s != v) {
                         target = 240;
-                    else
+                    } else {
                         target = 230;
+                    }
                     continue;
                 case 230:
                     r = 1;
@@ -93,356 +98,402 @@ public class Amazing {
                     target = 260;
                     continue;
                 case 260:
-                    if (wArray[r][s] == 0)
+                    if (wArray[r][s] == 0) {
                         target = 210;
-                    else
+                    } else {
                         target = 270;
+                    }
                     continue;
                 case 270:
-                    if (r - 1 == 0)
+                    if (r - 1 == 0) {
                         target = 600;
-                    else
+                    } else {
                         target = 280;
+                    }
                     continue;
                 case 280:
-                    if (wArray[r - 1][s] != 0)
+                    if (wArray[r - 1][s] != 0) {
                         target = 600;
-                    else
+                    } else {
                         target = 290;
+                    }
                     continue;
                 case 290:
-                    if (s - 1 == 0)
+                    if (s - 1 == 0) {
                         target = 430;
-                    else
+                    } else {
                         target = 300;
+                    }
                     continue;
                 case 300:
-                    if (wArray[r][s - 1] != 0)
+                    if (wArray[r][s - 1] != 0) {
                         target = 430;
-                    else
+                    } else {
                         target = 310;
+                    }
                     continue;
                 case 310:
-                    if (r == h)
+                    if (r == h) {
                         target = 350;
-                    else
+                    } else {
                         target = 320;
+                    }
                     continue;
                 case 320:
-                    if (wArray[r + 1][s] != 0)
+                    if (wArray[r + 1][s] != 0) {
                         target = 350;
-                    else
+                    } else {
                         target = 330;
+                    }
                     continue;
                 case 330:
                     x = (int) (3 * random.nextFloat()) + 1;
                     target = 340;
                     continue;
                 case 340:
-                    if (x == 1)
+                    if (x == 1) {
                         target = 940;
-                    else if (x == 2)
+                    } else if (x == 2) {
                         target = 980;
-                    else
+                    } else {
                         target = 1020;
+                    }
                     continue;
                 case 350:
-                    if (s != v)
+                    if (s != v) {
                         target = 380;
-                    else
+                    } else {
                         target = 360;
+                    }
                     continue;
                 case 360:
-                    if (z == 1)
+                    if (z == 1) {
                         target = 410;
-                    else
+                    } else {
                         target = 370;
+                    }
                     continue;
                 case 370:
                     q = 1;
                     target = 390;
                     continue;
                 case 380:
-                    if (wArray[r][s + 1] != 0)
+                    if (wArray[r][s + 1] != 0) {
                         target = 410;
-                    else
+                    } else {
                         target = 390;
+                    }
                     continue;
                 case 390:
                     x = (int) (3 * random.nextFloat()) + 1;
                     target = 400;
                     continue;
                 case 400:
-                    if (x == 1)
+                    if (x == 1) {
                         target = 940;
-                    else if (x == 2)
+                    } else if (x == 2) {
                         target = 980;
-                    else
+                    } else {
                         target = 1090;
+                    }
                     continue;
                 case 410:
                     x = (int) (2 * random.nextFloat()) + 1;
                     target = 420;
                     continue;
                 case 420:
-                    if (x == 1)
+                    if (x == 1) {
                         target = 940;
-                    else
+                    } else {
                         target = 980;
+                    }
                     continue;
                 case 430:
-                    if (r == h)
+                    if (r == h) {
                         target = 530;
-                    else
+                    } else {
                         target = 440;
+                    }
                     continue;
                 case 440:
-                    if (wArray[r + 1][s] != 0)
+                    if (wArray[r + 1][s] != 0) {
                         target = 530;
-                    else
+                    } else {
                         target = 450;
+                    }
                     continue;
                 case 450:
-                    if (s != v)
+                    if (s != v) {
                         target = 480;
-                    else
+                    } else {
                         target = 460;
+                    }
                     continue;
                 case 460:
-                    if (z == 1)
+                    if (z == 1) {
                         target = 510;
-                    else
+                    } else {
                         target = 470;
+                    }
                     continue;
                 case 470:
                     q = 1;
                     target = 490;
                     continue;
                 case 480:
-                    if (wArray[r][s + 1] != 0)
+                    if (wArray[r][s + 1] != 0) {
                         target = 510;
-                    else
+                    } else {
                         target = 490;
+                    }
                     continue;
                 case 490:
                     x = (int) (3 * random.nextFloat()) + 1;
                     target = 500;
                     continue;
                 case 500:
-                    if (x == 1)
+                    if (x == 1) {
                         target = 940;
-                    else if (x == 2)
+                    } else if (x == 2) {
                         target = 1020;
-                    else
+                    } else {
                         target = 1090;
+                    }
                     continue;
                 case 510:
                     x = (int) (2 * random.nextFloat()) + 1;
                     target = 520;
                     continue;
                 case 520:
-                    if (x == 1)
+                    if (x == 1) {
                         target = 940;
-                    else
+                    } else {
                         target = 1020;
+                    }
                     continue;
                 case 530:
-                    if (s != v)
+                    if (s != v) {
                         target = 560;
-                    else
+                    } else {
                         target = 540;
+                    }
                     continue;
                 case 540:
-                    if (z == 1)
+                    if (z == 1) {
                         target = 940;
-                    else
+                    } else {
                         target = 550;
+                    }
                     continue;
                 case 550:
                     q = 1;
                     target = 570;
                     continue;
                 case 560:
-                    if (wArray[r][s + 1] != 0)
+                    if (wArray[r][s + 1] != 0) {
                         target = 940;
-                    else
+                    } else {
                         target = 570;
+                    }
                     continue;
                 case 570:
                     x = (int) (2 * random.nextFloat()) + 1;
                     target = 580;
                     continue;
                 case 580:
-                    if (x == 1)
+                    if (x == 1) {
                         target = 940;
-                    else
+                    } else {
                         target = 1090;
+                    }
                     continue;
                 case 600:
-                    if (s - 1 == 0)
+                    if (s - 1 == 0) {
                         target = 790;
-                    else
+                    } else {
                         target = 610;
+                    }
                     continue;
                 case 610:
-                    if (wArray[r][s - 1] != 0)
+                    if (wArray[r][s - 1] != 0) {
                         target = 790;
-                    else
+                    } else {
                         target = 620;
+                    }
                     continue;
                 case 620:
-                    if (r == h)
+                    if (r == h) {
                         target = 720;
-                    else
+                    } else {
                         target = 630;
+                    }
                     continue;
                 case 630:
-                    if (wArray[r + 1][s] != 0)
+                    if (wArray[r + 1][s] != 0) {
                         target = 720;
-                    else
+                    } else {
                         target = 640;
+                    }
                     continue;
                 case 640:
-                    if (s != v)
+                    if (s != v) {
                         target = 670;
-                    else
+                    } else {
                         target = 650;
+                    }
                     continue;
                 case 650:
-                    if (z == 1)
+                    if (z == 1) {
                         target = 700;
-                    else
+                    } else {
                         target = 660;
+                    }
                     continue;
                 case 660:
                     q = 1;
                     target = 680;
                     continue;
                 case 670:
-                    if (wArray[r][s + 1] != 0)
+                    if (wArray[r][s + 1] != 0) {
                         target = 700;
-                    else
+                    } else {
                         target = 680;
+                    }
                     continue;
                 case 680:
                     x = (int) (3 * random.nextFloat()) + 1;
                     target = 690;
                     continue;
                 case 690:
-                    if (x == 1)
+                    if (x == 1) {
                         target = 980;
-                    else if (x == 2)
+                    } else if (x == 2) {
                         target = 1020;
-                    else
+                    } else {
                         target = 1090;
+                    }
                     continue;
                 case 700:
                     x = (int) (2 * random.nextFloat()) + 1;
                     target = 710;
                     continue;
                 case 710:
-                    if (x == 1)
+                    if (x == 1) {
                         target = 980;
-                    else
+                    } else {
                         target = 1020;
+                    }
                     continue;
                 case 720:
-                    if (s != v)
+                    if (s != v) {
                         target = 750;
-                    else
+                    } else {
                         target = 730;
+                    }
                     continue;
                 case 730:
-                    if (z == 1)
+                    if (z == 1) {
                         target = 980;
-                    else
+                    } else {
                         target = 740;
+                    }
                     continue;
                 case 740:
                     q = 1;
                     target = 760;
                     continue;
                 case 750:
-                    if (wArray[r][s + 1] != 0)
+                    if (wArray[r][s + 1] != 0) {
                         target = 980;
-                    else
+                    } else {
                         target = 760;
+                    }
                     continue;
                 case 760:
                     x = (int) (2 * random.nextFloat()) + 1;
                     target = 770;
                     continue;
                 case 770:
-                    if (x == 1)
+                    if (x == 1) {
                         target = 980;
-                    else
+                    } else {
                         target = 1090;
+                    }
                     continue;
                 case 790:
-                    if (r == h)
+                    if (r == h) {
                         target = 880;
-                    else
+                    } else {
                         target = 800;
+                    }
                     continue;
                 case 800:
-                    if (wArray[r + 1][s] != 0)
+                    if (wArray[r + 1][s] != 0) {
                         target = 880;
-                    else
+                    } else {
                         target = 810;
+                    }
                     continue;
                 case 810:
-                    if (s != v)
+                    if (s != v) {
                         target = 840;
-                    else
+                    } else {
                         target = 820;
+                    }
                     continue;
                 case 820:
-                    if (z == 1)
+                    if (z == 1) {
                         target = 1020;
-                    else
+                    } else {
                         target = 830;
+                    }
                     continue;
                 case 830:
                     q = 1;
                     target = 990;
                     continue;
                 case 840:
-                    if (wArray[r][s + 1] != 0)
+                    if (wArray[r][s + 1] != 0) {
                         target = 1020;
-                    else
+                    } else {
                         target = 850;
+                    }
                     continue;
                 case 850:
                     x = (int) (2 * random.nextFloat()) + 1;
                     target = 860;
                     continue;
                 case 860:
-                    if (x == 1)
+                    if (x == 1) {
                         target = 1020;
-                    else
+                    } else {
                         target = 1090;
+                    }
                     continue;
                 case 880:
-                    if (s != v)
+                    if (s != v) {
                         target = 910;
-                    else
+                    } else {
                         target = 890;
+                    }
                     continue;
                 case 890:
-                    if (z == 1)
+                    if (z == 1) {
                         target = 210;
-                    else
+                    } else {
                         target = 900;
+                    }
                     continue;
                 case 900:
                     q = 1;
                     target = 1090;
                     continue;
                 case 910:
-                    if (wArray[r][s + 1] != 0)
+                    if (wArray[r][s + 1] != 0) {
                         target = 210;
-                    else
+                    } else {
                         target = 1090;
+                    }
                     continue;
                 case 940:
                     wArray[r - 1][s] = c;
@@ -455,10 +506,11 @@ public class Amazing {
                     target = 960;
                     continue;
                 case 960:
-                    if (c == h * v + 1)
+                    if (c == h * v + 1) {
                         shouldContinue = false;
-                    else
+                    } else {
                         target = 970;
+                    }
                     continue;
                 case 970:
                     q = 0;
@@ -475,9 +527,9 @@ public class Amazing {
                 case 1000:
                     vArray[r][s - 1] = 1;
                     s--;
-                    if (c == h * v + 1)
+                    if (c == h * v + 1) {
                         shouldContinue = false;
-                    else {
+                    } else {
                         q = 0;
                         target = 270;
                     }
@@ -488,10 +540,11 @@ public class Amazing {
                     continue;
                 case 1030:
                     c++;
-                    if (vArray[r][s] == 0)
+                    if (vArray[r][s] == 0) {
                         target = 1050;
-                    else
+                    } else {
                         target = 1040;
+                    }
                     continue;
                 case 1040:
                     vArray[r][s] = 3;
@@ -506,24 +559,27 @@ public class Amazing {
                     target = 1070;
                     continue;
                 case 1070:
-                    if (c == h * v + 1)
+                    if (c == h * v + 1) {
                         shouldContinue = false;
-                    else
+                    } else {
                         target = 600;
+                    }
                     continue;
                 case 1090:
-                    if (q == 1)
+                    if (q == 1) {
                         target = 1150;
-                    else
+                    } else {
                         target = 1100;
+                    }
                     continue;
                 case 1100:
                     wArray[r][s + 1] = c;
                     c++;
-                    if (vArray[r][s] == 0)
+                    if (vArray[r][s] == 0) {
                         target = 1120;
-                    else
+                    } else {
                         target = 1110;
+                    }
                     continue;
                 case 1110:
                     vArray[r][s] = 3;
@@ -535,32 +591,31 @@ public class Amazing {
                     continue;
                 case 1130:
                     s++;
-                    if (c == v * h + 1)
+                    if (c == v * h + 1) {
                         shouldContinue = false;
-                    else
+                    } else {
                         target = 270;
+                    }
                     continue;
                 case 1150:
                     z = 1;
                     target = 1160;
                     continue;
                 case 1160:
-                    if (vArray[r][s] == 0)
-                        target = 1180;
-                    else
+                    if (vArray[r][s] == 0) {
+                        vArray[r][s] = 1;
+                        q = 0;
+                        r = 1;
+                        s = 1;
+                        target = 260;
+                    } else {
                         target = 1170;
+                    }
                     continue;
                 case 1170:
                     vArray[r][s] = 3;
                     q = 0;
                     target = 210;
-                    continue;
-                case 1180:
-                    vArray[r][s] = 1;
-                    q = 0;
-                    r = 1;
-                    s = 1;
-                    target = 260;
                     continue;
             }
 
@@ -571,22 +626,24 @@ public class Amazing {
             result.append("I");
 
             for (int i = 1; i <= h; i++) {
-                if (vArray[i][j] >= 2)
+                if (vArray[i][j] >= 2) {
                     result.append("   ");
-                else
+                } else {
                     result.append("  I");
+                }
             }
 
             result.append(" ");
             result.append("\n");
 
             for (int i = 1; i <= h; i++) {
-                if (vArray[i][j] == 0)
+                if (vArray[i][j] == 0) {
                     result.append(":--");
-                else if (vArray[i][j] == 2)
+                } else if (vArray[i][j] == 2) {
                     result.append(":--");
-                else
+                } else {
                     result.append(":  ");
+                }
             }
 
             result.append(":");
