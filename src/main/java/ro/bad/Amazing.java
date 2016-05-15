@@ -455,7 +455,7 @@ public class Amazing {
                     target = 1090;
                     continue;
                 case 930:
-                    target = 1190;
+                    target = 210;
                     continue;
                 case 940:
                     wArray[r - 1][s] = c;
@@ -524,10 +524,7 @@ public class Amazing {
                     if (c == h * v + 1)
                         shouldContinue = false;
                     else
-                        target = 1080;
-                    continue;
-                case 1080:
-                    target = 600;
+                        target = 600;
                     continue;
                 case 1090:
                     if (q == 1)
@@ -556,10 +553,7 @@ public class Amazing {
                     if (c == v * h + 1)
                         shouldContinue = false;
                     else
-                        target = 1140;
-                    continue;
-                case 1140:
-                    target = 270;
+                        target = 270;
                     continue;
                 case 1150:
                     z = 1;
@@ -574,7 +568,7 @@ public class Amazing {
                 case 1170:
                     vArray[r][s] = 3;
                     q = 0;
-                    target = 1190;
+                    target = 210;
                     continue;
                 case 1180:
                     vArray[r][s] = 1;
@@ -582,9 +576,6 @@ public class Amazing {
                     r = 1;
                     s = 1;
                     target = 260;
-                    continue;
-                case 1190:
-                    target = 210;
                     continue;
             }
 
