@@ -12,15 +12,14 @@ import java.util.Random;
 public class Amazing {
     private int target;      // where GOTO goes
     private Random random;
-    private StringBuffer result;
 
     public Amazing(int seed) {
         random = new Random(seed);
         target = 0;
-        result = new StringBuffer();
     }
 
     public String doit(int horizontal, int vertical) {
+        StringBuilder result = new StringBuilder();
         result.setLength(0);
         result.append("Amazing - Copyright by Creative Computing, Morristown, NJ");
         result.append("\n");
