@@ -16,34 +16,32 @@ public class Amazing {
         random = new Random(seed);
     }
 
-    public String doit(int horizontal, int vertical) {
+    public String doit(int noCols, int noRows) {
         StringBuilder result = new StringBuilder();
         result.setLength(0);
         result.append("Amazing - Copyright by Creative Computing, Morristown, NJ");
         result.append("\n");
 
-        int h = horizontal;
-        int v = vertical;
-        if (h == 1 || v == 1) {
+        if (noCols == 1 || noRows == 1) {
             return result.toString();
         }
 
-        int[][] wArray = new int[h + 1][v + 1];
-        for (int i = 0; i <= h; i++) {
-            wArray[i] = new int[v + 1];
+        int[][] wArray = new int[noCols + 1][noRows + 1];
+        for (int i = 0; i <= noCols; i++) {
+            wArray[i] = new int[noRows + 1];
         }
 
-        int[][] vArray = new int[h + 1][v + 1];
-        for (int i = 0; i <= h; i++) {
-            vArray[i] = new int[v + 1];
+        int[][] vArray = new int[noCols + 1][noRows + 1];
+        for (int i = 0; i <= noCols; i++) {
+            vArray[i] = new int[noRows + 1];
         }
 
         int q = 0;
         int z = 0;
-        int x = (int) (h * random.nextFloat()) + 1;
+        int x = rand(noCols);
 
         // 130:170
-        for (int i = 1; i <= h; i++) {
+        for (int i = 1; i <= noCols; i++) {
             if (i == x) {
                 result.append(":  ");
             } else {
@@ -60,8 +58,8 @@ public class Amazing {
         c++;
 
         // 200
-        int r = x;
-        int s = 1;
+        int col = x;
+        int row = 1;
         int target = 270;
 
         boolean shouldContinue = true;
@@ -70,125 +68,97 @@ public class Amazing {
         while (shouldContinue) {
             switch (target) {
                 case 210:
-                    if (r != h) {
-                        r++;
-                        target = 260;
+                    if (col != noCols) {
+                        col++;
                     } else {
-                        target = 220;
+                        if (row != noRows) {
+                            col = 1;
+                            row++;
+                        } else {
+                            col = 1;
+                            row = 1;
+                        }
                     }
-                    continue;
-                case 220:
-                    if (s != v) {
-                        r = 1;
-                        s++;
-                        target = 260;
-                    } else {
-                        r = 1;
-                        s = 1;
-                        target = 260;
-                    }
+                    target = 260;
                     continue;
                 case 260:
-                    if (wArray[r][s] == 0) {
+                    if (wArray[col][row] == 0) {
                         target = 210;
                     } else {
                         target = 270;
                     }
                     continue;
                 case 270:
-                    if (r - 1 == 0) {
+                    if (col - 1 == 0) {
                         target = 600;
                     } else {
-                        target = 280;
-                    }
-                    continue;
-                case 280:
-                    if (wArray[r - 1][s] != 0) {
-                        target = 600;
-                    } else {
-                        target = 290;
-                    }
-                    continue;
-                case 290:
-                    if (s - 1 == 0) {
-                        target = 430;
-                    } else {
-                        target = 300;
-                    }
-                    continue;
-                case 300:
-                    if (wArray[r][s - 1] != 0) {
-                        target = 430;
-                    } else {
-                        target = 310;
-                    }
-                    continue;
-                case 310:
-                    if (r == h) {
-                        target = 350;
-                    } else {
-                        target = 320;
-                    }
-                    continue;
-                case 320:
-                    if (wArray[r + 1][s] != 0) {
-                        target = 350;
-                    } else {
-                        x = (int) (3 * random.nextFloat()) + 1;
-                        target = 340;
-                    }
-                    continue;
-                case 340:
-                    if (x == 1) {
-                        wArray[r - 1][s] = c;
-                        c++;
-                        vArray[r - 1][s] = 2;
-                        r--;
-                        target = 960;
-                    } else if (x == 2) {
-                        wArray[r][s - 1] = c;
-                        c++;
-                        target = 1000;
-                    } else {
-                        wArray[r + 1][s] = c;
-                        target = 1030;
+                        if (wArray[col - 1][row] != 0) {
+                            target = 600;
+                        } else {
+                            if (row - 1 == 0) {
+                                target = 430;
+                            } else {
+                                if (wArray[col][row - 1] != 0) {
+                                    target = 430;
+                                } else {
+                                    if (col == noCols) {
+                                        target = 350;
+                                    } else {
+                                        if (wArray[col + 1][row] != 0) {
+                                            target = 350;
+                                        } else {
+                                            x = rand(3);
+                                            if (x == 1) {
+                                                wArray[col - 1][row] = c;
+                                                c++;
+                                                vArray[col - 1][row] = 2;
+                                                col--;
+                                                target = 960;
+                                            } else if (x == 2) {
+                                                wArray[col][row - 1] = c;
+                                                c++;
+                                                target = 1000;
+                                            } else {
+                                                wArray[col + 1][row] = c;
+                                                target = 1030;
+                                            }
+                                        }
+                                    }
+                                }
+
+                            }
+                        }
                     }
                     continue;
                 case 350:
-                    if (s != v) {
-                        target = 380;
+                    if (row != noRows) {
+                        if (wArray[col][row + 1] != 0) {
+                            x = rand(2);
+                            target = 420;
+                        } else {
+                            x = rand(3);
+                            target = 400;
+                        }
                     } else {
-                        target = 360;
-                    }
-                    continue;
-                case 360:
-                    if (z == 1) {
-                        x = (int) (2 * random.nextFloat()) + 1;
-                        target = 420;
-                    } else {
-                        q = 1;
-                        x = (int) (3 * random.nextFloat()) + 1;
-                        target = 400;
-                    }
-                    continue;
-                case 380:
-                    if (wArray[r][s + 1] != 0) {
-                        x = (int) (2 * random.nextFloat()) + 1;
-                        target = 420;
-                    } else {
-                        x = (int) (3 * random.nextFloat()) + 1;
-                        target = 400;
+                        if (z == 1) {
+                            x = rand(2);
+                            target = 420;
+                        } else {
+                            q = 1;
+                            x = rand(3);
+                            target = 400;
+                        }
                     }
                     continue;
                 case 400:
                     if (x == 1) {
-                        wArray[r - 1][s] = c;
+                        wArray[col - 1][row] = c;
                         c++;
-                        vArray[r - 1][s] = 2;
-                        r--;
+                        vArray[col - 1][row] = 2;
+                        col--;
                         target = 960;
                     } else if (x == 2) {
-                        wArray[r][s - 1] = c;
+                        wArray[col][row - 1] = c;
                         c++;
                         target = 1000;
                     } else {
@@ -197,69 +167,54 @@ public class Amazing {
                     continue;
                 case 420:
                     if (x == 1) {
-                        wArray[r - 1][s] = c;
+                        wArray[col - 1][row] = c;
                         c++;
-                        vArray[r - 1][s] = 2;
-                        r--;
+                        vArray[col - 1][row] = 2;
+                        col--;
                         target = 960;
                     } else {
-                        wArray[r][s - 1] = c;
+                        wArray[col][row - 1] = c;
                         c++;
                         target = 1000;
                     }
                     continue;
                 case 430:
-                    if (r == h) {
+                    if (col == noCols) {
                         target = 530;
                     } else {
-                        target = 440;
-                    }
-                    continue;
-                case 440:
-                    if (wArray[r + 1][s] != 0) {
-                        target = 530;
-                    } else {
-                        target = 450;
-                    }
-                    continue;
-                case 450:
-                    if (s != v) {
-                        target = 480;
-                    } else {
-                        target = 460;
-                    }
-                    continue;
-                case 460:
-                    if (z == 1) {
-                        x = (int) (2 * random.nextFloat()) + 1;
-                        target = 520;
-                    } else {
-                        target = 470;
-                    }
-                    continue;
-                case 470:
-                    q = 1;
-                    x = (int) (3 * random.nextFloat()) + 1;
-                    target = 500;
-                    continue;
-                case 480:
-                    if (wArray[r][s + 1] != 0) {
-                        x = (int) (2 * random.nextFloat()) + 1;
-                        target = 520;
-                    } else {
-                        x = (int) (3 * random.nextFloat()) + 1;
-                        target = 500;
+                        if (wArray[col + 1][row] != 0) {
+                            target = 530;
+                        } else {
+                            if (row != noRows) {
+                                if (wArray[col][row + 1] != 0) {
+                                    x = rand(2);
+                                    target = 520;
+                                } else {
+                                    x = rand(3);
+                                    target = 500;
+                                }
+                            } else {
+                                if (z == 1) {
+                                    x = rand(2);
+                                    target = 520;
+                                } else {
+                                    q = 1;
+                                    x = rand(3);
+                                    target = 500;
+                                }
+                            }
+                        }
                     }
                     continue;
                 case 500:
                     if (x == 1) {
-                        wArray[r - 1][s] = c;
+                        wArray[col - 1][row] = c;
                         c++;
-                        vArray[r - 1][s] = 2;
-                        r--;
+                        vArray[col - 1][row] = 2;
+                        col--;
                         target = 960;
                     } else if (x == 2) {
-                        wArray[r + 1][s] = c;
+                        wArray[col + 1][row] = c;
                         target = 1030;
                     } else {
                         target = 1090;
@@ -267,120 +222,97 @@ public class Amazing {
                     continue;
                 case 520:
                     if (x == 1) {
-                        wArray[r - 1][s] = c;
+                        wArray[col - 1][row] = c;
                         c++;
-                        vArray[r - 1][s] = 2;
-                        r--;
+                        vArray[col - 1][row] = 2;
+                        col--;
                         target = 960;
                     } else {
-                        wArray[r + 1][s] = c;
+                        wArray[col + 1][row] = c;
                         target = 1030;
                     }
                     continue;
                 case 530:
-                    if (s != v) {
-                        target = 560;
+                    if (row != noRows) {
+                        if (wArray[col][row + 1] != 0) {
+                            wArray[col - 1][row] = c;
+                            c++;
+                            vArray[col - 1][row] = 2;
+                            col--;
+                            target = 960;
+                        } else {
+                            x = rand(2);
+                            target = 580;
+                        }
                     } else {
-                        target = 540;
-                    }
-                    continue;
-                case 540:
-                    if (z == 1) {
-                        wArray[r - 1][s] = c;
-                        c++;
-                        vArray[r - 1][s] = 2;
-                        r--;
-                        target = 960;
-                    } else {
-                        q = 1;
-                        x = (int) (2 * random.nextFloat()) + 1;
-                        target = 580;
-                    }
-                    continue;
-                case 560:
-                    if (wArray[r][s + 1] != 0) {
-                        wArray[r - 1][s] = c;
-                        c++;
-                        vArray[r - 1][s] = 2;
-                        r--;
-                        target = 960;
-                    } else {
-                        x = (int) (2 * random.nextFloat()) + 1;
-                        target = 580;
+                        if (z == 1) {
+                            wArray[col - 1][row] = c;
+                            c++;
+                            vArray[col - 1][row] = 2;
+                            col--;
+                            target = 960;
+                        } else {
+                            q = 1;
+                            x = rand(2);
+                            target = 580;
+                        }
                     }
                     continue;
                 case 580:
                     if (x == 1) {
-                        wArray[r - 1][s] = c;
+                        wArray[col - 1][row] = c;
                         c++;
-                        vArray[r - 1][s] = 2;
-                        r--;
+                        vArray[col - 1][row] = 2;
+                        col--;
                         target = 960;
                     } else {
                         target = 1090;
                     }
                     continue;
                 case 600:
-                    if (s - 1 == 0) {
+                    if (row - 1 == 0) {
                         target = 790;
                     } else {
-                        target = 610;
-                    }
-                    continue;
-                case 610:
-                    if (wArray[r][s - 1] != 0) {
-                        target = 790;
-                    } else {
-                        target = 620;
-                    }
-                    continue;
-                case 620:
-                    if (r == h) {
-                        target = 720;
-                    } else {
-                        target = 630;
-                    }
-                    continue;
-                case 630:
-                    if (wArray[r + 1][s] != 0) {
-                        target = 720;
-                    } else {
-                        target = 640;
-                    }
-                    continue;
-                case 640:
-                    if (s != v) {
-                        target = 670;
-                    } else {
-                        target = 650;
-                    }
-                    continue;
-                case 650:
-                    if (z == 1) {
-                        x = (int) (2 * random.nextFloat()) + 1;
-                        target = 710;
-                    } else {
-                        q = 1;
-                        x = (int) (3 * random.nextFloat()) + 1;
-                        target = 690;
-                    }
-                    continue;
-                case 670:
-                    if (wArray[r][s + 1] != 0) {
-                        x = (int) (2 * random.nextFloat()) + 1;
-                        target = 710;
-                    } else {
-                        x = (int) (3 * random.nextFloat()) + 1;
-                        target = 690;
+                        if (wArray[col][row - 1] != 0) {
+                            target = 790;
+                        } else {
+                            if (col == noCols) {
+                                target = 720;
+                            } else {
+                                if (wArray[col + 1][row] != 0) {
+                                    target = 720;
+                                } else {
+                                    if (row != noRows) {
+                                        if (wArray[col][row + 1] != 0) {
+                                            x = rand(2);
+                                            target = 710;
+                                        } else {
+                                            x = rand(3);
+                                            target = 690;
+                                        }
+                                    } else {
+                                        if (z == 1) {
+                                            x = rand(2);
+                                            target = 710;
+                                        } else {
+                                            q = 1;
+                                            x = rand(3);
+                                            target = 690;
+                                        }
+                                    }
+                                }
+                            }
+                        }
+
                     }
                     continue;
                 case 690:
                     if (x == 1) {
-                        wArray[r][s - 1] = c;
+                        wArray[col][row - 1] = c;
                         c++;
                         target = 1000;
                     } else if (x == 2) {
-                        wArray[r + 1][s] = c;
+                        wArray[col + 1][row] = c;
                         target = 1030;
                     } else {
                         target = 1090;
@@ -388,45 +320,39 @@ public class Amazing {
                     continue;
                 case 710:
                     if (x == 1) {
-                        wArray[r][s - 1] = c;
+                        wArray[col][row - 1] = c;
                         c++;
                         target = 1000;
                     } else {
-                        wArray[r + 1][s] = c;
+                        wArray[col + 1][row] = c;
                         target = 1030;
                     }
                     continue;
                 case 720:
-                    if (s != v) {
-                        target = 750;
+                    if (row != noRows) {
+                        if (wArray[col][row + 1] != 0) {
+                            wArray[col][row - 1] = c;
+                            c++;
+                            target = 1000;
+                        } else {
+                            x = rand(2);
+                            target = 770;
+                        }
                     } else {
-                        target = 730;
-                    }
-                    continue;
-                case 730:
-                    if (z == 1) {
-                        wArray[r][s - 1] = c;
-                        c++;
-                        target = 1000;
-                    } else {
-                        q = 1;
-                        x = (int) (2 * random.nextFloat()) + 1;
-                        target = 770;
-                    }
-                    continue;
-                case 750:
-                    if (wArray[r][s + 1] != 0) {
-                        wArray[r][s - 1] = c;
-                        c++;
-                        target = 1000;
-                    } else {
-                        x = (int) (2 * random.nextFloat()) + 1;
-                        target = 770;
+                        if (z == 1) {
+                            wArray[col][row - 1] = c;
+                            c++;
+                            target = 1000;
+                        } else {
+                            q = 1;
+                            x = rand(2);
+                            target = 770;
+                        }
                     }
                     continue;
                 case 770:
                     if (x == 1) {
-                        wArray[r][s - 1] = c;
+                        wArray[col][row - 1] = c;
                         c++;
                         target = 1000;
                     } else {
@@ -434,44 +360,41 @@ public class Amazing {
                     }
                     continue;
                 case 790:
-                    if (r == h) {
+                    if (col == noCols) {
                         target = 880;
                     } else {
-                        target = 800;
-                    }
-                    continue;
-                case 800:
-                    if (wArray[r + 1][s] != 0) {
-                        target = 880;
-                    } else {
-                        if (s != v) {
-                            if (wArray[r][s + 1] != 0) {
-                                wArray[r + 1][s] = c;
-                                target = 1030;
-                            } else {
-                                x = (int) (2 * random.nextFloat()) + 1;
-                                if (x == 1) {
-                                    wArray[r + 1][s] = c;
+                        if (wArray[col + 1][row] != 0) {
+                            target = 880;
+                        } else {
+                            if (row != noRows) {
+                                if (wArray[col][row + 1] != 0) {
+                                    wArray[col + 1][row] = c;
                                     target = 1030;
                                 } else {
-                                    target = 1090;
+                                    x = rand(2);
+                                    if (x == 1) {
+                                        wArray[col + 1][row] = c;
+                                        target = 1030;
+                                    } else {
+                                        target = 1090;
+                                    }
                                 }
-                            }
-                        } else {
-                            if (z == 1) {
-                                wArray[r + 1][s] = c;
-                                target = 1030;
                             } else {
-                                q = 1;
-                                c++;
-                                target = 1000;
+                                if (z == 1) {
+                                    wArray[col + 1][row] = c;
+                                    target = 1030;
+                                } else {
+                                    q = 1;
+                                    c++;
+                                    target = 1000;
+                                }
                             }
                         }
                     }
                     continue;
                 case 880:
-                    if (s != v) {
-                        if (wArray[r][s + 1] != 0) {
+                    if (row != noRows) {
+                        if (wArray[col][row + 1] != 0) {
                             target = 210;
                         } else {
                             target = 1090;
@@ -486,7 +409,7 @@ public class Amazing {
                     }
                     continue;
                 case 960:
-                    if (c == h * v + 1) {
+                    if (c == noCols * noRows + 1) {
                         shouldContinue = false;
                     } else {
                         q = 0;
@@ -495,9 +418,9 @@ public class Amazing {
                     }
                     continue;
                 case 1000:
-                    vArray[r][s - 1] = 1;
-                    s--;
-                    if (c == h * v + 1) {
+                    vArray[col][row - 1] = 1;
+                    row--;
+                    if (c == noCols * noRows + 1) {
                         shouldContinue = false;
                     } else {
                         q = 0;
@@ -506,13 +429,13 @@ public class Amazing {
                     continue;
                 case 1030:
                     c++;
-                    if (vArray[r][s] == 0) {
-                        vArray[r][s] = 2;
+                    if (vArray[col][row] == 0) {
+                        vArray[col][row] = 2;
                     } else {
-                        vArray[r][s] = 3;
+                        vArray[col][row] = 3;
                     }
-                    r++;
-                    if (c == h * v + 1) {
+                    col++;
+                    if (c == noCols * noRows + 1) {
                         shouldContinue = false;
                     } else {
                         target = 600;
@@ -521,27 +444,27 @@ public class Amazing {
                 case 1090:
                     if (q == 1) {
                         z = 1;
-                        if (vArray[r][s] == 0) {
-                            vArray[r][s] = 1;
+                        if (vArray[col][row] == 0) {
+                            vArray[col][row] = 1;
                             q = 0;
-                            r = 1;
-                            s = 1;
+                            col = 1;
+                            row = 1;
                             target = 260;
                         } else {
-                            vArray[r][s] = 3;
+                            vArray[col][row] = 3;
                             q = 0;
                             target = 210;
                         }
                     } else {
-                        wArray[r][s + 1] = c;
+                        wArray[col][row + 1] = c;
                         c++;
-                        if (vArray[r][s] == 0) {
-                            vArray[r][s] = 1;
+                        if (vArray[col][row] == 0) {
+                            vArray[col][row] = 1;
                         } else {
-                            vArray[r][s] = 3;
+                            vArray[col][row] = 3;
                         }
-                        s++;
-                        if (c == v * h + 1) {
+                        row++;
+                        if (c == noRows * noCols + 1) {
                             shouldContinue = false;
                         } else {
                             target = 270;
@@ -555,10 +478,10 @@ public class Amazing {
         }
 
         // 1200:
-        for (int j = 1; j <= v; j++) {
+        for (int j = 1; j <= noRows; j++) {
             result.append("I");
 
-            for (int i = 1; i <= h; i++) {
+            for (int i = 1; i <= noCols; i++) {
                 if (vArray[i][j] >= 2) {
                     result.append("   ");
                 } else {
@@ -569,7 +492,7 @@ public class Amazing {
             result.append(" ");
             result.append("\n");
 
-            for (int i = 1; i <= h; i++) {
+            for (int i = 1; i <= noCols; i++) {
                 if (vArray[i][j] == 0) {
                     result.append(":--");
                 } else if (vArray[i][j] == 2) {
@@ -584,5 +507,9 @@ public class Amazing {
         }
 
         return result.toString();
+    }
+
+    private int rand(int noCols) {
+        return (int) (noCols * random.nextFloat()) + 1;
     }
 }
