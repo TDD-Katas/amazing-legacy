@@ -62,6 +62,8 @@ public class Amazing {
         int target = 270;
 
         boolean shouldContinue = true;
+
+
         while (shouldContinue) {
             switch (target) {
                 case 210:
@@ -252,7 +254,7 @@ public class Amazing {
                     continue;
                 case 540:
                     if (z == 1)
-                        target = 590;
+                        target = 940;
                     else
                         target = 550;
                     continue;
@@ -262,7 +264,7 @@ public class Amazing {
                     continue;
                 case 560:
                     if (wArray[r][s + 1] != 0)
-                        target = 590;
+                        target = 940;
                     else
                         target = 570;
                     continue;
@@ -275,9 +277,6 @@ public class Amazing {
                         target = 940;
                     else
                         target = 1090;
-                    continue;
-                case 590:
-                    target = 940;
                     continue;
                 case 600:
                     if (s - 1 == 0)
@@ -355,7 +354,7 @@ public class Amazing {
                     continue;
                 case 730:
                     if (z == 1)
-                        target = 780;
+                        target = 980;
                     else
                         target = 740;
                     continue;
@@ -365,7 +364,7 @@ public class Amazing {
                     continue;
                 case 750:
                     if (wArray[r][s + 1] != 0)
-                        target = 780;
+                        target = 980;
                     else
                         target = 760;
                     continue;
@@ -378,9 +377,6 @@ public class Amazing {
                         target = 980;
                     else
                         target = 1090;
-                    continue;
-                case 780:
-                    target = 980;
                     continue;
                 case 790:
                     if (r == h)
@@ -402,7 +398,7 @@ public class Amazing {
                     continue;
                 case 820:
                     if (z == 1)
-                        target = 870;
+                        target = 1020;
                     else
                         target = 830;
                     continue;
@@ -412,7 +408,7 @@ public class Amazing {
                     continue;
                 case 840:
                     if (wArray[r][s + 1] != 0)
-                        target = 870;
+                        target = 1020;
                     else
                         target = 850;
                     continue;
@@ -426,9 +422,6 @@ public class Amazing {
                     else
                         target = 1090;
                     continue;
-                case 870:
-                    target = 1020;
-                    continue;
                 case 880:
                     if (s != v)
                         target = 910;
@@ -437,25 +430,19 @@ public class Amazing {
                     continue;
                 case 890:
                     if (z == 1)
-                        target = 930;
+                        target = 210;
                     else
                         target = 900;
                     continue;
                 case 900:
                     q = 1;
-                    target = 920;
+                    target = 1090;
                     continue;
                 case 910:
                     if (wArray[r][s + 1] != 0)
-                        target = 930;
+                        target = 210;
                     else
-                        target = 920;
-                    continue;
-                case 920:
-                    target = 1090;
-                    continue;
-                case 930:
-                    target = 210;
+                        target = 1090;
                     continue;
                 case 940:
                     wArray[r - 1][s] = c;
@@ -490,12 +477,10 @@ public class Amazing {
                     s--;
                     if (c == h * v + 1)
                         shouldContinue = false;
-                    else
-                        target = 1010;
-                    continue;
-                case 1010:
-                    q = 0;
-                    target = 270;
+                    else {
+                        q = 0;
+                        target = 270;
+                    }
                     continue;
                 case 1020:
                     wArray[r + 1][s] = c;
