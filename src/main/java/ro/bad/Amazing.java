@@ -6,6 +6,7 @@ package ro.bad; /**
  * as a refactoring challenge.
  * + This transliteration to Java was created by Bill Wake, William.Wake@acm.org
  */
+
 import java.util.Random;
 
 public class Amazing {
@@ -13,36 +14,16 @@ public class Amazing {
     private Random random;
     private StringBuffer result;
 
-    public Amazing(int seed){
+    public Amazing(int seed) {
         random = new Random(seed);
         target = 0;
         result = new StringBuffer();
     }
 
-    private void clear() {
-        result.setLength(0);
-    }
-
-    private void println() {
-        result.append("\n");
-    }
-
-    public void print(String text) {
-        result.append(text);
-    }
-
-    public int rnd(int count) {
-        return (int) (count * random.nextFloat()) + 1;
-    }
-
-    public void GOTO(int lineno) {
-        target = lineno;
-    }
-
     public String doit(int horizontal, int vertical) {
-        clear();
-        print("Amazing - Copyright by Creative Computing, Morristown, NJ");
-        println();
+        result.setLength(0);
+        result.append("Amazing - Copyright by Creative Computing, Morristown, NJ");
+        result.append("\n");
 
         int h = horizontal;
         int v = vertical;
@@ -60,18 +41,18 @@ public class Amazing {
 
         int q = 0;
         int z = 0;
-        int x = rnd(h);
+        int x = (int) (h * random.nextFloat()) + 1;
 
         // 130:170
         for (int i = 1; i <= h; i++) {
             if (i == x)
-                print(":  ");
+                result.append(":  ");
             else
-                print(":--");
+                result.append(":--");
         }
         // 180
-        print(":");
-        println();
+        result.append(":");
+        result.append("\n");
 
         // 190
         int c = 1;
@@ -81,531 +62,531 @@ public class Amazing {
         // 200
         int r = x;
         int s = 1;
-        GOTO(270);
+        target = 270;
 
         while (target != -1) {
             switch (target) {
                 case 210:
                     if (r != h)
-                        GOTO(250);
+                        target = 250;
                     else
-                        GOTO(220);
+                        target = 220;
                     continue;
                 case 220:
                     if (s != v)
-                        GOTO(240);
+                        target = 240;
                     else
-                        GOTO(230);
+                        target = 230;
                     continue;
                 case 230:
                     r = 1;
                     s = 1;
-                    GOTO(260);
+                    target = 260;
                     continue;
                 case 240:
                     r = 1;
                     s++;
-                    GOTO(260);
+                    target = 260;
                     continue;
                 case 250:
                     r++;
-                    GOTO(260);
+                    target = 260;
                     continue;
                 case 260:
                     if (wArray[r][s] == 0)
-                        GOTO(210);
+                        target = 210;
                     else
-                        GOTO(270);
+                        target = 270;
                     continue;
                 case 270:
                     if (r - 1 == 0)
-                        GOTO(600);
+                        target = 600;
                     else
-                        GOTO(280);
+                        target = 280;
                     continue;
                 case 280:
                     if (wArray[r - 1][s] != 0)
-                        GOTO(600);
+                        target = 600;
                     else
-                        GOTO(290);
+                        target = 290;
                     continue;
                 case 290:
                     if (s - 1 == 0)
-                        GOTO(430);
+                        target = 430;
                     else
-                        GOTO(300);
+                        target = 300;
                     continue;
                 case 300:
                     if (wArray[r][s - 1] != 0)
-                        GOTO(430);
+                        target = 430;
                     else
-                        GOTO(310);
+                        target = 310;
                     continue;
                 case 310:
                     if (r == h)
-                        GOTO(350);
+                        target = 350;
                     else
-                        GOTO(320);
+                        target = 320;
                     continue;
                 case 320:
                     if (wArray[r + 1][s] != 0)
-                        GOTO(350);
+                        target = 350;
                     else
-                        GOTO(330);
+                        target = 330;
                     continue;
                 case 330:
-                    x = rnd(3);
-                    GOTO(340);
+                    x = (int) (3 * random.nextFloat()) + 1;
+                    target = 340;
                     continue;
                 case 340:
                     if (x == 1)
-                        GOTO(940);
+                        target = 940;
                     else if (x == 2)
-                        GOTO(980);
+                        target = 980;
                     else
-                        GOTO(1020);
+                        target = 1020;
                     continue;
                 case 350:
                     if (s != v)
-                        GOTO(380);
+                        target = 380;
                     else
-                        GOTO(360);
+                        target = 360;
                     continue;
                 case 360:
                     if (z == 1)
-                        GOTO(410);
+                        target = 410;
                     else
-                        GOTO(370);
+                        target = 370;
                     continue;
                 case 370:
                     q = 1;
-                    GOTO(390);
+                    target = 390;
                     continue;
                 case 380:
                     if (wArray[r][s + 1] != 0)
-                        GOTO(410);
+                        target = 410;
                     else
-                        GOTO(390);
+                        target = 390;
                     continue;
                 case 390:
-                    x = rnd(3);
-                    GOTO(400);
+                    x = (int) (3 * random.nextFloat()) + 1;
+                    target = 400;
                     continue;
                 case 400:
                     if (x == 1)
-                        GOTO(940);
+                        target = 940;
                     else if (x == 2)
-                        GOTO(980);
+                        target = 980;
                     else
-                        GOTO(1090);
+                        target = 1090;
                     continue;
                 case 410:
-                    x = rnd(2);
-                    GOTO(420);
+                    x = (int) (2 * random.nextFloat()) + 1;
+                    target = 420;
                     continue;
                 case 420:
                     if (x == 1)
-                        GOTO(940);
+                        target = 940;
                     else
-                        GOTO(980);
+                        target = 980;
                     continue;
                 case 430:
                     if (r == h)
-                        GOTO(530);
+                        target = 530;
                     else
-                        GOTO(440);
+                        target = 440;
                     continue;
                 case 440:
                     if (wArray[r + 1][s] != 0)
-                        GOTO(530);
+                        target = 530;
                     else
-                        GOTO(450);
+                        target = 450;
                     continue;
                 case 450:
                     if (s != v)
-                        GOTO(480);
+                        target = 480;
                     else
-                        GOTO(460);
+                        target = 460;
                     continue;
                 case 460:
                     if (z == 1)
-                        GOTO(510);
+                        target = 510;
                     else
-                        GOTO(470);
+                        target = 470;
                     continue;
                 case 470:
                     q = 1;
-                    GOTO(490);
+                    target = 490;
                     continue;
                 case 480:
                     if (wArray[r][s + 1] != 0)
-                        GOTO(510);
+                        target = 510;
                     else
-                        GOTO(490);
+                        target = 490;
                     continue;
                 case 490:
-                    x = rnd(3);
-                    GOTO(500);
+                    x = (int) (3 * random.nextFloat()) + 1;
+                    target = 500;
                     continue;
                 case 500:
                     if (x == 1)
-                        GOTO(940);
+                        target = 940;
                     else if (x == 2)
-                        GOTO(1020);
+                        target = 1020;
                     else
-                        GOTO(1090);
+                        target = 1090;
                     continue;
                 case 510:
-                    x = rnd(2);
-                    GOTO(520);
+                    x = (int) (2 * random.nextFloat()) + 1;
+                    target = 520;
                     continue;
                 case 520:
                     if (x == 1)
-                        GOTO(940);
+                        target = 940;
                     else
-                        GOTO(1020);
+                        target = 1020;
                     continue;
                 case 530:
                     if (s != v)
-                        GOTO(560);
+                        target = 560;
                     else
-                        GOTO(540);
+                        target = 540;
                     continue;
                 case 540:
                     if (z == 1)
-                        GOTO(590);
+                        target = 590;
                     else
-                        GOTO(550);
+                        target = 550;
                     continue;
                 case 550:
                     q = 1;
-                    GOTO(570);
+                    target = 570;
                     continue;
                 case 560:
                     if (wArray[r][s + 1] != 0)
-                        GOTO(590);
+                        target = 590;
                     else
-                        GOTO(570);
+                        target = 570;
                     continue;
                 case 570:
-                    x = rnd(2);
-                    GOTO(580);
+                    x = (int) (2 * random.nextFloat()) + 1;
+                    target = 580;
                     continue;
                 case 580:
                     if (x == 1)
-                        GOTO(940);
+                        target = 940;
                     else
-                        GOTO(1090);
+                        target = 1090;
                     continue;
                 case 590:
-                    GOTO(940);
+                    target = 940;
                     continue;
                 case 600:
                     if (s - 1 == 0)
-                        GOTO(790);
+                        target = 790;
                     else
-                        GOTO(610);
+                        target = 610;
                     continue;
                 case 610:
                     if (wArray[r][s - 1] != 0)
-                        GOTO(790);
+                        target = 790;
                     else
-                        GOTO(620);
+                        target = 620;
                     continue;
                 case 620:
                     if (r == h)
-                        GOTO(720);
+                        target = 720;
                     else
-                        GOTO(630);
+                        target = 630;
                     continue;
                 case 630:
                     if (wArray[r + 1][s] != 0)
-                        GOTO(720);
+                        target = 720;
                     else
-                        GOTO(640);
+                        target = 640;
                     continue;
                 case 640:
                     if (s != v)
-                        GOTO(670);
+                        target = 670;
                     else
-                        GOTO(650);
+                        target = 650;
                     continue;
                 case 650:
                     if (z == 1)
-                        GOTO(700);
+                        target = 700;
                     else
-                        GOTO(660);
+                        target = 660;
                     continue;
                 case 660:
                     q = 1;
-                    GOTO(680);
+                    target = 680;
                     continue;
                 case 670:
                     if (wArray[r][s + 1] != 0)
-                        GOTO(700);
+                        target = 700;
                     else
-                        GOTO(680);
+                        target = 680;
                     continue;
                 case 680:
-                    x = rnd(3);
-                    GOTO(690);
+                    x = (int) (3 * random.nextFloat()) + 1;
+                    target = 690;
                     continue;
                 case 690:
                     if (x == 1)
-                        GOTO(980);
+                        target = 980;
                     else if (x == 2)
-                        GOTO(1020);
+                        target = 1020;
                     else
-                        GOTO(1090);
+                        target = 1090;
                     continue;
                 case 700:
-                    x = rnd(2);
-                    GOTO(710);
+                    x = (int) (2 * random.nextFloat()) + 1;
+                    target = 710;
                     continue;
                 case 710:
                     if (x == 1)
-                        GOTO(980);
+                        target = 980;
                     else
-                        GOTO(1020);
+                        target = 1020;
                     continue;
                 case 720:
                     if (s != v)
-                        GOTO(750);
+                        target = 750;
                     else
-                        GOTO(730);
+                        target = 730;
                     continue;
                 case 730:
                     if (z == 1)
-                        GOTO(780);
+                        target = 780;
                     else
-                        GOTO(740);
+                        target = 740;
                     continue;
                 case 740:
                     q = 1;
-                    GOTO(760);
+                    target = 760;
                     continue;
                 case 750:
                     if (wArray[r][s + 1] != 0)
-                        GOTO(780);
+                        target = 780;
                     else
-                        GOTO(760);
+                        target = 760;
                     continue;
                 case 760:
-                    x = rnd(2);
-                    GOTO(770);
+                    x = (int) (2 * random.nextFloat()) + 1;
+                    target = 770;
                     continue;
                 case 770:
                     if (x == 1)
-                        GOTO(980);
+                        target = 980;
                     else
-                        GOTO(1090);
+                        target = 1090;
                     continue;
                 case 780:
-                    GOTO(980);
+                    target = 980;
                     continue;
                 case 790:
                     if (r == h)
-                        GOTO(880);
+                        target = 880;
                     else
-                        GOTO(800);
+                        target = 800;
                     continue;
                 case 800:
                     if (wArray[r + 1][s] != 0)
-                        GOTO(880);
+                        target = 880;
                     else
-                        GOTO(810);
+                        target = 810;
                     continue;
                 case 810:
                     if (s != v)
-                        GOTO(840);
+                        target = 840;
                     else
-                        GOTO(820);
+                        target = 820;
                     continue;
                 case 820:
                     if (z == 1)
-                        GOTO(870);
+                        target = 870;
                     else
-                        GOTO(830);
+                        target = 830;
                     continue;
                 case 830:
                     q = 1;
-                    GOTO(990);
+                    target = 990;
                     continue;
                 case 840:
                     if (wArray[r][s + 1] != 0)
-                        GOTO(870);
+                        target = 870;
                     else
-                        GOTO(850);
+                        target = 850;
                     continue;
                 case 850:
-                    x = rnd(2);
-                    GOTO(860);
+                    x = (int) (2 * random.nextFloat()) + 1;
+                    target = 860;
                     continue;
                 case 860:
                     if (x == 1)
-                        GOTO(1020);
+                        target = 1020;
                     else
-                        GOTO(1090);
+                        target = 1090;
                     continue;
                 case 870:
-                    GOTO(1020);
+                    target = 1020;
                     continue;
                 case 880:
                     if (s != v)
-                        GOTO(910);
+                        target = 910;
                     else
-                        GOTO(890);
+                        target = 890;
                     continue;
                 case 890:
                     if (z == 1)
-                        GOTO(930);
+                        target = 930;
                     else
-                        GOTO(900);
+                        target = 900;
                     continue;
                 case 900:
                     q = 1;
-                    GOTO(920);
+                    target = 920;
                     continue;
                 case 910:
                     if (wArray[r][s + 1] != 0)
-                        GOTO(930);
+                        target = 930;
                     else
-                        GOTO(920);
+                        target = 920;
                     continue;
                 case 920:
-                    GOTO(1090);
+                    target = 1090;
                     continue;
                 case 930:
-                    GOTO(1190);
+                    target = 1190;
                     continue;
                 case 940:
                     wArray[r - 1][s] = c;
-                    GOTO(950);
+                    target = 950;
                     continue;
                 case 950:
                     c++;
                     vArray[r - 1][s] = 2;
                     r--;
-                    GOTO(960);
+                    target = 960;
                     continue;
                 case 960:
                     if (c == h * v + 1)
-                        GOTO(1200);
+                        target = 1200;
                     else
-                        GOTO(970);
+                        target = 970;
                     continue;
                 case 970:
                     q = 0;
-                    GOTO(270);
+                    target = 270;
                     continue;
                 case 980:
                     wArray[r][s - 1] = c;
-                    GOTO(990);
+                    target = 990;
                     continue;
                 case 990:
                     c++;
-                    GOTO(1000);
+                    target = 1000;
                     continue;
                 case 1000:
                     vArray[r][s - 1] = 1;
                     s--;
                     if (c == h * v + 1)
-                        GOTO(1200);
+                        target = 1200;
                     else
-                        GOTO(1010);
+                        target = 1010;
                     continue;
                 case 1010:
                     q = 0;
-                    GOTO(270);
+                    target = 270;
                     continue;
                 case 1020:
                     wArray[r + 1][s] = c;
-                    GOTO(1030);
+                    target = 1030;
                     continue;
                 case 1030:
                     c++;
                     if (vArray[r][s] == 0)
-                        GOTO(1050);
+                        target = 1050;
                     else
-                        GOTO(1040);
+                        target = 1040;
                     continue;
                 case 1040:
                     vArray[r][s] = 3;
-                    GOTO(1060);
+                    target = 1060;
                     continue;
                 case 1050:
                     vArray[r][s] = 2;
-                    GOTO(1060);
+                    target = 1060;
                     continue;
                 case 1060:
                     r++;
-                    GOTO(1070);
+                    target = 1070;
                     continue;
                 case 1070:
                     if (c == h * v + 1)
-                        GOTO(1200);
+                        target = 1200;
                     else
-                        GOTO(1080);
+                        target = 1080;
                     continue;
                 case 1080:
-                    GOTO(600);
+                    target = 600;
                     continue;
                 case 1090:
                     if (q == 1)
-                        GOTO(1150);
+                        target = 1150;
                     else
-                        GOTO(1100);
+                        target = 1100;
                     continue;
                 case 1100:
                     wArray[r][s + 1] = c;
                     c++;
                     if (vArray[r][s] == 0)
-                        GOTO(1120);
+                        target = 1120;
                     else
-                        GOTO(1110);
+                        target = 1110;
                     continue;
                 case 1110:
                     vArray[r][s] = 3;
-                    GOTO(1130);
+                    target = 1130;
                     continue;
                 case 1120:
                     vArray[r][s] = 1;
-                    GOTO(1130);
+                    target = 1130;
                     continue;
                 case 1130:
                     s++;
                     if (c == v * h + 1)
-                        GOTO(1200);
+                        target = 1200;
                     else
-                        GOTO(1140);
+                        target = 1140;
                     continue;
                 case 1140:
-                    GOTO(270);
+                    target = 270;
                     continue;
                 case 1150:
                     z = 1;
-                    GOTO(1160);
+                    target = 1160;
                     continue;
                 case 1160:
                     if (vArray[r][s] == 0)
-                        GOTO(1180);
+                        target = 1180;
                     else
-                        GOTO(1170);
+                        target = 1170;
                     continue;
                 case 1170:
                     vArray[r][s] = 3;
                     q = 0;
-                    GOTO(1190);
+                    target = 1190;
                     continue;
                 case 1180:
                     vArray[r][s] = 1;
                     q = 0;
                     r = 1;
                     s = 1;
-                    GOTO(260);
+                    target = 260;
                     continue;
                 case 1190:
-                    GOTO(210);
+                    target = 210;
                     continue;
                 case 1200:
                     target = -1;
@@ -616,29 +597,29 @@ public class Amazing {
 
         // 1200:
         for (int j = 1; j <= v; j++) {
-            print("I");        // 1210
+            result.append("I");
 
             for (int i = 1; i <= h; i++) {
                 if (vArray[i][j] >= 2)
-                    print("   ");  // 1240
+                    result.append("   ");
                 else
-                    print("  I");  // 1260
+                    result.append("  I");
             }
 
-            print(" ");   // 1280
-            println();
+            result.append(" ");
+            result.append("\n");
 
             for (int i = 1; i <= h; i++) {
                 if (vArray[i][j] == 0)
-                    print(":--");   // 1300, 1340
+                    result.append(":--");
                 else if (vArray[i][j] == 2)
-                    print(":--");  // 1310, 1340
+                    result.append(":--");
                 else
-                    print(":  "); // 1320
+                    result.append(":  ");
             }
 
-            print(":");    // 1360
-            println();
+            result.append(":");
+            result.append("\n");
         }
 
         return result.toString();

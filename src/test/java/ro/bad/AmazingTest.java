@@ -81,6 +81,11 @@ public class AmazingTest {
 
     }
 
+//  1. Functie pura ?
+//  2. Functie apelata in mai multe locuri ?
+//  3. Functie cu scop clar ?
+
+
     @Test
     public void test_lockdown() throws Exception {
         LegacyApprovals.LockDown(this, "generateMaze",
