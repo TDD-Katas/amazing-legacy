@@ -1,10 +1,14 @@
-package ro.bad; /**
+package ro.bad;
+
+/**
  * + The original program is by Jack Hauber, and the source is
  * "Basic Computer Games." Used with permission of David Ahl;
  * see www.SwapMeetDave.com.
  * + This exercise was inspired by Alan Hensel's use of Amazing
  * as a refactoring challenge.
  * + This transliteration to Java was created by Bill Wake, William.Wake@acm.org
+ *
+ * http://xp123.com/articles/refactoring-challenge-the-amazing-maze/
  */
 
 import java.util.Random;
@@ -492,6 +496,10 @@ public class Amazing {
             result.append(" ");
             result.append("\n");
 
+            // 0 = HAS_ROW_AND_COL
+            // 1 = HAS_COL
+            // 2 = HAS_ROW
+            // 3 = EMPTY
             for (int i = 1; i <= noCols; i++) {
                 if (vArray[i][j] == 0) {
                     result.append(":--");
